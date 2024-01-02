@@ -1,0 +1,96 @@
+Ethereum's Dencun upgrade set for launch in 2024Ethereum [ETH] developers intensify testing for the upcoming Dencun upgrade, a significant milestone anticipated next year, introducing increased data storage capacity through the implementation of a process termed “proto-danksharding.”
+
+In a biweekly call on 21st December, developers revealed their target date of 17th January for the Goerli test network to undergo the Dencun upgrade, to enhance layer 2 rollup efficiency and expand blockchain scalability.WARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*
+I originally thought that danksharding might be the most memey term in crypto but its actually not. TIL. The name comes from the two researchers who proposed the idea: Protolambda and Dankrad Feist.
+
+I think it might have been better if they called it proto-feist sharding, though.
+Awesome! Feels like it's been a long time coming, but it'll be very interesting to see how the new blob markets are utilized.
+Can't wait for rollup transactions to be super cheap like it was 2016 again
+What happened to goerli being deprecated and shut down? Or is that still planned for after the upgrade?
+Wallet recommendations and storing private keysHey! I haven't followed the latest development in crypto. I used to log in to MyEtherWallet using my private key to send ETH/tokens, which I know is not the most secure way to access my ETH and tokens. 
+
+1. What are the current best practices?
+2. What's the recommended local/web wallet and ways of accessing them? Wiki on this subreddit seems to be locked.
+3. Where do you store your private keys except pen & paper? Do you feel comfortable storing them in password managers like 1Password/Bitwarden?
+
+Thanks!WARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*
+2. You are going to get a whole bunch of wallet recommendations, many without any justification, so how are you going to choose. YouTube will be more helpful
+
+3. No, never. This is one where you will get universal agreement. Never store keys or seeds electronically.
+Thanks! What are you using and why?
+I use Metamask (desktop), TrustWallet (mobile). Also crypto.com defi wallet sometimes (because it is my exchange of choice).
+
+I have also been hearing good things about Rabby.
+Also, HW and/or open source wallets are generally recommended.
+Both MM and Trust are open source.
+Thanks for the recommendations! On desktop, are you using MetaMask extension with apps like MEW?
+Should I trade my BETH for WBETH?So I log into Binance from time to time. Apparently last time I logged, many months ago, I held BETH on my spot account to get some rewards. I checked now and I'm still getting these rewards. However, there's a new option to do staking via WBETH, which I don't know if it's better, worse, the same... but unlike BETH, it doesn't have a 1:1 swap with ETH, so I don't really know what to do.
+
+I have no intention to move my ETH from Binance as of now, but would like to have the option if I ever want to. So I guess the best option in the meantime should be use my ETHs for staking, right?
+
+Anyway, please shed some light on me :) Thank you!WARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*
+No reason to wrap your BETH into WBETH if you aren't going to move it off the exchange. No DEFI opportunities for WBETH that im aware of either.
+Ok thank you! :)
+You should sell it and buy sol
+Keep giving a bunch of VCs your money to rugpull on you
+You should trade it for ETH.
+But then I won't receive the automatic rewards, right?
+Currently it looks like they are giving me some money
+
+I bought after the rug had been pulled
+Sure, but the entire markets overextended on the monthly and we're headed into the new year. All I'm saying is SOL could very easily head back to $8.
+Same goes for eth
+
+Down vote all you want
+
+I am feeding on the hatred
+Trezor wallet USDT Trc Tron option, I regret buying this wallet now 
+
+How I can trasnfer my USDT trc tokens to my wallet? I do not want to use any other coins that can go up and down I want to say with USDT, how I can make this happen
+
+ WARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*
+Yeah, having your portfolio value go up would *suuuuuuck*
+Trezor does not support Tron Network. 
+
+Are you asking here because you want to convert TRC20 to ERC20?
+
+I would use a Centralized Exchange like Coinbase or Binance for that. But I'm not sure they support Tron. You would need to check that when you deposit the tokens. You would not need to swap tokens, just transfer USDT in and out. 
+
+If you want to go "decentralized" you need to look for a bridge and DYOR. However there are many scam bridges out there and which networks are supported is not always clear. Never approve a high amount before you test on those bridges. Better swap idk 10 USDT to USDC, approve the USDC - bridge - and test if the bride works correctly. Only then approve a larger amount.
+I have my crypto as USDT trc20 on binance and coinbase, I wanted to move them to my new wallet, but trezor do not have the USDT trc20 option
+Bridge your usdt to the ethereum network
+He ain’t got tron to pay the gas fee😂 because it goes up and down
+Bridge it to the ethereum network.
+Can you explain mate? thank you
+Wahhh
+Is there a reason y u bought it in the first place?
+USDT exists on several networks including Ethereum. Different from Eth it’s native coin. USDT as TRC20 is to Tron as USDT as ERC20 is to Ethereum. Both maintain their peg in same way accept they live on their respected networks.
+That makes no sense. If you have USDT on binance/coinbase it's not a TRC20. It's just USDT nobody knows how they store it.
+
+Why do you think it's TRC20?
+I think I misunderstood how this works? I thought USDT is not as same as Ethereum?  
+
+
+If I save my tokens as USDT they will stay stable but if I saved them as ethereum they might go up and down, isn't that right?
+Coinbase does not support Tron for obvious reasons. They are ERC20 tokens native to ethereum network. Those you have on Coinbase exchange should be transferable to your trezor. Any USDT you have as trc-20 will need to be bridged to ethereum network before sending to trezor.
+I think i know now why you are so confused. The term "Ethereum" refers to a Token (going up and down - but to be precise the token of ethereum is called "Ether" ) and a Blockchain where other tokens (ERC20 token like USDT) are hosted. Ethereum is (one of) the infrastructure of USDT so to say.
+
+So you can send USDT over the Ethereum Blockchain without swapping to Ether (token) in the process. you need ether as gas money to pay for the transaction, in case of Coinbase to Trezor Coinbase will just deduct the gas money from your final amount you receive. Note that you will need some ether to move the USDT from your Trezor whenever you want to do that in the future. Gas fees can be quite high up depending on the Usecase and time of day about 20-80 USD.
+1. You don't "save token as", you trade/exchange/swap (all the same thing) from Token A to token B
+2. Yes USDT is a stablecoin with a value of 1 USDT = 1 USD. However it's not guaranteed that Stablecoins are always stable, there have been other Stablecoins in the past losing their peg (=get lower than 1 USD)
+
+If you have the usdt on coinbase/binance you can just transfer them to your Trezor by using withdraw/send function on coinbase or Binance.
+
+** HOWEVER DO A TEST TRANSACTION BEFORE YOU SEND THE WHOLE AMOUNT. TRY IT OUT WITH 1 USDT IF IT WORKS AND IF YOU SEE THE 1USDT IN YOUR TREZOR AFTER SENDING IT. **

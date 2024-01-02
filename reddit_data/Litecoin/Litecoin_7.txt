@@ -1,0 +1,54 @@
+Litecoin SDKHi,
+
+Guys, can you help me to find a Litecoin SDK? Does he even exist? Where I can find a documentation or a specification which is used by Litecoin development team? Of course it should be solid specification with the explanations/examples for the programmers.
+
+I am aware, that exists open-source code written in C++. But I need a specification to use Litecoin API or SDK.
+
+Thanks.For an API to connect with your Litecoin node you can use something like [this](https://www.npmjs.com/package/rpc-bitcoin). You just need to change the port to 19932.
+What language are you using? There's two different options, either you can:
+
+1. Choose to interface with the [Litecoin Core RPC](https://developer.bitcoin.org/reference/rpc/), for which there are some client libraries you can use.
+2. If you need to do more custom stuff you can use different libraries like bitcoinjs, the [ltcsuite in golang](https://github.com/ltcsuite) etc.
+What kind of custom things can you do with ltcsuite that you cant do with core rpc?
+ltcsuite and other libs allow you to construct transactions from scratch. E.g. ou can add OP_RETURN data which is not possible through rpc unless you use external software to construct a raw tx, but in this case you can use ltcsuite to actually handle the tx build process. There's a lot of things which can be really useful when working on litecoin apps, and RPC has a lot of missing features.
+Wrong WslletI know this is a Longshot I accidentally sent Litecoin using my Bitcoin address and it accepted. Is my money lost. I think I know the answer but curious if there was a look up tool to try and contact an owner. Oh well worth a shot. I know I should have confirmed.try verify your ltc prv key to bitcoin wallet. back in 2016 i send bitcoin to sha-256 coin. coin name was unb, so i download unb client, verify my bitcoin private key and i claimed my coins.
+I am in a different situation. I cashed out funds and mistakenly selected litecoin and used bitcoin address that was generated from Coinbase exchange
+If you contact Coinbase support they can help you but I’d expect it to take a very long time.
+They said they cannot help.
+Bummer! I hope you didn't lose a lot of money?!![gif](emote|free_emotes_pack|cry)
+$1300 is a lot for me
+You sent your LTC to YOUR BTC address? Then you should have the priv key of your BTC address, no?
+No I accidentally cashed out using my Bitcoin Address to litecoin. It was received. Now my money is gone
+Well coinbase said they cannot help.
+They can’t help. Anyone who states they can is a scammer.
+I'm not scamming and I didn't DM them, they should contact Coinbase support directly. They have done this in the past. They are probably tired of supporting people but they can and will help you. It just has to get escalated pretty high.
+This guy wanted me to add more money and link it to a zero server. It felt weird.
+Keep escalating and keep pestering them. They are tired of resolving problems like this I'm sure but it is something that is possible. Low level support might not understand it's possible though because it's a really weird unique thing in the crypto world that Litecoin can be recovered from Bitcoin wallets if you have the seed.
+I just asked Chat GPT and have been provided with ->  
+Potential Recovery Scenarios  
+Control Over Private Keys: If you have the private keys to the Bitcoin wallet, there's a possibility of importing these keys into a Litecoin wallet to access the mistakenly sent LTC. This process is technical and risky, so it's advisable to seek expert help.  
+Custodial Wallets: If you sent the LTC to a BTC address hosted by a custodial service (like an exchange or wallet service), you should contact their customer support immediately. They might have the means to recover the funds, although this is not guaranteed.  
+Non-Custodial Wallets: If it's a non-custodial wallet where you control the private keys, you might have a chance to recover the funds yourself, but it requires careful handling and technical knowledge.  
+
+
+Now I'm far from an expert on this and cannot confirm if its correct or not, but maybe this will give you a starting point to investigate from, and hopefully this information helps.  
+Good luck.
+I generated my bitcoin address from Coinbase.
+No one can reimburse you at Coinbase for your own mistakes.
+Coinbase can and has done this in the past. Litecoin sent to a Bitcoin address can be recovered by the person who controls the Bitcoin wallet because the Litecoin wallet can be derived from the Bitcoin private key.
+
+Litecoin isn't paying for your mistake, they are able to actually retrieve your funds.
+Avoid DMs or anyone recommending to contact someone that can help. It’s all a scam
+I'd give option 2 a try first then and maybe reach out to the Coinbase support team to see if they can assist. Its definitely worth a try especially for $1300.
+Coinbase wallet or exchange?
+Exchange
+No they can’t. Who told you this? Cryptocurrency volatile nature is the whole point of anonymity. You can’t reverse blockchain transactions.
+It's not reversing it, Litecoin is a fork of Bitcoin and they use the same key derivation path. OP sent Litecoin to a Bitcoin address. The Litecoin exists in a wallet with essentially the same key as the Bitcoin address it was sent to. If you have the Bitcoin private key you can derive a wallet where the Litecoin exists and recover the funds.
+
+https://www.reddit.com/r/Bitcoin/comments/6sfnl2/comment/dleu77d/?context=7
+
+Coinbase controls the Bitcoin seed for the address OP sent the Litecoin too so Coinbase support can theoretically recover the funds and send it back to OP and they used to do this all the time when Litecoin was first added to the exchange because this happened pretty frequently. They might charge you the network fees though at the very least.
+Unfortunately, nothing can be done.
+That is what they said. I just lost 1300. That sucks.
+Education can be expensive, especially if one does not learn from one's mistakes.
+Just try the worst they can do is say no

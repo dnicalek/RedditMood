@@ -1,0 +1,70 @@
+Recap of all core devs – execution (ACDE) by Tim Beiko; Goerli testnet upgrades to Dencun Jan 17🗓️ Goerli testnet upgrades to Dencun Jan 17  
+🧪 Goerli shadow fork analysis: https://notes.ethereum.org/@ethpandaops/dencun-gsf-1-analysis  
+🏰 Prague/Electra proposed EIPs: https://ethereum-magicians.org/t/prague-electra-network-upgrade-meta-thread/16809  
+  
+Screenshot from Eth R&D Discord
+
+Tim Beiko's ACDE notes: https://twitter.com/TimBeiko/status/1737834960881680800
+proto-danksharding
+Stake with LedgerHi,
+
+I have about 3 ETH I want to stake for the next year or so. They're currently sitting on a Ledger hw wallet, due to the high gas fees I'm hesitant to move them anywhere else atm. If anything I'd move them back to a CEX, which I'd prefer not to.
+
+Does anyone have recommendations on staking these Coins? Ledger promote staking them with Stader Labs or Lido, providing Eigenlayer points (which I don't really understand), however I am somewhat wary.
+
+Should I stick to staking them through RocketPool (which is as safe as smart contracts like that can get, right?), as it also seems to be the better option regarding decentralization.
+
+Seeing as gas fees are around 50 USD right now, I'm also contemplating just sending them back to the CEX, and staking through Kraken. I'm planning to DCA out of my crypto holdings starting in the latter half of 2024 anyways. They don't seem to offer much worse staking rewards, and for the limited time period I'd take the risk of handing over my coins to them.
+
+My concerns are that I wouldn't get rewards over 200-300 USD in the next year anyways, and gas fees for swapping twice to rETH and then send them back to the exchange would significantly eat at the returns, making staking somewhat pointless. I'm assuming gas fees won't go down anytime soon, especially with a possible bull run "looming" on the horizon!WARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*
+I’d stick to rETH. Kraken allows you to withdraw to L2s, maybe that’s a good option for next time.
+Withdrawing to L2 might be an idea, I'll check that out.
+
+However, my ETH won't actually sit on Ethereum's blockchain then anymore, right? They're just bridged through smart contracts and pegged to ETH, similar to wrapped coins
+Do nothing with your Eth but keep it safe on the ledger
+I learned this the hard way with BlockFi. 4% interest in like picking up pennies infront of a freight train.
+Send eth to coinbase (or your CEX of choice), will be a few dollars, withdraw to Arbitrum/Base/Optimism, again will be a few dollars.
+
+Swap for rETH or stETH. Will be a few dollars, probably the whole thing for under $10…
+he could probably do the whole operation in under $3. then hopefully never touch mainnet again. people need to learn this now. unless you're rich you have no good reason to do anything on mainnet. the rollups make it so you don't have to.
+Oohh, so I can just swap directly from L2 to rETH? Should have known that haha. Thanks for the info!
+Lido is reliable. I've staked with them in the past. Worked flawlessly.
+And fees?
+Staking is a ponzi scheme.  There's a high degree of probability you not only won't make money, but you might not get your principal back.
+Why would you not get your principal back?
+Trade with one of the best exchange Defiway which offers a range of tools such as the crypto bridging
+If gas is $50 right now, where are you getting the $300 number for two moves?
+
+Much more important:if you don't feel that $7000 worth of ETH will appreciate $300 in a year, just sell it now. You could make that in interest at a shit bank, never mind a good one.
+I think you should just hold on to what you have unless you discover a compelling reason to switch. And even then, I wouldn't switch until gas fees are much lower. If you're planning on holding until Q3 2024, probably even less of a reason to switch now...
+Do you expect gas fees to get lower by then? Don't know what's in the pipeline regarding updates to the mainnet protocol
+Are you talking about possible vulnerabilities with the smart contracts, or penalties for the nodes doing the staking? Did you lose anything? Sorry to hear :(
+I learned that getting a small percentage yeild is not worth the risk. A 4% yeild on an asset that  an 10x is not worth risking total loss in my opinion. I would trust DEX/dapps more than CEX for stacking because they can't go bankrupt and bad actors can be identified by the community with open source code. 
+
+Thankfully 90% of my BTC and ETH where in my wallet so I got that back. But I had 2x that value in GUSD chasing 10% yeild in BIA. The planned recovery is 39% and might go higher as other court cases are settled.
+How can I send the ETH for such a low amount to the CEX though? Do only swaps incur gas fees that high? I thought sending tokens on the mainnet was going to easily cost $15+ as well
+
+Yeah, I didn't know. Last time I used crypto was several years ago. Back when BTC-transactions cost a few cents xD
+
+Got back into the space at the end of last year, seeing how low prices dropped back then. Just swooped up some BTC and a few ETH, sending them to my HW wallet like I was used to, didn't think through what I was going to do then haha
+according to [this fee tracker](https://l2fees.info/), simply sending mainnet ETH to coinbase will cost you about 1.50 USD. once it is in coinbase, simply withdraw and choose arbitrum or optimism as the network.
+
+configure your rabby or metamask to look for your funds on arbitrum or optimism. they both work with ledgers and trezors. once you can see your ETH in your control on arbitrum or optimism, use a DEX like uniswap to purchase a liquid staking derivative such as rETH or wstETH. these are non-rebasing tokens. their value goes up, not the quantity of coins in your wallet, so it's less of a headache to keep track of it. leave a few bucks in ETH left over in case you need to swap back someday.
+
+I do this all the time. I'm pretty sure that today you can get from A to Z in under $3. you can also split half your funds on arbitrum and half on optimism, and swap half of each into rETH and wstETH, if it gives you peace of mind to not have all your eggs in one basket, but it would end up being a little more in fees.
+Fees seem a bit high, yeah. 12% I think? Plus the risk is shifted to your stash, if there's any issues with the node, right
+Lido is a joke. Charge you to enter and exit. Of course you're charged immediately but got to wait up to 5.days to get your eth back. Never again
+I think you need to think about why you want to switch, not just when you should switch. Why not just continue to hold rETH and sell it later? Any difference in APR you get between rETH and some other protocol between now and late 2024 when you plan to exit likely won't or will barely pay for gas
+AllianceBlock Submits Ethereum Proposal for New RWA Token StandardWARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*
+What don’t you love about the browsers you use to interact with defi?I’ve been looking for a new browser to use in defi and am looking for recommendations. 
+
+What browser do you use and why is it good/the best?WARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*

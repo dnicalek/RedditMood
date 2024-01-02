@@ -1,0 +1,99 @@
+Vitalik: Make Ethereum Cypherpunk AgainInteresting how he mentions second generation privacy solutions (Railway and Nocturne). I  haven't heard of Nocturne but it is good to hear that the crackdown on Tornado Cash and others do not mean that privacy fades to the background for Ethereum.
+This is the first I'm hearing of those two apps but I'm skeptical of their utility.
+
+Both try to comply with sanctions by blocking deposits from accounts already known to be sanctioned. Justice moves a lot slower than thieves do though.
+
+I'm working on a new mixer more similar to Tornado Cash that takes a different approach towards compliance that can be used after the deposit and withdrawal have occurred. This new mixer remains non-custodial and immune to rug pulls but also allows individual transactions to be decrypted if ordered by a court of law. This is done using [a fork of the upcoming Semaphore v4 library](https://github.com/numtel/semaphore/tree/feat/semaphore-v4-decryptable) that encrypts the identity commitment using the asymmetric snark-friendly ElGamal algorithm in the withdrawal proof.
+
+The approach of Railway and Nocturne requires a level of vigilance and knowledge of malicious transactions unavailable at the time of their occurrence. This will inevitably lead to the same kinds of issues suffered by tornado cash.
+preach vitalik
+>The reason why I bring these memories up is that they remind me of a deeper vision underlying crypto: we are not here to just create isolated tools and games, but rather build holistically toward a more free and open society and economy, where the different parts - technological, social and economic - fit into each other.
+
+Hell yeah
+Was it ever?
+Good. We don’t want to comply with sanctions, we want to circumvent them but make the governments think we are complying.
+Vitalik Buterin Proposes Proof-of-Stake Revamp For EthereumVitalik’s post on Eth Research: https://ethresear.ch/t/sticking-to-8192-signatures-per-slot-post-ssf-how-and-why/17989
+
+Discussion on Reddit: https://www.reddit.com/r/ethereum/s/IkIUOz2lsd
+My immediate reaction is that this would make Ethereum just like any other L1 dApp platform. Might as well go for Solana at that point. 
+
+Why not allow validators to stake more than 32 ETH? It would reduce the total number of validators by a lot, while still allowing solo stakers to keep running. 
+
+Will be very interesting to see how this plays out.
+> Why not allow validators to stake more than 32 ETH? It would reduce the total number of validators by a lot, while still allowing solo stakers to keep running. 
+
+This is EIP-7251, sounds like you might be interested in giving it a read, enjoy!
+
+
+https://eips.ethereum.org/EIPS/eip-7251
+
+https://ethereum-magicians.org/t/eip-7251-increase-the-max-effective-balance/15982
+
+https://ethresear.ch/t/increase-the-max-effective-balance-a-modest-proposal/15801
+i don’t like it…
+Just get rid of the 32ETH limit
+Would that not have the exact opposite of the intended outcome?
+How is this a proof of stake revamp?
+
+Clickbait
+Is he giving away ponies yet?
+Sol bby
+The Best Staking-as-a-Service (SAAS) Providers**The Best Staking-as-a-Service (SAAS) Providers**
+
+In approximate order, based mostly on their reputation among Redditors (I read more than I post). For each of these, the user controls their withdrawal keys. 
+
+**Allnodes**
+
+It's $10/month for their Advanced plan, which is the cheapest one that includes MEV (it's worth the extra $5/month). That's equivalent to a fee of only 0.16%, close to zero! They're a top-15% performer on Rated Network over the last 30 days, and mostly use the Teku (a minority client) consensus client; they're also large, if that gives you comfort: 2.6% of all staked ether. 
+
+**Ethpool**
+
+They charge 15% of MEV (10% for 3 nodes, 8% for 30 nodes). That comes out to about 2.9% of all rewards (so yes, about 18x Allnodes). I can't find them on Rated Network. They use minority clients: Lighthouse and Nethermind. 
+
+**Blox Staking**
+
+They have a 0% fee forever (not a typo). Their effectiveness rating on Rated Network is below the 50th percentile as I write this. The company behind them is probably more focused on their new SSV Network now. I noticed that their website gets barely any traffic anymore (it ranks in the millions), but Rated Network says they still stake about 0.53% of staked ether, and they have an active Discord. They use mostly Prysm (the most popular consensus client). 
+
+**Best solution for leftover amounts when you've staked all your 32-ETH blocks:**
+
+Competition in staking is heating up daily (e.g. with DVT solutions coming online), but I'll nominate StakeWise v3. You can stake any amount and don't need to get an LST. You get to choose an operator. Perhaps 4% fees is typical, but I see one offering 1%. Some reputable operators to consider are x (please reply with your opinions). 
+
+**Some reasons you might want to use SAAS:**
+
+You don't want LSTs because you'd have to generate a capital gain when selling ETH for them; and they have high fees, typically 10% for Lido's stETH. 
+
+You don't want to solo stake because you may not feel technically competent enough; you may have unreliable internet (or limited capacity) or electricity; or you may not have a stable place for your node (e.g. you're a digital nomad).WARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*
+SAAS already is an acronym with a meaning. Give us another one.
+I've used Blox the last two years and highly recommend them, they are always online and ready to resolved any issues and the discord is extremely active. I only had some minor downtime (couple of hours) due to my mistake deleting my AWS server but was notified immediately and then resolved the issue. Otherwise, a great time and not sure why they aren't utilised more.
+Is staderlabs legit?
+You should check out https://www.staking.directory/
+Advice: Using an old iPhone as hot walletSo I changed my phone and my old one is still perfectly fine. I was thinking I could reset it and install MetaMask, the CEX apps I use and nothing else, and use it as a hot wallet.
+
+Should I get a data plan/prepaid data or is my own wifi safer?
+
+Any dos or donts?
+
+Is this a good idea in general?WARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*
+Keep it updated, once it stops receiving security updates it’s no longer safe to use as hot wallet either.
+Following for same idea.
+There is 0 security benefit in doing this. Just use your current phone as a hot wallet and keep an offline wallet that you never use for contract interaction.
+I think there's a security benefit over using your regular phone because
+
+   * it doesn't have any other apps on it
+   * there's a cushion between your email/social media so you have time to stop and think before you get phished
+   * you probably carry it around less
+   * you can set stricter policies for the lock screen etc because you don't need convenience as much
+
+As far as the network goes I doubt it makes much difference, but all things being equal I guess you'd be safer with just a wifi connection compared to having both a wifi connection and a mobile network.
+I wouldn't do this. The older the device, the less likely you are getting security updates. Older devices are like swiss cheese, security-wise.
+It's a good idea but make sure you understand how to safely use a hot wallet and avoid human error. You can use the DEFIWAY self-custodial wallet cause it comes with strong security and good features.
+AirGap wallet is the best
+I (knowing fuck all about OpSec) would think Wi-Fi has chance of being compromised, while 4G would be really weird unless targeted, which I don’t have any reason to expect.
+Yeah, that's probably right. But also, one attack vector is better than two. So if the cost was the same I would go with just 4G and stay off the wifi. I don't think it's very important though.
+Yeah, I’d be staying off wifi

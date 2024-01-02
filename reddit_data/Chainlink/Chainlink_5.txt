@@ -1,0 +1,9 @@
+V0.2 staking still realistically possible?So I blew it big time, already staked in V0.1 but it’s been an insane few weeks and I didn’t migrate. Is my only option to refresh the page multiple times a day and hope a spot happens to be open for more than 5 seconds? The site says “overtime the pool size cap is expected to increase”, but I’m assuming that’s as vague as it sounds and there is no timeline..how are V0.1 stakers not automatically moved over? Sad day indeed.>Is my only option to refresh the page multiple times a day and hope a spot happens to be open for more than 5 seconds?
+
+lol
+Someone unstaked earlier today and the SDL bot took their spot with a transaction in the same block as the unstake. Everyday users have zero chance of getting into v0.2
+Could you explain how that would work? Do they see the transaction in the mempool and queue it somehow to be in the same block but afterwards?
+The pool us full, you will need to wait for someone to unstake or for more capacity.
+It’s over for now bud, even if someone withdraws, there’s over 1M LINK waiting to be staked automatically thru the SDL priority pool
+Difficult. Was on 13 min before they opened the pool ... got filled in like 2 hours.
+Exactly as you described. Its a 'feature' of MEV.

@@ -1,0 +1,667 @@
+Should I stake my Ethereum?I recently checked my Coinbase account after a year of ignoring it because my Ethereum was down. Soon as I logged back in to Coinbase it asked me if I want to stake my Ethereum. Is this a smart move? Or should I just not stake any Ethereum at all? I’m not looking to make a quick buck from my investment as I plan to hold long term. Any advise is appreciate, thank you!WARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*
+Not a bad idea to stake. You will gain interest in the form of ETH. If you are not planning on selling it anytime soon might as well allow it to accumulate.
+Stake it till you make it
+Not your keys not your coins
+Just remember if you want to sell at any point, plan ahead as it could take a couple of days or a week to unstake.
+It's 2023. We have seen BlockFi, Celsius, FTX, and a host of other scams where people who left money on an exchange. Yet people want to do it again.
+
+If you stake it on Coinbase, you are giving them your private keys. So no, it's a bad idea. However, there are decentralized alternatives where you get to keep your keys. So do that.
+Could you point me in the right direction towards a decentralized alternative?
+Don’t do it, too many noobs lost their funds using decentralized alternatives specially the ones that rely on hot wallets. Is it worth it for a 4% a year? If you are going to stake use a ledger
+Lido is the most famous one, otherwise rocketpool
+Did i just lose 100 ETH on my wallet? :(Hi Guys,
+
+I don't think i signed the transaction but i cannot recollect, this was for a FRAMES airdrop today afternoon. I am shivering right now. I had about 100 ETH deposited into Aave for lending to accrue interest and i just noticed that 100 aave eth is transferred out of my account. Please help.
+
+[https://etherscan.io/address/0x9f6bcc3d52624a2be52a6b5499b582b98f7e5a41#tokentxns](https://etherscan.io/address/0x9f6bcc3d52624a2be52a6b5499b582b98f7e5a41#tokentxns)
+
+&#x200B;
+
+Edit: Request your help to please report/flag this address as scam:
+
+[https://etherscan.io/address/0xe265398bc6ea0a4ae1de43de6e0fad81c205013b](https://etherscan.io/address/0xe265398bc6ea0a4ae1de43de6e0fad81c205013b)WARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*
+How do you have 100ETH and you're chasing airdrops?
+You mean “How did you have..”
+😮‍💨🤦‍♀️🤦‍♀️🤦‍♀️🤦‍♀️🤦‍♀️ for real... not to mention using the same wallet for it all
+He may have got to 100eth by chasing things like that
+Having money does not mean people automatically act rationally.
+Holy fuck, this.
+100 eth is ~220k... If that's your net worth than many airdrops are quite significant for you. Not uncommon for them to be 5 figures, some have been 6.
+
+Why not chase them? It's free money, just take a minute to verify the source and maybe double check the transaction so you don't go signing away your entire stash.
+Who said he's chasing airdrops? Just because his address qualified for an airdrop doesn't mean he's chasing anything.
+Because money doesn't equal intelligence
+This was a quarter million dollar life lesson I hope you learn from. Chasing pennies into dark alleys with a wallet full of hundreds...
+This is one hell of a perfect analogy.  So sorry for your loss OP.
+This comment is *chefs kiss*
+Happy Birthday!!
+More like a million dollar lesson when/if ETH hits $10k. Damn!
+Bro, I'm really sorry but... WHO THE FUCK HUNTS AIRDROPS WITH A WALLET THAT HAS 100 ETH?... Come on bro.
+Yeah my airdrop hunting wallet doesn’t even have 0.01 eth lol
+seems the scammer only uses dex and scammed before:
+
+&#x200B;
+
+[https://imgur.com/a/04NhfBA](https://imgur.com/a/04NhfBA)
+
+&#x200B;
+
+Professional criminal. I guess money is gone. But go to police and file a report.
+
+I once lost over 5 ETH and 1 BTC. still hate my life for this.
+Bigger amount usually means bigger airdrop, so it does make sense
+Must be a fake post?
+Says that address you sent to is a scam address. Sorry for your loss, always double check before signing any transactions.
+Is there a way to atleast partially recover? I am devastated, dont think i will recover from this :(. I have been into crypto and defi for a very long time now and never thought I would fall for such.
+I’m sorry this happened. Please don’t do anything stupid/crazy that can permanently affect you or your loved ones. You can always make the money back.
+This but you can't make the money back. Make your peace with that.
+If you know a way to make that kinda money easily id like to be your close friend
+He can still be rich in another life.
+Airdrops should only be collected in a throwaway soft wallet with a couch cushion change amount of crypto. Most airdrops are scams or on contracts with scammy permissions to drain your wallet.
+I really wish more people realized this 🤦‍♀️🤦‍♀️
+And I just thought, at least people say, native ETH can’t be drained through a bad smart contract, or did something else happen?
+Except these airdrop reward activity. This frame one I particular reward nft activity. Blank new account does not qualify
+Just enough for gas
+Back when I was into Ethereum, using MetaMask, I don’t recall smart contracts being able initialize transactions from your wallet directly. Whenever ETH was sent I intentionally had to click something and then sign (and it would tell you how many eth). 
+
+Has Ethereum changed in that regard? 
+
+In any case, as an outsider that does not hold crypto anymore, these type of scams (and their fkn prevalence) is a death sentence to crypto and needs to be addressed before anything else first
+Like email, I just create a unique email for significant account. I use ephemeral emails and a idgaf Email. Are there ephemeral wallet addresses?
+What are airdrops and how/why hunt them?
+That’s a rough one but at the end of the day it’s just money. You may not recover the funds but you’ll recover in life
+Thank you for the support. I think its time for me to take a break from Crypto.
+Stop reading the comments at this point. Mean people who want to dunk on you are just gonna harm your mental health. 
+
+Best thing you can do is put it in your past and move on. Act like you never had it in the first place. Life goes on.
+Why are people so vile to people that fucked up Your comment is 100% right
+I traded away hundreds of ETH some years ago when it was like $3-$6. Was never a good trader and too much of a gambler. If I had just held on to what I mined, and sold in the last cycle—at any point—I would be retired right now. 
+
+It took a long time to get over thinking about that every day.
+Pay no attention to the shitbag responses. Most of them are just trying to feel better about their own losses. 
+
+I hate to say this, but it looks like you got scammed. I hope that’s not the case and that it somehow reappears but don’t count on that and please, do not beat yourself up over this or fall into a pit of despair and regret. 
+
+It happens. Too often and to too many people and not just in crypto. 
+
+I won’t tell you to chin up or that it’s okay. It not okay. It sucks ass. But you will get past it if you allow yourself to but it will take time and effort. 
+
+Be well.
+Thank you bro, you're right.
+Sorry to hear man. Like the good posters have said. Don’t do any harm to yourself because of this. You’ll recover and be stronger than ever. Expensive lesson but I bet it will never happen to you again.
+Thank you for the kind words bro.
+This! Especially the last part where in order for it to happen again you would need to have 100 Eth.  And that transaction has sailed. 
+
+I’m just being an ass OP, fuck the eth and fuck that lowlife scammer , you will recover. It will take time but it will happens stay strong
+Fuck man.
+Sorry for your loss man, As long as you are alive and in good health, you can earn more money back.
+
+Life is full of ups and downs, So try your best to get up from the down ASAP and do not surrender to your grief.
+Well put. Hope op would take your advice
+But everyone wants to pretend that keeping in an exchange wallet is the dumbest thing you can do. Crypto needs to be recoverable from scams for it to ever see mass adoption.
+Yep. It will never go mainstream without some sort of recourse for scams and accidents. I’ve been saying this for 10 years.
+I know the pain though, I lost $250k in March, connecting and signing an approval to a fake Vela Exchange website
+Its gone mate
+
+Also these posts reaffirms why scamming is so lucrative n easy
+My mans collecting airdrops on a single 100 eth wallet  💀💀 rip to the precious eth
+The eth are fine,  no need to rip.  They have been set free.
+Sorry mate.  Pour one out for those ETH. 
+
+100 ETH is a shitload more than anyone should have in a hot wallet.
+Yah, what a tough way to lose 200k on a phishing scam...
+Now don't fall for the double tap scammers who will contact you.
+
+They all know somebody who (for a small fee) will bring your coins back.
+Yeah, I have been getting a lot of chat requests.
+Oof, that sucks.
+what website or app did you interact with
+It's called frame-xyz.events
+Edit: Made a correction to site.
+He connected to a fake phishing website and then approved his Aave position. There is no way around it. You can’t lose your shit for just “connecting gasless”
+Not quite true... 
+
+If I approve let's say my Bored Ape to sell on OpenSea and someone tricks me into signing a listing of pennies for it, I will get scammed and it's a gasless transaction I'm approving. I've seen this scam, many people lost their cryptopunks etc. The scammer bot would check what permissions you already had and setup a trade.
+I see now that it continuously pops up metamask wallet if i open that site, I am thinking i probably approved it :(
+So sorry for your loss. I have lost that amount x 2-3 over the years in the stock market, being a gambler/dumbass. Sure, I won't have as good a retirement now,  but things are going to be OK. Being alive and healthy is more important, as are family and loved ones. Be strong.
+this kinda post scares the shit out of me. Sorry for your loss bud.
+And its gone...
+Wtf..you should have a separate hot wallet for this silly airdrop business. If I had 100 ETH it would be in a ledger or being converted to fiat on a CEX and then in my bank.
+My thoughts exactly. If I had 100ETH I would buy a dedicated hardware wallet just for that stack, spin up 3 beacon chain validators, stamp the seedphrase in three different stainless steel plates (for 3 different locations) and add a passphrase to it.
+Ledger is compromised
+Future of finance'd.
+Why do chase for air drops or anything using the whole money wallet, use a small one to avoid losing all your money. Not the main wallet!
+NEVER use your hodl wallet to chase shitcoins!!!!
+Never get involved in a land war in Asia!
+God dammnnn bro 🥲 100 ETH
+A friendly reminder to be careful on clicking on posted links; you don’t know the OP and could be trying to social engineering you to actually compromise you.
+Has anyone here actually made real money from an airdrop?
+Loads of people here made 15k on uniswap and 5k on arb. Per wallet.
+I’m so sorry. You’ll be okay. It’s money, but it’s just money and it’s something you can recover from. Take care not to engage in anything you can’t recover from.
+And here I am not chasing any airdrops since I want to keep my precious 0.00001ETH safe :)
+Lmao...
+
+I don't even have 100 ETH and I would never fuck with an airdrop, from anything.
+
+You people are out here thinking money is just being handed out, and the ironic part is that *you* are the one handing out the money.
+I think you were trying to pick up pennies in front of a steamroller and got caught. Sorry. Your $ is gone. Learn from it
+So wait. You had 100ETH and it wasn't in cold storage!?! What the actual fuck
+Hey OP someone just made a post about this on r/cc you should take a look! They might have found a BINANCE account connected to it https://www.reddit.com/r/CryptoCurrency/s/XmkW0d1JDp
+Frame didn’t airdrop anything today. All you needed to do was connect your wallet and sign to verify it’s you. 
+
+The token itself isn’t claimable until January. Are you sure this is the issue? 
+
+For those that are clowning OP for not using another wallet. 
+
+Almost all of these airdrop reward specific on chain activities. Brand new wallet will not qualify for anything.
+I wrongly signed on a phishing site. It was a very expensive mistake on my part.
+That’s why you use an old wallet but move your main funds to a brand new wallet which you never sign transactions on. But harsh to clown the OP but is a very expensive lesson. Hopefully he makes it through this okay.
+You are lending on AAVE?
+
+and 2 months ago the OP posts this... hmmmm
+
+https://www.reddit.com/r/india/comments/178sd5j/good\_personal\_loan\_apps/k52izot/?context=3
+Aave was not the issue, i have used it in the past. I should have been double careful while signing any transaction with this wallet.
+Bozo
+What the heck did you click for Frames? There's like one legit link for it
+My advice: 2 wallets one to keep secure and another one with little money to play around
+We on the same boat, I put a few eth into a shitcoin earlier this year, got scammed, that wallet is now worth over 500k..
+Why are u chasing airdrops?!?!?!?!?!  Nvnckeao nwcowl biesnn on cuskcneislzanciw I’m o ex cr.
+
+Sorry that was me banging my head on the table. Sorry for your loss but those funds are not recoverable.
+You know making another wallet is free right ?
+You need to report to the police, if this address deposits money into a centralized exchange, the police can contact them to freeze the funds until the end of court. This is a large amount for any person, but in any case, you have gained valuable experience. Although cryptocurrencies are decentralized, dollars are kept in bank accounts.
+Why is simply pressing a button able to give access to your coins  and made to look like any other prompt that just logins you in?
+
+There needs to be a method in which the only way you can send x coins is to type out you want to send x coins and go through hoops. It should be obvious when doing something that sends coins to someone else  versus doing something less harmful
+
+This has to be fixed before crypto goes mainstream.
+Which blockchain fixes this issue?
+“I am shaking right now”
+
+“I literally am shivering right now”
+
+“Oh my gosh, I’m shaking right now”
+
+Seems like this is always the same person . I’m shaking right now, thinking this.
+I said this before but I’ll say it again. Humans are the greediest spices on earth. NO MATTER HOW MUCH WE HAVE WE ALWAYS WANT MORE. 100 ETH? Smh
+OP, I am not sure if you would even see this comment but if you do, looking into ZACHxbt on twitter.  
+He has helped people in the past uncovering hackers onchain.  
+
+
+It might be worth a try.   
+write a post on twitter with all transactions and tag him>  
+
+
+Post your tweet link here so all of us can retweet and possible make it viral.
+Yes, it looks like you got scammed... In the transaction signature you can see the Fake Phishing  notification. It got you and many others... 
+
+In Ethscan is says: "There are reports that this address was used in a Phishing scam. Please exercise caution when interacting with it. Reported by realScamSniffer."
+
+This is why crypto needs to be regulated... these bad actors are abusing trust and abusing good people. The governments need to clamp down.
+
+For all you know your money just went to Hamas or North Korea...
+What does it even mean for there to be regulation here? Shut down javascript? No more websites? Clamp down on... copy/pasting your password into the ether?
+Or CCP
+If you had 100 ETH you have money for a lawyer. Go after who did this!
+Had money for a lawyer.
+It's gone, baby. Gone.
+You had 100eth in a single wallet that you're stupid enough to connect to random sites for airdrops?
+
+How do people this stupid get so much money?
+Imagine having 250k in a wallet and clicking "connect wallet" to a website you don't know. 
+
+Wow
+Temporarily
+I have 4~5 ETH that I bought and keep it in a wallet. I leave them just like that. That's it and that is all.
+
+I don't even know what's "Air Drop" or whatever the fucking shit are out there. And idgaf.
+Lol you're literally dumb chasing airdrops and you've got 100 eth, but oh well sorry for your loss! You'll never see those coins again.
+Really disrespectful, there is no need to insult people who have just lost a significant amount of money.
+Literally dumb would mean OP is unable to speak. You don't have proof of that; don't speculate.
+How did you end up with 100 eth??
+2016 I got bunch for fun
+Kim Jung Un wants to thank you personally.  Without your generosity, the people of North Korea would most likely starve this winter.
+Instead of shitting on OP, can we try and explain to him what happened and how he can more careful in future?
+A fool and his money are soon parted.
+Devo to hear the news man but it’s like leaving the PIN number to your bank cards in your
+Wallet with you.
+You just made
+Someone’s Xmas a whole lot better so maybe that’s the silver lining
+Dude market did 1000x and you are still broke.
+Person who has 100eth in airdrop wallets might have 10000eth in Cold storage.
+You are an idddddiot
+Hex users unaffected, bitches.
+Richard Hart s sperm gargller spotted
+What a fucking clown
+He is a victim, not a clown.
+He has 10000 more eth...now who's clown and broke
+Future of finance
+Fake post.  Stop trying to scam people
+What are airdrops? Please inform me.
+15 hours later, how are you feeling OP? This year I've lost a couple ETH chasing an airdrop too and a couple days later I felt way better about that loss. It's kind of a new change to start all over from 0, which can be quite rewarding too
+There's a few account on Twitter that claims they have gotten back lost crypto. I know there was 1 big one lately where a bunch of bayc were stolen they frozen that account and are working on getting them back to the owner. Search on Twitter and I suggest doing it soon before it gets moved a few times.
+i dont understand the upvotes. it wasnt smart to do that with your main wallet but still this is not the time to be an ahole. sorry this happened man. hopefully youll get it back but you better get used to it being gone.
+I got into crypto, made about 100k and got out. Let me just say from me to you sincerely, if you were foolish enough to use a wallet like that to chase questionable airdrops you never deserved the eth if it makes you feel better. You're a modern panhandler who takes airdrop opportunities from people who have nothing, so you can add to your pile. Let me close by saying LOL.
+So edgy of you. Don't forget your fedora on the way out.
+[removed]
+You would have had to of owned 100eth to have lost it.
+Currently checking in on all my babies(wallets) to make sure they’re ok. Sorry for your loss OP
+I would say that now is probably the time to go buy a hardware wallet….
+I already have two hardware wallets.
+Whenever I beat myself up for doing some dumb shit with crypto, I remember posts like this and know it could be much worse.
+why would you sign for airdrops on a wallet with 100 eth like what the hell man, you shouldnt do shit with that wallet
+For everyone else: air drops and crypto casinos = stay away.
+lol
+Greedy to get a few dollars now lost a quarter mil
+What a monumental loss. Wsb would love this!
+You should use pocket universe. Free addon that tells you what will happen if you sign a transaction. Are you sure it was the right frame link?  Where did you get the frame link?
+Lesson learned. In the future keep your long term stash on a hard wallet and don’t connect it to anything. If you want to experiment with airdrops, earning interest do it with an account you don’t mind losing if shit hits the fan.
+Be me
+Open reddit every day
+First post in crypto is *always* "guys is my money gone?"
+Mass adoption my ass
+I’m sorry this happened to you my condolences
+What are airdrops and how did this guy lose his stuff?
+Wild Wild West, crypto is not the future, it’s just a place for scammers to make money, IE this…. Crypto will never be mainstream
+Hey next time you have 100 Eth let me know, I am an honest scammer,
+I'm gonna suppose that if you have that much ETH, you have a stable stream of income and will be able to have it back soon. Be sure to spend a quarter of 1 ETH to get you a hardware cold wallet next time.
+I got " got " with a fake link on the official abracadabra website.... tried to save the link because I didn't want to " spell " it ( ironically )...
+
+long story short it was malicious and it unstaked my spell and I've never seen it again....
+
+Even though it's location will always be trackable because of the nature of crypto lol.........................
+Lmao
+Fuck dude.
+Jfc crypto is dumb
+My personal advice, take it or leave it, is stay in the game. You got to 100 ETH once you can do it again. As they say the first few k (fiat) is the hardest. Save so you can have 1 ETH to play with then find the next meme coin and 100x that bitch. Back to square one. Good luck have fun
+No way someone with $100k+ is chasing airdrops worth a few $ on their main wallet.. I'm sorry this happened, and ofcourse you're not in the wrong ( the scammer is ), but you need better operational security if you've got such a large amount of funds..
+u clicked on a bad link and gave them access to your account, your eth are gone, its always the same
+
+for ALL those ppl, maybe use an addon like pocket universe, but i guess this wouldnt stop such shit either for you ppl who just click stuff for free money and get scammed
+How does someone who uses a hot wallet for 100 ETH and connects to an airdrop website with it get 100 ETH? Inheritance?
+
+At this point, I think posts like this are probably just trolling by buttcoiners.
+EIP-1559 will fix this
+I lost $150 once on some crypto scam. I feel your pain
+Seeing these types of posts are depressing. Not sure how you guys do it and hope it never happens to me or anyone who reads it
+Aw mate, that is heartbreaking.  Hope you are OK
+One way or another, you were always going to lose big with ethereum.
+Take care bro
+this can't be real... you can't hold 100ETH and go clicking on random links. I am amazed this didn't happen to you way earlier.
+o7
+Who has 100 eth.    I bet there isn’t anyone who is a Master of crypto - such that they could drop 1 million XRP and have it be no biggie …..        perhaps I’m wrong and the course of my life might change in such a way where I could marry.  And have children ….. make up for the lost time due to iatrogenic disease disorder (by way of psychiatric harm and malpractice ).           I guess ya never know how much 1 million or  1000 $ is “worth to an individual relative to their overall net worth.     What a thing though - to have the power of one wanted - to literally change and impact the most complex and fascinating of things : Human life - from a phenomenological point of view —— such that the effect of investing in another human being / their autonomy / consciousness ….. will forever be impacting all things from that long forward -  altering things we value so greatly that it seems almost unbelievable ; such a thing is possible - if say an individual has acquired or earned or won or simply accrued an amount of $ and crypto …. In which sending 1 million $ or tokens let’s say …. Has basically zero impact upon the donors life - and yet for the recipient….. is a difference so massive it is indeed immeasurable …. And would have to be measure over time or continually bc of the infinite and continuous/ ever increasing impact …. 
+
+https://xumm.app/detect/request:rs9brtUk4xsRCE1DcHUysVS9T4TWQYDLjK?amount=1000000.00
+
+
+[proof of.        + phenomenology](https://xumm.app/detect/request:rs9brtUk4xsRCE1DcHUysVS9T4TWQYDLjK?amount=1000000.00)
+Damm use ledger or other Hardware wallets
+Yes, you’re eth is burnt baibai
+Did you click on a fake Frame website? Claimed mine yesterday and nothing drained
+What is this airdrop stuff you’re all talking about?
+assume your wallet is compromised, don't deposit anything into it
+They only lost what he/she paid for it.
+The future of finance
+Sorry for your loss. You can attempt to report it to police. There are Open Source Intelligence (OSINT) websites such as [https://www.chainabuse.com/](https://www.chainabuse.com/) that can help report these issues - and it may help other criminal investigators. I won't give false hope - the money is likely gone, but reporting it to police can potentially help prevent the criminal from attacking another person. 
+
+If you do come back into crypto, I encourage always using a cold wallet with a hardware device such as a Trezor. I do not recommend using cold wallets to sign smart contract transactions - these should be done with a separate wallet with a small amount of funds "Just in case." I'd also encourage KISS when it comes to crypto - don't use/stake more than you can afford to lose. 
+
+I hope you have a friend, family or loved one to talk about it with. They may be angry, but it's better to just confront it and own it. It's just digital money, but there are more important things. If you need any help, feel free to DM me.
+You’ll make it back
+Nothing could be done. You’ve been on scam website, clicked on drainer, drainer transferred eth away. 
+Next time accumulate funds on one wallet, and on second use small amount, so if you get scammed, you will be scammed for 20-30$
+hey  
+its going to be okay. you will get your money back from other places. if you lose from one place
+Yes
+Oooof, all gone now.
+Did you click the real link thou?
+The whole topic is a minefield - people get tricked daily and it’s horrible. 
+Please don’t give up !
+[https://etherscan.io/tx/0x3103a5b7cdc84bbb67faf04ff1e1b81f3e7fa3f80cbbcdcc4485a12ddc8b571b](https://etherscan.io/tx/0x3103a5b7cdc84bbb67faf04ff1e1b81f3e7fa3f80cbbcdcc4485a12ddc8b571b)
+
+What did you sign here? Did you get email or what phishing site was that, that forced you to sign this transaction?
+Zoinks this is major fail chasing minor minor gains
+Seems like there needs to be 'airdrop block' for wallets much like there's adblock for chrome.
+Why is it that half the time posts from this subreddit hit my feed, it's scam victims begging for help?
+That's tough, and I'm super sorry to hear it.  I drop hunt also and understand the use of that wallet especially with frame doing the past 2 years. I've not been very active the past year, so I also went and used an old very active wallet from 2022. Luckily I was on the correct site and no issues but I did move the few eth in the wallet right before signing up. I'll be honest I didn't know it was there and moved it the moment I saw it, I'd like to think I would have done this using an active wallet but we all slip sometimes. I lost all cyber brokers at 5eth each on social engineering scam they pretended to be founders, I slipped and didn't double check a tx and was doing something else while in my wallet. That was a big hit for me at the time, but the I did it once I'll do it again mindset took over quickly.  
+You know what you're doing, you slipped, you will get back up. I saw you type you're probably done with crypto and I think for a week or so that's smart, maybe a month with that amount lost. Back to being self strict with the basics and remember to not get comfortable this time. 
+ New coins that solve new problems, new coins that solve old problems will bring you back.
+*A fool and his money were lucky to ever get together in the first place...*
+
+\- Gordon Gecko
+Sorry for your loss but you mean a *FAKE frames airdrop 
+
+Always check you’re on a legit site
+I lost 2,000 dollars I would never invest in crypto again. This is all hoax and BS
+Guys.
+
+If you have 100 ETH, you keep it in a cold wallet. Airdrop hunting should ONLY be done with a hot wallet with some play money. 
+
+This is the way.
+It seems you scammed yourself bro
+I‘m sorry! I can only imagine how you feel!
+degens will be degens
+Got damn son.  Use a little common sense.  ALL of crypto is a scam until proven otherwise.  EVERY airdrop etc. all SCAMS.
+Damn that sucks sorry OP. There’s a phishing site under the official airdrop tweet and it’s easy to click on it if you won’t double check the username, the tweet has thousands of likes and replies so it’s easy to be scammed.
+Greed is a scammers best weapon
+OML i hope you earn that money back. As this seems its not revisable..
+This is so depressing.
+How do you even get that much eth? I'm new to crypto.
+Honestly, I'm frustrated the scammers continue to make bank with these nasty moves
+I'm glad I got out of crypto long ago. 220k that you could have used on a house, a car, your future - all gone. Gone to chase magical beans and pennies. What a harsh life lesson.
+Burner wallet burner wallet burner wallet. Shit buy a burner phone and just use it for that. I'm sorry for your loss that suuuucks
+God I hate fucking scammers for real
+Can someone explain how this person lost his crypto without realizing it? Noob here
+In mein mother tounge Id say: Bist du deppert?
+Interesting people talking about many wallets...I think you all mean many addresses. You can have 10 wallets connected to one address or 10 addresses in one wallet.....bit of a worry
+Man the amount of stupid people with stupid amounts of money is high in crypto space
+If it's any consolation... I lost about 450e
+Kek
+Be your own bank 👍👍👍
+My heart goes out to you friend, I'm sorry my man
+For many decades to come, you will be multiplying the price of ETH by 100 to see what could have been. I’m so sorry. I really hope you find a solution. 
+
+People always criticise when I tell them I don't stake / lend my assets and just have it in cold storage. This is why.
+With 100 ETH you could make 1 ETH per day providing liquidity to blue chip tokens like LINK.
+Oooooofffff.   You said the quiet part out loud.
+Ouch. True talk hurts sometimes
+OHH THE PAINNNN. Not even my money and i felt this comment.
+Damn. Harsshhhh
+True. True.
+That's insane I have 10k split into 4 wallets and guy put 200k into one!
+Fucking mind boggling. 🤦‍♂️
+And now lost it all
+This dude is trying to get more people scamed
+>Why not chase them? It's free money, just take a minute to verify the source and maybe double check the transaction so you don't go signing away your entire stash.
+
+5 and 6 figures? I checked some websites that came up on google for my ETH wallet and I didnt even reach 50 bucks USD. Would you  mind sharing a reputable source to check this?
+
+&#x200B;
+
+Genuinely just trying to get educated on this
+most airdrops do it based on your on-chain volume. assuming this guy is using that 100 eth in defi protocols, bridging etc, he will be receiving more in airdrops compared to smaller users
+
+often times the minimum tier for airdrops can be as little as 3 figures while going to 5. all that depends on if he's interacting with specific protocols though
+twitter is the best place for this
+/r/cosmosairdrops is great but it's only for Cosmos based airdrops. I'd honestly stay away from any other sources, they're usually scams
+You can look at many twitter threads. For example, I just got 4K USD worth of PYTH from their airdrop. It does happen. You just need a lot of volume so for a 6 fig airdrop you either jave to be super early or have a lot of capital.
+Hoping for similar results from starknet, cosmo ecosystem, scroll, linea, layer zero, zksync, etc. If you farm them consistently and efficicientlyz they can be very lucrative. Just be careful and only use money you're willing to lose.
+Why did he then sign a transaction to claim an airdrop? Come on!
+Because frame did an airdrop today
+This is dumb logic. You can't say you lost somethings future value.
+I agree but does not change the fact that one day if he wakes up and eth is 10k he will feel that burn
+[deleted]
+Just curious what kind of wallet do you use for the airdrops? Is metamask OK for thr airdrops
+They mean that you should use a different address for airdrops
+You should learn more about how all this works or you will end up like OP. start with understanding wallets and how they relate to your public and private key.
+They meant different address, e.g. not the one with a large stack on it.
+Yes metamask is great. No issues there, it's just when you click stuff, it could be a payment instead of requesting using metamask. Always been kinda iffy using it.
+
+it's too easy to click, click, click,  there goes the money. Although you should have to enter a password, most browsers can save passwords and have them already entered ready to go. Don't like that either.
+
+If you take note of this and make sure, should be no issues.
+
+Edit: OP shouldn't have used a wallet containing 100 eth. Should be in cold storage or something. A wallet you don't access regularly.
+I would use rabby and wallet guard. Both warn against malicious contracts and risky approvals.
+how did you lose the btc?
+I was HODL it on exchanges, 1 scammed me and 1 got hacked. Lost there 90% of my Crypto portfolio. This was 2019. At least i didnt paid much but i had lifechanging gains with nearly zero investment. But poorly all was gone.
+What did you use to generate that image>?
+Arkham intelligence and then I did a screenshot
+I'm sorry for your loss and kudos to you for staying strong in the market. You'll hopefully get much more than that!!
+Police lol
+There is a small percentage that the scammer doxxed himself or in future police will track him down. Only small percentage but it's possible. Otherwise you can hire some Blockchain analysts that could trace him down. Our country has this service but this will cost much and they get % of your stolen crypto
+2-5 ETH Top, but 100? Come on...
+Man you just commented 5 days ago telling someone not to sign transactions. $200k is a lot to lose in that way. I couldn’t imagine, and sorry for your loss. See if you can track it back to an exchange with KYC, but I doubt it will go that way and even if it does the authorities don’t do much about it and you basically have to prove everything on your own
+I did sign a gasless transaction as far as i remember. But thought it would'nt give permission to funds as such :(
+With the tax write-off (google it) on a 220k theft you should be able to amitorize your loss for the next 60 years.
+
+It doesn't make it right, but will likely save you 50k on taxes over the next 60 years.
+
+Just make sure you file a police report and file the IRS paperwork before new years (google it).
+Thank you, this information helps. I will look up and file a compliant.
+More info for you OP - https://www.sofi.com/learn/content/tax-loss-carryforward/
+
+If you have other crypto and sell next year or the year after, and have 200K gains, you can offset those gains with this loss so you don't have to pay taxes on it.    The 60 years thing is from the fact that you can deduct 3K each year against ordinary income, slowly chipping away at it.  But I bet you will have some gains before then that you can offset.
+
+In the future though, you may want to use a bunch of hidden wallets instead of all your eggs in one.
+Is it a 220k theft if it was unrealized capital gains? I'm assuming if he was in it for a long time and never sold his 100, they would be unrealized gains with a low cost basis.
+Assuming he has no other losses to claim.
+why would you be going for airdrops on the same wallet that you have $200k on... I understand if you are new but you say that you've been in this shit for a while now... almost everyone I know with more then 6/7 figures in crypto all use a large variety of wallets and have it all spread out throughout a ton of different addresses just for cases like this 
+
+I'm sorry man but damn you messed up. Shit like this is why crypto will never be commonplace for the world, you have to be super informed and heavily invested into the crypto world to not get scammed. 99% of people wouldn't ever have that time, and even the 1% of people that do get scammed so easily and so often still
+I have been into Crypto for a long time and bought my first bitcoin around $200 and i dont say this with arrogance, with my skin in the game so much I know better than most of the people here on how to use these protocols. But honestly I feel this strongly now that self custody is very hard and at this point feel mass adoption is very tough in the current form.
+You can file a police report. I'm not sure how much help that will be, though. Contact Aave and let them know as well.
+You've been in this for a long time and you haven't put the majority of your port in cold storage while using a hot wallet for play money? My Eth/BTC/Link are all on ledger never to be touched unless I'm ready to sell. Other shitcoin/memecoins are on my hot wallets.
+Nope. Its gone. Phisher - 1 
+FunMaz - 0
+FunMaz - -$200k
+Not really. All you can do is file a police report and hope that if they ever do get arrested, that there might be a chance that you get some of
+your funds back. Don’t hold your breath.
+You been in the game for years but have shit opsec , no containerization/separate/gap nor didn’t double check the address? Wtf 
+
+Holy shit sucks to suck but dam you lost it all because you got laxed or didn’t care of security at all
+You’re 100% right. But this is also why crypto may never be used as real money. My Dad can barely attach images in a text message these days. How are non technical people supposed to know about keys and air gaps and address lookups and signing?
+File a chargeback and you'll get it back. It'll take a while though.
+No he wont
+Lmfao what!
+The only thing you can do now is nothing
+They mean you can generate that income again, which you can indeed do. It is a lot of effort but that’s not the point.
+Be a doctor.
+Don't do that, that's a massive waste of time in a decade of schooling for a high stress job. Be a software engineer, you don't need schooling for that and you work from home in your underwear. Often getting paid more
+Im too old to be a doctor now. But thank you
+Bro said easily
+Don't do that.
+I know how to do it, but the most likely outcome is to end up with much less.
+
+But you might make it back
+Ya....thats not the move im makin lol
+OP has a comment from 5 days ago warning people not to fall for these kinds of airdrops scams.  
+
+OP either doesn't have texture on his brain or he's capping and trying to long con some sympathy coin from the sub.
+I mean, if OP can afford to leave 100 ETH in a hot wallet
+
+I don't too many people here will be sending him any sympathy coins...
+Yep that’s why is call BS on this one. Things that never happened.
+Ethereum is far too complicated.  Everyday there's a new person on here being scammed.  All the L2's and bridges and wrapping are all just points for scammers can take your money.
+
+There's no noob guide for Ethereum, and you need a damn PhD to actually know what you're doing.
+
+Usability drives adoption and the UX of Ethereum is just driving users away to easier to use blockchains like Solana (which itself is still too damn complicated but at least you don't have to deal with L2's)
+>There's no noob guide for Ethereum, and you need a damn PhD to actually know what you're doing.
+
+You don't need a PhD, it's basic security, but your point is valid.  This is too complex for most people. And the stakes are way too high.
+That's what all the grandma's said about smartphones, too. Now, most of all of them have one and an email address.
+Long story short - Ethereum needs to die.
+What?!
+
+You mean to tell me that people aren't just giving away free money?!
+I believe that is still correct, but OP converted his native ETH in Aave wrapped ETH.
+Ah, I knew something was off, now makes sense, I thought it was still native ETH…
+Correct it can't but the OP didn't have native ETH.  He had interest earneing aave ETH tokens.  Those are just ERC-20 tokens like anything else.  Gone.
+Understood now. I thought it was still native ETH in the protocol, not a wrapped token. Thanks!
+Oof. Reading this stuff hurts.
+Probably OP input his seed / private key into an untrusted site, and obviously we all know what that means.
+Never understood this take - of course it can. If someone knows as little of how a scam works or is not paying attention, you think they are checking if a transaction is sending value along with it?
+Some wallets like a certain fox out there have horrible UI
+Very true, but still, you should always be verrry careful with an account with anywhere close to this kind of money in it.
+
+If I had an account with 100 ETH in it that qualified for an airdrop, I'd move most of that ETH into a different wallet before I started interacting with random websites.
+It’s a small to windfall payment to those who use a protocol very early before they release their token. I got a $10,000 airdrop 2 weeks back just for buying $5,000 worth of JITO Wrapped solana. That ignited a frenzy of airdrop hunters.
+I lost everything I had, six figures, two years ago. It sucks but the good thing is that you can earn money and re-invest and end up back where you were. May take some time but it's doable. 
+
+My advice, based on my experience, would be to know when to let go of this money. Putting in a lot of work to try to get it back, if it's unlikely that you'll get it back, will just drag things out when closure could put you back on a good path.
+
+If you ever want someone to talk to about it, let me know!
+I did the same and invested in the S&P 500 now and ETFs. No more crypto for me. I'm sorry for your loss. Big hug from me.
+i’m gonna do exactly this, had a great time with crypto in 2020-21 but since then i haven’t touched it because it’s not fun anymore everything is so toxic. I want to invest in something though for long term and stuff so I’m gonna end up switching to safe investing not gambling LOL
+An so begins the story of how one got Orange Pilled...
+People fully recovered from much worse losses than this. Good luck OP, you can make it.
+You know exactly what you did wrong.  Pretending to be traumatized doesn't help you either.  If it makes sense then use crypto.  If it doesn't make sense then don't.
+I lost 20K man. I've not returned to crypto since.
+I lost 12.5k 6 months ago when atomic wallet was hacked and they still haven’t reimbursed me since. Literally was 1% affected. I haven’t gone back into crypto either.
+I think a lot of people are also being supportive and preaching harm reduction. Mistakes happen, don't let it compile by doing something permanent.
+I'm very active in warning people about this kind of stuff. A lot of people do. It's exhausting. OP probably saw 100 warnings not to do this and still did it. It is hard for me to feel bad for him.
+
+Blaming someone for driving his car with 100 mph on an icy road is not victim blaming.
+It doesn't matter how you feel about him, what people telling is to op is that   life goes on and money isn't worth doing something permanent and stupid that will hurt loved ones and himself, money is absolutely nothing compared to having loving people in your life and being with them, modern society puts money above everything else so that affects people subconsciously, giving it more importance that it really have in the grand scheme of things
+Schadenfreude.
+It’s easy to fall into the mindset of “I had to teach this all to myself. Nobody helped me figure it out. Why the fuck should I feel bad you couldn’t do it?” Obviously that’s not a good way to look at life, but some people just can’t help it.
+Be honest though when it hit $20 would you have still kept it? $100? Come on, unlikely. 
+Unless you had a long-term plan with it, imagine seeing it run to 3k and back down without selling how annoyed you’d be, or would you still be holding?
+Well, I obviously didn’t have the wherewithal to not just gamble it away in the markets. So in what world would I have been able to hold and sell when it was 3 or 4K…? You’re right in that I most likely would have sold at some time along the way, probably the “wrong” time as things progressed and prices soared. I would always have had some regret about how I let the coins go too soon.
+
+So however you slice it, the coins are gone, and despite knowing that the likelihood of me having held onto my stack to sell at the right moment were practically zero, it still took a pretty long time to get over. When millions slip through your fingers, your mind will play a lot of tricks on you and I had a lot of intrusive thoughts like “what if what if what if”—even though it wasn’t logical and I knew it. Still hurt.
+u/jbtravel84 I think you might be able to help OP!
+How did u make that large amount of money in first place? May blessings come your way
+Check out this post Op someone is tracking your scammer
+https://www.reddit.com/r/CryptoCurrency/s/XmkW0d1JDp
+That looks like a scam website!
+That’s not the right address, looks like you signed a malicious contract
+That's not even the frame website. 
+1) airdrop is open for another 40 days. So there's no rush
+2) the airdrop is worthless right now. Might not even take off, it's for a L2 chain built for NFTs. 
+
+You lost 100ETH for pennies at best. You say you've been in crypto for 6/7 years but you're only 19? 
+
+Expensive lesson to learn. You need to go away and learn the best practices for keeping assets safe. 
+Vaults should contain high value assets and never interact with any contracts. Only in and out txs. Hot wallets should hold low value and you can sign all you like.
+Bro his taxes are going to be a shit show, especially the aave taxes
+I think that's a scam bro, I just looked up what your talking about and it seems the actual URL is .xyz, not .events
+There’s your mistake, the original website was frames.xyz
+>frames-xyz.events
+
+hmm doesn't come up for me
+where did you get the link
+On Twitter
+Just memorize the seed phrase.
+Too risky.
+No, the supply chain (ledger connect kit) was compromised for when you connect the ledger with DAPPs but it has now been fixed.  Just sending and receiving currency to and from ledger was always fine.
+No, no it isn't.
+It definitely was, no? Did you hear about the hack?
+I'd love to read a post on how that was done
+using the protocol/chain. i made about 5k on arb, 2k on arkham, 700 on celestia (sold way too early, could’ve been 3k)
+when you say sign, do you mean
+
+* confirm a transaction request on metamask
+* sign a message on metamask
+
+because I always thought that signing messages were harmless
+i'm not the most well informed person on eth but I'm also of the opinion signing messages are harmless since it's only proving your identity and not approving the transfer of something. my guess is that it \*looked\* like a normal sign but was actually the signing for an approval. also the frame airdrop isn't a scam so he must have went on a phishing site
+you will never make that mistake again.
+
+I personally would not even keep 200K in one account.
+I'll offer a question for your question... When is the last time you heard of someone accidentally signing away their stock market portfolio or other regulated securities in the blink of an eye?
+Your question doesn't even suggest an answer to my question, but stock scams are as old as the stock market. Penny stock scams, stealing credentials, impersonating ownership via stolen SSN, fraudulent investors and miss-managed funds, are all absolutely still happening with the stock market. Maybe it isn't "blink of an eye", but the folks being scammed are feeling the same as OP when they figure it out. There is no restitution for any of the above.
+
+There are third party custodial wallets for crypto and for stocks. Stock brokers are a dime a dozen, and there is not any more insurance there than there is for crypto. Your safest bet is an exchange big enough to pay you back when they fuck up, as long as their fuck up is survivable. Fidelity offers you guarantees, but if they go belly up there's no government insurance program for lost stocks if they faked your ownership originally.
+
+So again, what exact regulation are you looking for in crypto?  If you don't want the crypto asset class, go get a different asset class. I am all for regulation of third party custodial wallets, but there's never going to be a regulation that you have to use that. Maybe the thing you are looking for is a CBDC where the government can unwind people's mistakes, which comes with other problems and new forms of fraud. It's also not Ethereum anymore.
+https://www.abc.net.au/news/2023-11-15/victorian-man-seeking-bank-reimbursement-tech-support-scam/103097200
+English please
+You are a low iq person who couldn't understand your native language with some errors.
+
+
+Last thing i wanna do is talk to a pleb
+If you are a victim of your own stupidity you are a clown in my book
+Hes a clown and a hedge fund baby lol
+Okay that’s good! I’m sorry this happened. Have you been paying your taxes on aave? Because that could bring some altercations into the mix
+I recently moved these funds to aave, just few days back.
+1. You DO NOT hold 100 eth on a hot wallet
+
+2. If, for some godforsaken reason, you are holding 100 eth on a hot wallet, you DO NOT use this wallet to claim airdrops
+can’t claim airdrops with a wallet that’s not the qualifying wallet usually
+Right so airsrop was available and guy signed for supposed air drop  why WOULD anyone assume they were after air drops? Ffs
+You don't need to sign airdrops...
+Except you usually do (including the real Frame airdrop)
+Dumb. Logic.
+
+Seriously done with ya'll. Peace.
+yea good idea you seem worked up
+Unrealised gains are still based on current price not future potential price. That's like saying IRS are gonna tax BTC holders for when it one day hits a million dollars a coin. Retarded argument. Literally surprised I'm even bothering to argue with something this stupid.
+can i sign a transaction that requires a pubkey? and what exactly is a pubkey?
+That's what signing a transaction is.
+
+Public key can be computed directly from the ECDSA signature.
+Fuck! If this happen to me Im sure I will never comeback mentally.
+What's the crime? Being stupid and signing a contract?
+Aave ETH supports transfers using permit signature.
+Insane
+WHY x2
+For that juicy 12€ Airdrop bro.
+Good question.
+Mass adoption wont be in this form. It will be handled by apps. You are working with the technical backend that is only for experienced users.
+Are there apps now that do what you speak of? Are you referring to like a coinbase?
+You’re totally correct.
+
+One click is enough on a bad day to cause a total loss. But to be honest, ETH is totally UX-unfriendly, and I’m saying that as a former ETH user who was using it actively from 2017 till 2021.
+
+When I use today the Phantom wallet on Solana, I always get when confirming a transaction, a preview showing what kind of assets my wallet are going to leave now or later (contract approval) before hitting the sign button. Solana is way ahead when it comes to user experience. And it’s moving forward and leaving ETH behind. And it will continue to do so 
+
+I feel your loss. I lost over 250k on some coins. I had only 10k, which I turned now back into over 100k with various Solana projects.
+
+I know you feel devastated, and it will take a hell of a time, but you will recover. Solana is waiting. 
+
+Check out only1 / Aurory / orca 
+
+This three projects should help you to recover some losses during next bull
+Aurory? Why Aurory?
+It's the equivalent of "let me into your house and I promise to leave $5 on the counter". If you don't have time to keep an eye on every single thing they are doing (investigating the transaction) then don't let them do that in the first place.
+Even better, just do cryptoscam airdrops. Don't need to do anything :")
+How do I become a software engineer without  going to school
+The best learning materials are on the Internet. The best way to get noticed is to build something people want or build/contribute to open source libraries. You don’t have to be exceptionally gifted - just motivated, clever, and perseverant.
+Could*
+He could still have more crypto in cold wallet if he put his entire wealth into a single  hot wallet that is the most idiotic thing someone can do
+Yes 100% agree for the long run (I'm also in this for 30 years) this is your best bet.
+I downloaded fidelity but i have no idea what kind of account to open, if I’m going for long term which should I do?
+do you still have the url to the tweet?
+I don't have the Twitter url, I was searching for information on flames and probably encountered this one of many urls. Their airdrop was setup such a way that people had to tweet to be eligible. So there were so many tweets today and this malicious tweet was one of them.
+There have been 2 Ledger-related incidents.
+
+1) Some email addresses or contact info of people who bought a ledger got exposed.
+2) Some contract that you could interact with through the "Ledger Connect Kit" app had a vulnerability.
+
+You can have coin in Ledger and be 100% without worry.
+You reckon? The whole private key recovery idea seems like a step in the wrong direction - from what I’ve heard
+Same thought process here, I always thought as long as I'm not sending a tx (that costs gas) I'm just signing a harmless message. Am I wrong?
+Well. This is a bank, not a securities broker, but Australian banks pay out hundreds of millions each year to reimburse customer losses in cases like this, according to the Australian Banking Association. I don't know what the precise rules are in AU, but this guy may very well get his losses covered by the bank.
+
+With traditional custodial securities like stocks, it's a lot harder to actually lose anything like this, even if your assets get transferred to another account with another brokerage, they can almost always be clawed back in cases of fraud, especially if you act within days or weeks. 
+
+But crypto assets, even when held by custodians, have no such protections and funds can be irrevocably lost in an instant, leaving customers with no recourse. There is no AFC, ABA, or ACCC protections for crypto (as far as I know or would expect, but I'm not familiar at all with AU institutions, honestly).
+
+Brokers and banks are strongly incentivized to implement customer protections and reduce cyber crime for traditional securities and assets in part _because_ they (or insurance companies) are on the hook for the customer funds. This is not necessarily the case for crypto exchanges, which is problematic
+Yah actually that's a good point.  You're right.
+Right, so you just don’t claim them. In fact, you don’t connect the wallet to any 3rd party sites or give out any permissions. You only use that wallet to hold your ETH. 
+
+It is literally free to make a new wallet. Why the FUCK are you actively using one that holds 100 eth?
+sure that’s up to you i guess but airdrops sometimes are worth 2k-15k. its nice that you’re in the financial position to skip those but i personally am not.
+I’m sorry bro, very expensive lesson. Twitter is horrible for scams if you’re not paying full attention since any account can add a tick to their name and look legit if you don’t double check their @
+I'm not sure what you mean by that, but your opinion that it's a step in the wrong direction doesn't mean "ledger is compromised" in any way.
+👌
+Source: thrust me bro
+My point is - if you have that much crypto, you send it to a wallet that is used only for storage, a wallet where you don’t sign any permissions, a wallet you don’t link to any 3rd party site. Preferably a cold wallet. You will not be eligible for any airdrops on this wallet. 
+
+If you are not in a position to skip 2-15k airdrops, you definitely are not in a position to lose 100 eth because you were too lazy to buy a ledger/store it in an inactive wallet.
+Wtf is an airdrop?
+new protocols/chains giving a portion of their tokens to users based on activity and stuff
+You will not recover your stolen Crypto. Ensure you seal all the loopholes that scammers use!The Crypto environment is super risky. From immense volatility to scams and scammers. Today's Apu Index stats is 97.5% of projects launched on Sunday are scams, rug pulls and honey pots. Numbers never lie. I would say Crypto has 2% good people. What that means is the good guys should spend more energy protecting their assets than trying to grow them. Naturally if you are in an a flawed economic system, the people who put in the work end up being eaten by the majority who having nothing to offer rather than short cuts, corruption and all manner of wickedness.
+
+No country has enacted proper laws to curb Crypto theft. Main reason is Crypto is an enemy of governments reason they don't care if you lose them simply because Crypto challenges their old school financial systems. Police everywhere are slow to do Crypto investigations. Exchanges don't have what it takes to get hold of scammers. I worked for a project that got scammed 60 ETH by the CTO, transferred money to MEXC but MEXC released it to scammer 3 days after a police report was filled with them.
+
+Watch out and seal all loopholes scammers use because if your assets are stolen YOU WILL NEVER GET JUSTICE.WARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*
+Ledger just agreed to make whole the morons who were signing blind transactions... sometimes idiots get their money back.
+This is why crypto will never be mainstream
+On decoding raw calldata (without the ABI or signature resolution)WARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*

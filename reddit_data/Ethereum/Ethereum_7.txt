@@ -1,0 +1,75 @@
+How exactly would I get funds out of an L2 that goes down?For example, suppose optimism goes down and I have 1ETH on it. How would I get the 1ETH back onto the L1? Is there some smart contract or something I just call?
+
+Piggybacking on the question, if the amount of ETH I have on an L2 is less than the cost it takes to "unbridge" it on the L1, is the ETH effectively lost until the L2 comes up?WARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*
+The L1 bridge contract is aware of L2 state root (that L2 sequencers update when they batch new transactions), and that's what you'd use to prove to the L1 bridge contract that you own funds on L2 and want to withdraw. This escape hatch mechanism bypasses sequencers altogether so even if there's no new batch coming in, you can get your funds back.
+
+But yeah, it's an ultimate last resort and you're screwed if the cost of using the escape hatch is greater than the funds you have on L2. Other built-in mechanisms ensure liveness so that even if the most centralized sequencer goes down, someone else can come and take all the data batched to L1 in order to sync the L2 state and become a sequencer to batch transactions again. At which point you can bridge your funds to another rollup for cheap
+What if the ETH is deposited as collateral in AAVE on the L2?
+&#x200B;
+
+>But yeah, it's an ultimate last resort and you're screwed if the cost of using the escape hatch is greater than the funds you have on L2
+
+If ETH mainchain does become only for super ultra whales, this seems like a problem for anyone with assets on an L2 that goes down.. Unless, as you say:
+
+>Other built-in mechanisms ensure liveness so that even if the most centralized sequencer goes down, someone else can come and take all the data batched to L1 in order to sync the L2 state and become a sequencer to batch transactions again. At which point you can bridge your funds to another rollup for cheap
+
+Is this unique to optimism, or does every L2 have this property?
+It depends on the L2 and whether it's the sequencer or the proposer that has stopped working:
+
+ https://l2beat.com/scaling/risk
+optimism doesn't have a proposer failure mechanism yet
+
+https://l2beat.com/scaling/risk
+
+can someone chime in on how an ordinary person may self-propose on arbitrum?
+You can't until l2 is up and running.
+[deleted]
+the contract is on L1, and doesn't depend on L2 sequencer or nodes being up
+L2s exist to capture value for validators that would otherwise go to better chains.
+the absolute last resort mechanism in that case would be to first force-push an L2 transaction through the L1 contract to withdraw out of Aave. But yeah the more DeFi lego you use the more complex it gets, like with price oracles no longer updating etc. causing a DeFipocalypse on L2
+> Is this unique to optimism, or does every L2 have this property?
+
+I don't wanna be the one instigating the next definition war, but yeah, IMO if you wanna be called a "rollup" and be able to say that you inherit the security/liveness/decentralization of the chain you're settling to, then you definitely need to work these mechanisms in. But as [things are right now](https://l2beat.com/scaling/summary) there are multisigs and quick upgrades/mutable L1 contracts for rollups, so I definitely wouldn't recommend putting your life savings on there just yet.
+
+>If ETH mainchain does become only for super ultra whales, this seems like a problem for anyone with assets on an L2 that goes down
+
+yeah it's kind of an unavoidable reality, Bitcoin's Layer 2 solution (Lightning Network) had a harsh reality check when it comes to opening/closing channels in a high fee environment on Layer 1. But I guess the idea of fractal scaling is you'll have a few winner rollups that do it right and are immutable/decentralized/fully inherit L1 liveness, and then you can do state channels and app rollups on top of them so channel management and escape hatches stay cheap. Otherwise some changes could plausibly be made to L1 to have native batching compatible with L2s to deal with these extreme situations.
+Download eth blockchainIs there an efficient way to download, say, the last year of the ethereum blockchain without running a full node? I just want historical data without being throttled by an API.WARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*
+Running a full node would be the easiest and fastest way to get what you want. Why don’t you want to run one?
+I don’t have a dedicated machine with enough storage space.
+You don’t strictly need a dedicated machine, and any download would be pretty large as well.
+Best podcasts for ETH holdersI listen to bankless which is pretty solid imo. Just wondering if there are any other good resources out there to expand my knowledge of ETHWeb3 Builders: https://www.web3builderspodcast.com/
+
+Epicenter: https://epicenter.tv/
+
+Unchained is hit-and-miss but some of them are really good. Try to catch the ones with just Laura Shin and a guest.
+https://unchainedcrypto.com/
+
+Long Lex Fridman interview with Vitalik Buterin, about lots of topics other than Ethereum but really good.
+https://lexfridman.com/vitalik-buterin/
+
+Finally, this isn't what you're asking for but if you're listening to a lot of crypto podcasts (other than the ones I list) you'll be hearing a lot of stuff about finance and economics that's, to put it generously, ahem, not mainstream. It's fine to listen to that stuff and hear various points of view but to make sure your overall diet is making you smarter not dumber, I would try to balance it with some normal non-crypto content about those subjects. One podcast I really like is Odd Lots, which is Joe Weisenthal and Tracy Alloway interview experts on lots of different subjects: https://www.bloomberg.com/oddlots
+Adding to the ones Edmund recommended:
+
+ 'The Daily Gwei' is a great 30m hit of Ethereum news if you really want to stay up to date.
+
+'Zero Knowledge' is, unsurprisingly all about ZK tech, not all specifically Ethereum related but really interesting if you want to get to grips with what is coming down the pipe in terms of SNARKs, validity proofs etc.
+
+'Green Pill' is focused entirely on the public goods side of the ecosystem, stuff like Identity and Sybil resistance, Quadratic and Retoactive funding mechanisms, DAO voting designs etc (in my opinion the most interesting parts of crypto).
+Thanks, I didn't know about Green Pill or Zero Knowledge, just subscribed.
++1 for the zero knowledge channel, just the other day I thought that I'd like to hear more about ZK tech -> subscribed
+Definitely Daily Gwei for all things ETH. 
+
+Bankless is my favorite though—the one released today “ETH in 2024” is very good
+Bankless
+literally listening to bankless rn, lol
+Would recommend bankless
+Bankless is the ultimate ETH maxi podcast. Everything else pales in comparison.
+Wolf of all streets!
+all the blockworks podcasts are pretty good. not necessarily eth only tho

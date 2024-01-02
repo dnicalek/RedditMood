@@ -1,0 +1,46 @@
+I just used litecoin as a payment option for the first time!Hi, I just now actually utilized crypto as a means of payment, mostly due to the recipient only allowed crypto (donation). 
+
+I have, against all sensible guidelines, all my crypto still in an exchange (due to laziness), but it's not much so I wouldn't get bankrupt if the exchange would die. 
+
+I'm using Bitstamp, and I have some questions regarding this transaction flow compared to a wallet based one:
+
+In order to transfer funds to another wallet, I did a withdrawal (to an LTC adress). The recipient adress was scannable via QR, which was nice. I had to confirm the withdrawal twice, first with my 2FA, then also via an email confirmation link sent out. This, seems a bit tedious. The actual fee, was not configurable, but seemed fixed at 0.001 LTC, which I understand is also not "a normal flow". 
+
+The fee is probably high and Bitstamp takes a big cut of it. Looking at the transaction via [explorer.btc.com](https://explorer.btc.com), it gives me:
+
+Fee:0.00000409 LTC (so quite a difference compared to the bitstamp fee 😅)  
+But it also seems to contain two transactions from the same source (I assume this is two bitstamps withdrawals).   
+Seem to have taken about 7 minutes to complete, is this normal? Or is this the exchange introducing delays? (maybe due to a low fee offered by them?) 
+
+Can anyone describe how the flow would differ given a:  
+1: hardware wallet (how do you actually transfer from a hardware wallet)  
+2: Mobile wallet
+
+Thanks in advance!Your exchange 100% delayed the transaction. Blocks are completed every. 2.5 minutes. If it takes longer than that they are holding it back. 
+
+I use the mobile wallet,  Litewallet for payments. Scan the QR code for payment and it is done in less than 2 seconds.
+That's interesting. Even a 2.5 minute verification time is a long way from how other online transactions work.
+
+If that is the case is isn't really ready to replace card transaction for a while. And I wonder if it will ever be like <5s which is expected for an online transaction. I guess if you can atleast get a preview of a transaction to just finalize an order (and then wait for verification), but the actual payment is done from the other end, so doesn't seem technically feasible from my understanding.
+It's not unusual for exchanges to introduce delays, especially during peak trading times. As for the fee, it's indeed a bit high. Remember when we used to pay hefty fees for international wire transfers? Crypto was supposed to change that, right? Well, some exchanges still operate with that old mindset. What's your take on this?
+I guess you stopped reading after the first paragraph. Moblie payments are done in seconds. When paying online you are presented with a QR code. Scan the code and "boop" payment is done. I use it all the time with no issues and I'm not the only one. Check out Bitpay, the online crypto payment platform. They have a stats page that shows LTC is the number one coin for online payments
+Yeah, I was just referring to how long it takes for the recepient to get acknowledgment about payment was succeeded. That would be take up to 2.5min, no?
+
+Even if your part of the transaction is done in seconds.
+2.5 is the theroical maximum. Say you submitted a transaction 2 minutes and 28 seconds after the last block. This transaction would be complete in 2 seconds. 
+
+LTC is four times faster than BTC and has MWEB implementation so you never have to wait because blocks are "full" 
+
+Also comparing it to fiat LTC is significantly faster than credit/debit transactions without the required 3-5% going to Visa. Forget about ACH transactions 3-5 business days lol.
+The Litecoin (LTC) Equivalent: A Silver to Bitcoin's Gold?
+
+Hey there, crypto enthusiasts! I've been pondering on Litecoin (LTC) and its position in the crypto world. Often referred to as the 'silver' to Bitcoin's 'gold', LTC has proven itself to be a reliable and efficient cryptocurrency, especially when it comes to smaller transactions. But, do you think it's fair to continue comparing it to Bitcoin, or should we start appreciating LTC for its unique features and capabilities? Let's discuss!Should appreciate it as a great cryptocurrency in it's own right.
+I wish more people would implement the mimblewimble feature.
+I'm waiting for mobile implementation
+OG proof of work and proof of time! Itz my favorite crypto! You got to pump it up, don't you know pump it up...
+why spam the lightning network, when you can spam the litecoin blockchain for pennies on the dollar... ordinalz0nLiteC01N... rose cluster memory mammal melody say surface subject alley lonely tent drum
+Litecoin is great all on its own but I do treat it like silver : by buying lots of it
+Bitcoin congestion is pretty bad. Litecoin is over here operating like mag-rail commuter trains in Japan. Low cost and high speed.
+silver that keeps making new all time lows vs bitcoin?
+Shit will sky rocket once convenient to use!
+Newsletter with Crypto summary of YouTube videoHello everyone, I wanted to ask you what you think about this product I made: I can't keep up with all the news in the crypto world that happens every day and for these reasons I created a newsletter that sends you every day a post with summaries of YouTube videos of the top creators in the crypto world, do you think it could be useful? this is the link https://quickviewai.substack.com/, any feedback is welcome.

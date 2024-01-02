@@ -1,0 +1,74 @@
+what is LP burn in solana tokens?now days altcoins are trending up but some people talk about LP burn, why it is good for project and etc. I dont have any idea what it is, can someone explain me? WARNING: 
+1) IMPORTANT, Read This Post To Keep Your Crypto Safe From Scammers: https://www.reddit.com/r/solana/comments/18er2c8/how_to_avoid_the_biggest_crypto_scams_and/
+2) Do not trust DMs from anyone offering to help/support you with your funds (Scammers)! 
+3) Never give out your Seed Phrase and DO NOT ENTER it on ANY websites sent to you.
+4) MODS or Community Managers will NEVER DM you first regarding your funds/wallet.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/solana) if you have any questions or concerns.*
+LP stands for Liquidity Pool.
+
+When a coin launches on a dex, it’s added to an LP. 50:50 split of sol and said random shitcoin.
+
+The creator of the pool receives LP tokens as a claim to the valuable solana and potentially valuable shitcoin. 
+
+An LP makes a coin tradable. It’s necessary to have to buy/sell a token. If the coin pumps, you could end up with 10,000+ solana in the LP (when people buy, they remove tokens from the lp in exchange for solana) 
+
+Now these LP tokens that the dev now has, means he could potentially remove all that liquidity, which would be a standard rug pull. And run off with the 10,000+ solana. 
+
+By burning these tokens, he no longer has claim to the LP. Meaning it can run up to infinity amount of solana in the pool, and not a single person can claim. A decentralised, ball of liquidity will exist forever.
+Where can one specifically find this information when looking at a new coin?
+So that means creator commits x number of meme tokens to a LP. 
+
+He burns claims to those meme tokens in the LP. This creates a ball of liquidity that no one can claim. If I understand correctly. 
+
+Why can't CT join the LP later (with his own tokens) and remove Sol liquidity?
+Of course
+I could tell you on eth, relatively new to solana shitcoins and the explorer is not as easy to navigate.
+
+Some people use bots to check various things.
+When the creator wallet intersects with Raydium V4 on solscan or whatever block explorer you are using, this is when they are setting up the LP.  In this txn you can see where he interacts with the app for 50m inudogshitcoin and 50 solana and in returns received 1m of an unnamed, unrecognized token. This is the LP tokens. They are a voucher that the creator can turn in at anytime for 100% of the solana and the remaining % of the shit coin. If they burn this token they no longer have the voucher for these items in the LP meaning they are there forever. No one can remove them unless they interact with the pool via the coin or sol. 
+
+Now for the elaborate part. Devs know the jeeters are looking for all these things. Some forget about mint authority. If that is still turned on it doesn’t matter if the dev put 1000 sol in the LP and burned it. They can simply mint another 100b tokens and trade them in a single txn to wipe all the liquidity for the coin. Shit coins on solana are going to go crazy this year. Just need to be prepared for all the ways to get rugged by it. If you get skilled enough you can even make money on obvious rugs.
+Yes x number of meme tokens + sol in a 50:50 ratio.
+
+Yes that’s correct.
+
+Yes, they can, and they can remove their own liquidity if they want. But is not possible to remove the initial liquidity, ever. Adding more increases the supply of the LP claim tokens, but the initial ones remain burned.
+It doesn’t need to be 50:50. You can set 1b tokens and 1 sol if you want to. That simply puts your market cap at $100. And your token would be worth 0.0000001. When a dev only put 80-90% in this also changes the market cap and initial buy price. Your txns called also get sandwiched by MEV bots so you need to be aware of those as well
+u/Clintoris rugged $CCH yesterdayu/Clintoris rugged the meme coin he was promoting on this sub a few days ago. 
+
+The wallet that did the sell of received some cch tokens from the original token creator wallet. Not only that but $CCH worth $5k was sent to the seller wallet from 11 different wallets. Thus he splitted his holdings so it didn't look sus. He then dumped everything and price basically went to 0. Right after that he deleted the telegram and also posted some lies on Twitter. Usually we don't even know the reddit name from the rugger but since I know it's him I am just letting everyone know that he is an asshole.
+
+Fortunately I sold most when it was like 15x so I personally made some money but many lost here.
+
+Edit: looks like he deleted his account now because I told him on Twitter I will call im out lol. What a loser.WARNING: 
+1) IMPORTANT, Read This Post To Keep Your Crypto Safe From Scammers: https://www.reddit.com/r/solana/comments/18er2c8/how_to_avoid_the_biggest_crypto_scams_and/
+2) Do not trust DMs from anyone offering to help/support you with your funds (Scammers)! 
+3) Never give out your Seed Phrase and DO NOT ENTER it on ANY websites sent to you.
+4) MODS or Community Managers will NEVER DM you first regarding your funds/wallet.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/solana) if you have any questions or concerns.*
+Trading obscure meme coins found in the depths of reddit is like the highest risk trading you can do in crypto. Most of them Rug and most people lose, just stick to real cryptos or if you do trade absolute shitcoins just use play money because this happens all the time
+Agreed always proceed with caution when buying into low market caps with no utility & vague information available about the founder/devs
+What a tragedy. Anyways, moving on…
+it’s easy to shrug this off but it’s important for “noobs” getting in this season to understand the risks of these projects. Most projects are scams, 100 coins that actually provide innovative technology/utility aren’t doing 100x so people chase the hype. All of this rug pulling is a final stretch before regulations take over the Wild West of crypto
+wow! really!? ok anyways…
+Who buys coins pumped on Reddit? This is the absolute worst place to get meme coin advice. Please don’t get any advice from Reddit. Do some research before you end up like these folks.
+Happened to me yesterday and now the account on TwitterX has no posts. Do not buy this crap @Schmolana
+Somehow it tagged a Clintoris but it's the wrong account. The one I meant got just deleted.
+What did you expect? With a name like Clintoris he literally told you he's a bit of a cnunt.
+LoL welcome to sh*tcoins
+Solana News Rewind: The Biggest Moments in 2023Explore the transformative year of SOL in our Solana news rewind, witnessing a renaissance marked by Bonk (BONK) mania, the rise of Solana DeFi 2.0, and more. 
+
+[https://blockchainreporter.net/solana-news-rewind-the-biggest-moments-in-2023/](https://blockchainreporter.net/solana-news-rewind-the-biggest-moments-in-2023/)
+
+https://preview.redd.it/hw5zux47t79c1.png?width=1920&format=png&auto=webp&s=89707f95c5b9ca065111b50a2ce28e29009a03b0WARNING: 
+1) IMPORTANT, Read This Post To Keep Your Crypto Safe From Scammers: https://www.reddit.com/r/solana/comments/18er2c8/how_to_avoid_the_biggest_crypto_scams_and/
+2) Do not trust DMs from anyone offering to help/support you with your funds (Scammers)! 
+3) Never give out your Seed Phrase and DO NOT ENTER it on ANY websites sent to you.
+4) MODS or Community Managers will NEVER DM you first regarding your funds/wallet.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/solana) if you have any questions or concerns.*

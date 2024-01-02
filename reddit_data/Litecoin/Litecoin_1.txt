@@ -1,0 +1,61 @@
+BTC: Active Addresses & fees VS. LTC: Active Addresses & feesPrice will follow
+I'm interested in the relationship between transaction fees and active addresses on the Bitcoin and Litecoin networks. I've been looking at some data from Glassnode, and there's a negative correlation between BTC fees and BTC active addresses. In other words, when BTC fees go up, the number of daily active addresses on the network goes down.
+
+
+For example, in the image above, you can see that when the Bitcoin Median Transaction Fee goes up to 0.0003, we see a drop in Daily Active Addresses from around 900k to 750k. And again, when the Bitcoin Median Transaction Fee goes up 0.0004, we see a drop in Daily Active Addresses, from 1.1m to 801k.
+
+
+At the same time, there's a positive correlation between BTC fees and LTC active addresses. In other words, when BTC fees go up, the number of daily active addresses on the LTC network goes up.
+
+
+I'm curious to hear what other people think about this. Is this trend likely to continue? And what are the implications for the future of Bitcoin and Litecoin? 
+ 
+
+I'd also like to hear about any other interesting correlations you've noticed between on-chain data and price or network activity.
+Yeah you posted a great topic for all of us to see.. Wondering how many people can reply from a technical point of view.
+
+Its easy to see how litecoin will never be let go... It is reliable enough through the years for people to trust it and use it... You cant say this about other even higher market cap coins..
+
+LTC will be here to stay like it or not it is second to bitcoin, can talk about new tech or different use cases.. but the truth is other coins have to prove themselves first with time in reliability.
+
+Again, great post and Thankyou.
+This chart doesn't take into consideration the activity moved into BTC LN...
+LN-BTC is excellent, but it has its own set of problems. Mainly, it does not help scale layer one transactions. This means most users would have to rely on a custodial service, which means they are not Bitcoin users but users of ***THAT*** service and the security and decentralization of that they offer. To maximize Decentralization and Security, you must be open to other chains, and Litecoin is the best alternative. 
+
+Furthermore, with Mimblewimble and Scriptless Scripts, you can build a lightning network on top of a genuinely fungible protocol that does not compete with Ordinals taking up block space, and by using extension blocks, users of that protocol inherit the decentralization and security of the miners and nodes protecting the Litecoin Network.
+This “suppression” theory is outrageousI mean if this “manipulated suppression” theory everyone says is true how “the big boys” are stacking, why is there no whale holdings increases?? This is the only coin seeing new ratio lows every single cycle (and at this point every single day). If there’s such a thing as max pain I seriously think these last 5 months have been it. 7 years of being into this coin and honestly it’s never felt worse to be holding. (Price matters).Don't worry it will have it's year in 2024 or 2025. 2k price target.
+I think at this rate it’s more likely to see #30 position on crypto rank and half the value. There’s no incentive to buy and hold this thing if it can’t even increase in price at all over 7 years.
+join the discussion
+
+https://www.reddit.com/r/LitecoinMarkets/comments/18mmgqm/daily\_discussion\_wednesday\_december\_20\_2023/
+Follow @LTCFoundation on XShout out to those that have DM’d me & thanking me 🙏🏽 for my recent comments on here & the last post I made.. it’s clear a lot of people are coming to the Bitcoin & Litecoin Reddits to find like minded individuals and a lot of people’s judgements are based off of their favorite YouTuber… I get it but a lot of YouTubers that you follow are biased towards one side based off of whoooo knows what….. … just like institutions… they follow what the people want.. as you can see….. believe it or not even the almighty Michael Saylor was against bitcoin at one point.. & those of you that speak negatively on Litecoin just look like him in the earlier stages.. litecoin will make its run just be patient.. I’m not selling you anything l.. I’m not promoting a YouTube page or anything.. I’m just an individual that is looking out for my fellow human. 💪🏽 🫱🏾‍🫲🏼 treat this as your savings/retirement and I promise you you won’t regret it. 🧩I didn’t know that LTC is capped at 84 million. Thanks for sharing this info!
+You got it.
+yeah it's not like doge that has 5 billion annual coin  inflation 🤣
+A lot of people rant about litecoin price not going up. But guess what? 88% of total supply is in circulation and the price is stable. So the coins has been absorbed well by the market and it's only about time for it to climb up.
+Only 10 million more Litecoin will be created for the rest of eternity.
+
+14.4 million Doge are created every day.
+What’s your point? And before you answer that, would you invest into something with an  scarce amount or an infinite amount…. & litecoin is made to complement Bitcoins transactions..  I really need to know what was your point
+And do your googles  to find out when all bitcoins will be mined & litecoins…. I swear you people have the most one side points of views I swear
+My prediction for the future is that for some bizarre reason DOGE will become the world currency because of the inflationary design. It’s always some advanced shit nobody expects.
+Also please follow here if you have a BlueSky (Jack Dorsey Twitter clone) account:
+
+https://bsky.app/profile/ltcfoundation.bsky.social
+My point is Doge is a fucking joke and should not be taken seriously.
+……….In that case……Why are you even mentioning doge?
+…….. is that because that’s what you hold the most?
+Litecoin and quantum computingI know Litecoin developers read this forum.  Are there any plans to program a fork to resist the upcoming quantum computing threat?  This would be a great opportunity for Litecoin to distinguish itself from Bitcoin (along with nimble wimble).TBH! It is not really a threat
+
+If quantum computers are capable of breaking encryption then they are also capable of encrypting and decrypting things at much high speed. We just need to change our encryption algorithm to more powerful one.
+No plans. As usual, Litecoin will copy each version of Bitcoin and reapply the small set of changes which make Litecoin different  
+
+Or, you might be volunteering to recruit a team of developers for your Litecoin wish list
+Not true. If there's any urgent security issues, we will patch ASAP without having to wait for upstream's changes.
+If I recall correctly, Charlie lee mentioned in litecoin summit 2022 that litecoin has in-built "switches" that can be turned on if quantum computing becomes a threat.
+LOL
+We are wwaaayyy out from quantum computing. I met a few guys from Google last year working on this and they  agree. Materials that are used get destroyed if they go over quite low temps. So in practice there isn't much uptime for them to really do anything before turn it off. Other materials are beinging researched but far from reaching any conclusions.
+
+However, it is a valid concern and should definitely be considered in the next 7 to 10 years. However, if that time comes we are all screwed anyways, just FYI.
+If quantum computing starts breaking long-standing encryption and hashing algorithms we'll have bigger problems than our internet coins losing value lol. 
+
+Im sure the devs will do something if there is any serious threat, though

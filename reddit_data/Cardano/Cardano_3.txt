@@ -1,0 +1,143 @@
+Daily Discussion - December 22, 2023Hello everyone,
+
+Welcome to the Cardano Daily Discussion!
+
+*The standard sub rules apply here (see sidebar), with the exception that price discussion is allowed in this thread, though we encourage you to try not to make this the focus and talk about the project itself. Please ask questions, help others and be civil - be sure to get involved in Project Catalyst too!*
+
+If you're new, please make sure you're read through the [**newbies guide**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/hhcvkc6/?context=3) and share it with others (use the `?newbies` comment command to reference it).
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;
+
+https://preview.redd.it/ia7e1fhk787b1.png?width=600&format=png&auto=webp&s=8781ce26dfe611a4145d3f81e69738db2043d138
+
+# [Join our Midnight Subreddit](https://www.reddit.com/r/midnight)* ⚠️ [**PSA - SCAMS**](https://www.reddit.com/r/cardano/comments/lccorg/psa_there_is_no_such_thing_as_cardano_giveaways/) *Beware of scammers in direct messages.*
+* [**NEWBIES GUIDE**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/) *Start here*
+* [**PROJECT CATALYST**](https://projectcatalyst.io/) *Propose and vote on projects*
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*
+CARDANO - ARGENTINA - LAWAll the news that you need to know.
+
+@IOHK_Charles 
+
+🔵A law in the form of a DNU has been issued, requiring approval by a simple majority of the Congress, amending the Civil and Commercial Code of the country. 
+
+This allows parties to have obligations or contracts in any currency, legal or not, and such obligations must be fulfilled in that currency to discharge the obligation and consider the contract fulfilled. Articles 765, 766, and 958 of the mentioned code are affected and modified by this.
+
+What does this mean for non-lawyers? 
+
+We might be able to enter into contracts in ADA if this program is approved.
+
+🔵 The Minister of Foreign Affairs certifies this through her Twitter account, endorsing any cryptocurrency.
+
+Who wants to be part of the first legal contract in ADA using the CARDANO MAINNET?? 
+
+LET’S DO IT ! AND SHARE THIS !
+
+Design @LaCardoneta
+
+Sources:
+
+🔵 https://www.boletinoficial.gob.ar/detalleAviso/primera/301122/20231221
+
+🔵 https://x.com/dianamondino/status/1737878455637733690?s=46&t=jMR9wP17b8gJF1AYeuCu6AAll-caps title = downvote irregardless of content.
+
+Non-descriptive title = same thing.
+But … CARDANO … ARGENTINA … LAW !!!
+I actually like all-caps. It's VERY readable.
+Vamos la libertad carajo!
+Let's gooo!
+I've been with the same pool (1PCT variant) for nearly 4 years. Never had any issues with it. Any reason to change now?* ⚠️ [**PSA - SCAMS**](https://www.reddit.com/r/cardano/comments/lccorg/psa_there_is_no_such_thing_as_cardano_giveaways/) *Beware of scammers in direct messages.*
+* [**NEWBIES GUIDE**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/) *Start here*
+* [**PROJECT CATALYST**](https://projectcatalyst.io/) *Propose and vote on projects*
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*
+1PCT have around 30 pools, terrible for decentalisation if you're delegating to them. 
+
+?pools ⬇️
+#Stake Pools
+
+**Guides to decide which stake pool to delegate to:**
+
+* [See IOHK's guidence for delegators here](https://iohk.io/en/blog/posts/2020/11/13/the-general-perspective-on-staking-in-cardano/)
+
+* [How do I pick a staking pool to stake my ADA with?](https://www.reddit.com/r/Cardano_ELI5/comments/l004rh/how_do_i_pick_a_staking_pool_to_stake_my_ada_with/)
+
+* [Selecting Pool for delegation](https://cardano-community.github.io/support-faq/#/select-pool-to-delegate)
+
+**Stake pool comparison sites**
+
+The community has built many invaluable tools for you to compare stake pool statistics:
+
+* [PoolTool](https://pooltool.io/)
+
+* [Adapools](https://adapools.org/)
+
+* [ADAex](https://adaex.org/)
+
+* [Cardanoscan](https://cardanoscan.io/)
+
+* [AdaTools](https://adatools.io/)
+
+* [Pool.pm](https://pool.pm/)
+
+* [PoolStats](https://poolstats.org/)
+
+* [PoolPeek](https://poolpeek.com/)
+
+**When delegating try to:** 
+
+* Support pools that contribute to the community.
+
+* Use wallets that allow you to select your own pool (like [Daedalus](https://daedaluswallet.io/) and [Yoroi](https://yoroi-wallet.com/#/)).
+
+* Avoid staking with [large entities](https://adapools.org/groups) like Binance (It's bad for decentralisation and therefore the project).
+
+**Make sure you visit r/CardanoStakePools!**
+
+Typing `?help` in the comments will show a list of all available comment commands.
+       
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*
+If you want Cardano to be decentralized - switch to a single pool operator.
+I'm a pool operator and go where your comfortable if it's 1 PCT or otherwise
+I have been on and off 1pct pool 
+
+Honestly, I prefer them.
+
+The small pool operators were good in fostering a community. But. You take a significant hit to your staking rewards.
+
+For example I lost half the amount I would get with 1PCT joining an independent. 
+Half the reason was 
+1. Their fees are always higher 2% or more 
+2. Minting less blocks 
+
+I am back with 1PCT and will be sticking with them unless something big happens, like an exciting or lucrative drop.
+If your rewards are consistent and you don’t care about supporting smaller pools then no I don’t see a reason to switch
+The issue with such pool operaters is that if Cardano fails to be decentralized, the value of the tokens will go to zero. 
+
+This means if you are invested for multiple years, you probably should care abit more about the health status of the network.
+People are saying decentralisation, and you probably think that just means different people.
+
+Geodiversity also matters, also diversity of hosting solutions. 
+
+For example, my pool is in Brisbane Australia, running on my own servers. If everyone sticks to big stake pool operators, you end up with them bring located in just a few spots on just a few cloud data enters.
+What’s your fee?
+How can anyone be comfortable delegating to 1PCT and hindering Cardano's decentralization?
+Because its not, and he has or she to operate as many pool's as they can, no one attacks the well known for multi pool operation, so why attack or discredit anyone else.
+Bad take! Very bad take!
+Everyone has a different perspective. I used to think like you, but that's crypto decentralized echo systems don't allow discrimination
+Bad take!
+It's fine to have your opinion. I think governance is more important
+Huh? What does this have to do with governance?
+OptionFlow just launched on the Cardano mainnet! Join us as we discuss what's new for Cardano DeFi.* ⚠️ [**PSA - SCAMS**](https://www.reddit.com/r/cardano/comments/lccorg/psa_there_is_no_such_thing_as_cardano_giveaways/) *Beware of scammers in direct messages.*
+* [**NEWBIES GUIDE**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/) *Start here*
+* [**PROJECT CATALYST**](https://projectcatalyst.io/) *Propose and vote on projects*
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*

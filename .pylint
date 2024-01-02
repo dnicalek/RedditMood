@@ -1,0 +1,4 @@
+[MASTER]
+load-plugins=pylint.extensions.check_docs
+[TYPECHECK]
+generated-members=CryptoData.*,DataProcessor.*,FileAndFoldersProcessor.*,MainProcessor.*,FirebaseManager.*,LoggerConfigurator.*,NotificationSender.*,SentimentAnalyzer.*,TextProcessor.*,TimeProcessor.*

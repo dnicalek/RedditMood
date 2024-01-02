@@ -1,0 +1,137 @@
+Vitalik: Sticking to 8192 signatures per slot post-SSFThere's a certain irony in spending years researching the current implementation, with bleeding-edge signature aggregation, only to realize that it's too complex and can't do the things we need from a consensus protocol in the future
+>Many non-Ethereum blockchains, faced with this exact problem, use a committee-based approach to security. During each slot, they randomly choose N validators (eg. N ~= 1000), and those are the validators responsible for finalizing that slot. It is worth reminding why this approach is insufficient: it does not provide accountability.
+
+I had never seen the reason why Algorand's method was problematic, neat.
+why it does not provide accountability?
+Question: Why single slot finality is persued so hard? I know currently its like 15 minutes, which is too long for some usecases, but going all the way into one slot seems to be an overkill. If we had blocks finalized within 60 seconds (~4 slots), it would be perfectly acceptable for most users, even demanding ones.
+I think single-slot finality is being pursued because there's no good way to do 4-slot finality that doesn't also do single-slot finality.
+
+In other words, it's either 15-minute finality or 1-slot finality, there aren't any designs that make sense and work in between.
+If we want regular buisness to use Etheruem rails we need single slot finality or very close to it. It's the classic "buy a coffee with bitcoin but wait 30 minutes for the transaction to complete" problem
+I am just afraid this will take over some power from solo stakers. I actually liked his Approach 3: rotating participation (ie. committees but accountable), where solo staker can stake as low as 1 ETH.
+Option 1 feels the most true to ethereums Visio, decentralization wherever possible.
+
+Option 2 is interesting… different staking layers and tiers feels closer to human society. This time high level power is checked by the lower tier.
+
+Options 3 basically forces solo validators to join a smoothing pool. Solo stakers already don’t like waiting for blocks. Imagine if you had to wait to attest.
+option 1 is a shot in the foot as is what older 2017 masternodes like blockchain worked, which was way too centralized.
+I think it is described in the link. If a 51%-attack were to happen, only a part of the colluding stalkers would be hit with a penalty (only the ones in the committee). However in POS it is important to make an attack on the network very expensive.
+Issue with sending ETH to MetaMaskETH newb here. I was wanting to send some ETH so I could cover gas to buy some Pawthereum. I've sent it from CoinSpot to MetaMask using Optimism, and I was told this was fine to do. As always, I sent a test TX (~$5 worth of ETH), but it has been about 10 minutes and still is not showing in my ETH balance. Additionally, I can get quotes from ETH to PAWTH but not vice versa. Could someone please explain this to me?
+
+Cheers!WARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*
+As to "Pawthereum," I have no idea what that is.  A meme coin?  In any case, be very careful playing with meme coins, some do a100x, most are scams and go to 0.
+Not calling the OP a newb, but this and the need to be wary of people trying to “help”(rob) them are the two most important things someone new can learn early IMO.
+Been following it since 2021. It's technically a memecoin, but it gives a small percentage of each TX to a charity wallet to help animals in need. [The team is doxed, and the project is audited and legit.](https://pawthereum.com/) It's just had a big rally over the last week, and there's still plenty of room to run.
+You send the ETH to L2 Optimism. Which is indeed fine to do and also cheaper. However now your funds didn't arrive on L1 Ethereum. As stated in other reactions you can access it but if Pawthereum is on L1, you need to send funds to L1 Ethereum.
+You're right. Rather than bridge in MetaMask, I decided to instead just buy ETH via Coinbase directly from MetaMask. Since the test TX was less than $5, I'll just let it chill there. All good! Thanks!
+The $5 may not be enough to cover ETH gas fees. Meaning the fee to send ETH is higher than $5. It’s probably about $15 right now. Meaning you need to send more like $40-$50 minimum. And you’ll see about $25-$30 worth of ETH in your wallet. 
+
+Gas fees suck I know but it’s the price you pay for DEX
+He said he was using Optimism.  Gas fees are very low to send on Optimism, just pennies.
+What network are you looking at on Metamask?  Did you switch the network from Ethereum mainnet to Optimism?  This is easy to do in Metamask, please Google it.
+
+Also, avoid anyone messaging you now, they are the scum of the earth, they will try to steal your money.  Only answer people in public forums.
+>What network are you looking at on Metamask? Did you switch the network from Ethereum mainnet to Optimism? This is easy to do in Metamask, please Google it.
+
+This part I got.
+
+>Also, avoid anyone messaging you now, they are the scum of the earth, they will try to steal your money. Only answer people in public forums.
+
+Thanks for the heads up. I will be careful.
+Oh no! Hope you didn't fall for any scams. Optimism transition can be confusing, but we're here to help. Check your network on MetaMask and make sure it's switched to Optimism. Let us know if you still have issues!
+Nah, it was just a test TX. I did manage to find the test TX on Optimism, but it seems it can't be used to purchase the token I wanted. Not a big deal. Just playing around with it is all.
+Oh sorry not familiar with that then
+Testnet questionsIs Holesky a testnet for Ethereum CL clients and Goreli a testnet for EL clients that communicate with each other (that's at least how I thought it worked)?   
+If so how come they have different epochs for DenCun upgrade?> Is Holesky a testnet for Ethereum CL clients and Goreli a testnet for EL clients that communicate with each other 
+
+No.
+
+Goerli is the old general-purpose testnet.  It kind of went wrong because people wanted to use it to test their staking setups so they needed a lot of ETH, then Goerli ETH started to become scarce and people started paying for them which isn't what you want for a testnet. Goerli is now deprecated, you're not supposed to use it at all.
+
+Holešky is a testnet that looks quite similar to mainnet, intended for testing staking setups and testing protocol changes.
+
+The network to use for testing regular dapps (ie not for testing staking or testing whether new Ethereum versions work) is Sepolia.
+Crypto mixers - current stateWhat is the current status on using crypto mixers in the US, UK and EU? Would using those get me to jail, like the poor fella who created TornadoCash? Are the exchanges not accepting crypto that went through these? If not yet - what is the likelihood of that happening in the future? Is there an automated service that can check how much of crypto that I currently own already went through mixers? 
+
+Thanks in advance for any helpful responses.WARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*
+Where to start to learn the basic concepts about the Ethereum network?Hey, I'm fairly new to crypto. Been studying and learning as much as I can about Bitcoin and its blockchain technology. I would like to learn about Ethereum's network from the start and grasp the basic concepts of it. I was wondering if there is a documentary or a video or a course on youtube that you can recommend that's friendly for uninitiated. I'm also a student in programming wich makes Ethereum much more interesting and if you have any recommendations connected to that part id gladly accept and hear you guys out.
+
+Thanks!WARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*
+There is a solid Youtube channel called Finematics that explains concepts and popular smart contracts with simple visuals
+https://youtube.com/@Finematics?si=nAZQCiPXRivLn5ks
+
+Also, Austin Griffith is a prominent open source figure who has some free resources for learning how to deploy stuff
+https://speedrunethereum.com/
+
+If you want some higher level understanding, Vitalik has a blog where he posts some of his thoughts and discusses what he's working on with ethereum
+https://github.com/vbuterin/blog
+
+His more technical notes (some math background needed)
+https://notes.ethereum.org/@vbuterin
+
+Build responsibly, and best of luck!
+Perfect! Thank you.
+I’d recommend the official documentation - https://ethereum.org/en/learn/
+Ill check it out thank you!
+Yeah I subscribe this 100%. The official documentation has been improving a lot over the last years and it’s probably the best resource for newcomers.
+
+They even have a glossary with all terms/definitions and if you want to get deeper into a specific subject the platform provides links to legit websites from the community 
+
+I also had/have a book called “Mastering Ethereum” which was quite good but probably outdated by now
+Then read Ben's Upgrading Ethereum book: https://eth2book.info/
+If you are a programmer, the best way to understand ethereum is to dig into the dev documentation. 
+
+Try running a node with geth, try building your own private blockchain with geth (way simpler than what it seems) and try building a smartcontract and deploying it on a testnet. 
+
+At the end of this process you will know more about ethereum than 90% of people.
+it’s a bit terse (unnecessarily so imo), but the yellow paper’s got a lot of good, exhaustive info: https://ethereum.github.io/yellowpaper/paper.pdf
+
+will need other sources that some have shared here to understand the PoS component
+regarding coding on ethereum, you can grasp some knowledge in a game manner
+
+https://cryptozombies.io/en/course/
+I'm sorry but I'm very skeptical and afraid to click random links but thanks for your reply!
+I have some resources on my website. https://jbudz.xyz
+
+
+Ethereum.org is also awesome
+ Patrick Collins
+I don't even know why I bother answering this kind of questions anymore because it seems nobody gives a shit, they prefer to take the long and extremely inefficient learning path.
+
+But anyway... here we go again...
+
+  
+I've been building a top tier course on crypto for a year, to avoid beginners having to dig through tons of completely heterogeneous material, in a chaotic learning process. 
+
+It has a huge chapter on Ethereum and its scaling solutions. **It's normally a paid course, but I need feedback on the overall learning experience, so I am willing to grant free access.**
+
+You can contact me either
+
+\- on our discord, [https://discord.com/invite/BB8VRarsqq](https://discord.com/invite/BB8VRarsqq)
+
+\- or in DM here, 
+
+\- or by email at [social@artemisdigital.io](mailto:social@artemisdigital.io)
+
+official website is: [https://www.artemisdigital.io/](https://www.artemisdigital.io/)
+
+and here is a screenshot of what the course looks like, (or just checkout the website really...) 
+
+[https://imgtr.ee/images/2023/12/28/ec25a154069cfa2454f56210afcb82c9.png](https://imgtr.ee/images/2023/12/28/ec25a154069cfa2454f56210afcb82c9.png)
+
+&#x200B;
+
+There are plenty of videos, animations, diagrams, and interactive embeddings to enrich the learning experience, and the content is only from top sources such as the Ethereum foundation, Alchemy, various Researchers, or official projects' website.
+$2200 for a fundamentals course is kinda heavy xD
+No problem! I would strongly recommend going through Finematics (or some alternative) before doing any defi just fyi. Welcome!
+Thanks again!
+I clicked it for you, it’s nothing.

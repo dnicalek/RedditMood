@@ -1,0 +1,95 @@
+Daily Discussion - December 23, 2023Hello everyone,
+
+Welcome to the Cardano Daily Discussion!
+
+*The standard sub rules apply here (see sidebar), with the exception that price discussion is allowed in this thread, though we encourage you to try not to make this the focus and talk about the project itself. Please ask questions, help others and be civil - be sure to get involved in Project Catalyst too!*
+
+If you're new, please make sure you're read through the [**newbies guide**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/hhcvkc6/?context=3) and share it with others (use the `?newbies` comment command to reference it).
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;
+
+https://preview.redd.it/ia7e1fhk787b1.png?width=600&format=png&auto=webp&s=8781ce26dfe611a4145d3f81e69738db2043d138
+
+# [Join our Midnight Subreddit](https://www.reddit.com/r/midnight)* ⚠️ [**PSA - SCAMS**](https://www.reddit.com/r/cardano/comments/lccorg/psa_there_is_no_such_thing_as_cardano_giveaways/) *Beware of scammers in direct messages.*
+* [**NEWBIES GUIDE**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/) *Start here*
+* [**PROJECT CATALYST**](https://projectcatalyst.io/) *Propose and vote on projects*
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*
+Anyone stake with trust nodes through Trust wallet?
+
+I currently am and just wanted to see yalls opinion on it.
+Trust wallet is a terrible wallet, don't use it. Loads of people have been having problems with it and it's bad for decentralisation. See this:
+
+[https://forum.cardano.org/t/lost-funds-in-trust-wallet/120612/16?u=oyster\_pool-oystr](https://forum.cardano.org/t/lost-funds-in-trust-wallet/120612/16?u=oyster_pool-oystr)
+
+Also, the listed APR rates in the wallet and made up.
+Awesome. Thanks for the advice. I’ll look at swapping to etrnl wallet
+No problem
+dcSpark releases new version Cardano SDK (CML) including Conway support and a new native Rust interface* ⚠️ [**PSA - SCAMS**](https://www.reddit.com/r/cardano/comments/lccorg/psa_there_is_no_such_thing_as_cardano_giveaways/) *Beware of scammers in direct messages.*
+* [**NEWBIES GUIDE**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/) *Start here*
+* [**PROJECT CATALYST**](https://projectcatalyst.io/) *Propose and vote on projects*
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*
+We made huge improvements to our code generation tool called cddl-codegen!
+The tool takes
+- Cardano specs
+- NFT metadata
+- Plutus datum
+
+and generate libraries for them in Rust, WASM and JSON automatically!
+
+This new version of CML was generated from this version of the tool, meaning it now supports a native Rust interface for developers. It also fixes some of the common issues like memory leaks in Cardano applications when interfacing with Javascript
+
+The library now also includes Conway Era support (next version of Cardano) as well as some of the common standards like CIP25 and CIP36
+Incredible work Sebastian. The Rust interface alone is a big deal
+Daedalus wallet with dappsLets say I got some Ada on a wallet which currently imported to Daedalus. I do have Nami wallet installed as an extension to browser which I've planned on using with the some of the dapps, however it still is empty for time being. The real question is should I import the same wallet to the Nami or transfer some of the assets from Daedalus wallet, or is there some otherway I could interact with dapps through the daedalus straight?  
+
+
+Having them as a same wallet would be easier for handling everything however are there some security conserns that could be tackled with having multiple wallets? I tried running the Nami through the full node provided with Daedalus and it seems like there is no issues there. 
+
+Any thoughts?* ⚠️ [**PSA - SCAMS**](https://www.reddit.com/r/cardano/comments/lccorg/psa_there_is_no_such_thing_as_cardano_giveaways/) *Beware of scammers in direct messages.*
+* [**NEWBIES GUIDE**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/) *Start here*
+* [**PROJECT CATALYST**](https://projectcatalyst.io/) *Propose and vote on projects*
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*
+I would not import it into Nami since Nami is a single-address wallet while Daedalus is a multi-address wallet/. Nami will not see all the addresses that contain assets so your balance in Nami will be wrong.
+
+Daedalus does not support dApps, so you will have to send some assets to your Nami wallet or use a wallet like eternl that supports multi-address and import your Daedalus wallet.
+JIC I now keep my DeFi separate from my mains. With Eternal it is easy to swap between accounts and you can see them on one page. Daedalus and Ledger no issues importing.
+PALM ISPO - Questions regarding zenGate, the PALM ISPO / IDO and TGEHello community
+
+First of all I like the vision of zenGate, also I believe Dan Friedman to stay and work for our community to a certain extent; so the following questions are neither intended to be a shill/FUD - yet there are many uncertainties regrading the upcoming PALM ISPO. Maybe you can help me with the following questions:
+
+1. On the official palmtoken Website [https://palmtoken.net/](https://palmtoken.net/) the Tokenomics are listed. It states 50% are Incentives. What incentives? 
+2. The ISPO seems to last until End of Q2 2024 according to the roadmap, afterwards the Token Generation Event (TGE) takes place - who will take part in this? 
+3. Will PALM be tradeable as soon as the Cardano IDO begins?
+4. 2% of the total are reserved for the ISPO (on Cardano), later it states there is an ERGO IDO - so, to the additional 50 Billion Tokens on the Cardano Blockchain, there will be additional tokens on the ERG blockchain?
+5. Who takes care of the specific logistics? Let's say you actually buy some tea from Sri Lanka and ship it to Türkiye - who pays / organizes the transport to Colombo and from there on? Where is the advantage of Blockchain here? Technically any Sri Lankan Tea farmer could just set up a website with an online store (if this person had the knowledge to do so - but if this person doesn't have the knowledge, how would this person use blockchain applications? I'm aware commodity trading is extremely centralized and the intermediaries take the whole lot of the profits - but isn't that the whole problem that could already be solved in a centralized way, simply way more easily (e.g. online shop, personal organization of transportation, customs etc.) except people are way too lazy to do it and therefore rely on centralized solutions?
+6. Why would PALM Token be financially attractive except for hype? Hasn't IOG CEO Charles Hoskinson already tried to ship Blockchain traceability /usage for certain beef farmers in the US without any tangible success / advantage in comparison to centralized solutions? 
+7. So is there any legit financial expectation from the ISPO on Cardano considering opportunity costs (3% p.a. paid in ADA)?
+8. [https://learncardano.io/podcasts/palmyra-commodities-real-world-assets/](https://learncardano.io/podcasts/palmyra-commodities-real-world-assets/) \- on this awesome podcast of a valuable community member, Dan Friedman / Sam Lambert of zenGate state they work with Coinoxus  as a partner. I googled them without a single hit... is this even a legit partner? 
+9. Why is the ICO not on ERGO blockchain only? Specially now that the ERG/ADA Rosen Bridge is close? I mean yeah, ISPOs are way more easy to get money (delegation is a quick / easy way to allocate capital) and the cardano community is way bigger and has way more money (community wise, also project catalyst)...
+
+&#x200B;
+
+Thank you for helping out here :)
+
+&#x200B;
+
+&#x200B;* ⚠️ [**PSA - SCAMS**](https://www.reddit.com/r/cardano/comments/lccorg/psa_there_is_no_such_thing_as_cardano_giveaways/) *Beware of scammers in direct messages.*
+* [**NEWBIES GUIDE**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/) *Start here*
+* [**PROJECT CATALYST**](https://projectcatalyst.io/) *Propose and vote on projects*
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*
+https://www.coinoxs.com/ it's real
+I hear ya. 
+
+I really like the team, but the biggest issues for me are 1. What's the innovative product? 2. How do these tokenomics look good?

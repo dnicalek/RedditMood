@@ -1,0 +1,5 @@
+The role of NFTs in real-world asset (RWA) tokenization.Some assets can't—and shouldn't—be represented as fungible tokens. 
+
+This blog dives into the unique role that NFTs play in the real-world asset tokenization megatrend that's bringing trillions of dollars into the blockchain ecosystem: [https://blog.chain.link/real-world-asset-nft/](https://blog.chain.link/real-world-asset-nft/)How To Get Sepolia Testnet ETHWithdraw QuestionI totally missed the v0.2 migration deadline and now the only option I have is to withdraw my Link to wallet. When connecting my Ledger to withdraw, Metamask shows that the destination / withdrawal address is the Chainlink contract address (0x3feB1e09b4bb0E7f0387CeE092a52e85797ab889). Sorry for the dumb question but does this process simply undelegate my Link from the contract so they are fully back in my custody? Yeah also RIP. They make calendar alarms on your phone for things like this
+👍🏻
+Well they aint keeping it.

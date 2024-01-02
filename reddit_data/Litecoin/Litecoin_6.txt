@@ -1,0 +1,130 @@
+Question for Litecoin OGsSo I’ve recently come across a coin called Stohn coin which has a very tiny market cap and claims that one of the core devs of Litecoin, Loshan, who helped implement MWEB, is a contributor with the project. I’m super bullish on LTC and thought this smaller project would be interesting as well since it kinda has ties to LTC. Anyone know if that is the case? I’ve seen lots of projects lie about certain well-known devs working with their teams. Thanks for the help 🙏Stohn coin Steve Austin?
+I suppose! Or maybe Stohnhenge 🪨
+I think he posts on here maybe he will respond
+After doing more research I think it is legit- Loshan’s GitHub shows activity with this project. Interesting, I’ll take a closer look at it now.
+This would be a good NFT idea actually…
+Noob QBrand new newb. just discovering crypto day 1.  Ive launced easyminer and its ticking away.  I have litewallet.  how do i get the wallet registering what ive mined?Litewallet Team Lead:  
+Litewallet is a SPV mobile wallet and it is not recommended to use it as a destination for your mining rewards 
+
+It’s better to download and use Litecoin core which syncs the full blockchain
+Sounds you are asking about Litewallet?
+
+
+It's the official mobile wallet from the Litecoin Foundation.
+The team is made up of volunteers from many different countries and our mission is to teach people to use Litecoin daily.
+
+
+Our website is https://litewallet.io. Please visit and sign up for the mailing list!
+
+
+If you are having issues with Litewallet, the best thing to do is visit https://support.litewallet.io & look to see if there is an answer to you question in our FAQ/Article section. If there are no answers there, please file a ticket and someone on the Support team will respond.
+
+
+Enjoy Litecoin.
+
+
+Enjoy Litewallet!
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/litecoin) if you have any questions or concerns.*
+Usually mining software/pools has a minimum payout, you'll probably find once you've mined the minimum amount it will pay out to the wallet you set it up with. This will obviously depend on how good your mining rig is and how quickly you get paid.
+yes i had an idea of that, however - ive provided zero information that would link my wallet to my mining account so im unsure of how it would ever show.
+Oh, usually you need to put in a wallet address so they know where to pay out to. 
+
+If you're new at mining nicehash is a decent starting place, well I think so at least. They pay in Bitcoin but you can convert it on their system. It's super easy to use and I made a reasonable amount. It might be worth looking at.
+Un-Rug-ablEIt hit me why SOL and a bunch of others are moon-ing - classis pump and dump. Trading feverishly amongst themselves with insider momentum. LTC not mooning b/c Charlie and insiders ain't playing around - so solid value is intact at $70 - un-rug-able.
+This year will belong to BTC with halving and ETFs etc. When its $100k-$500k the downside will be bottomless (maybe $100k) - LTC will have strong support at this level. And all the other coins are farts and moonbeams from here on upImaging holding 100k+ in SOL. Would be hard to sleep soundly at night when at any moment can go to zero. LTC is safe and sound. Only a matter of time before people realize this.
+Yes. Litecoin is a solid long-term investment. It is also a moral investment in supporting a truly decentralised low-trx-cost monetary network with true social value in the era of rising authoritarianism, CBDCs and the elimination of Cash. 
+
+It shouldn't be your top investment. The blue-chip blockchain and store-of-value is BTC. Also, because it isn't a pump and dump, doesn't have a bunch of flashy new 'features', and VCs pumping it, don't expect hype-based returns. Returns will only come when its utility is more unquestioningly and convincingly established.
+
+The best thing to do with LTC is to use it. Regularly put some funds into LTC and find ways to spend it.  It also goes without saying that along the same line try to use fiat cash when using LTC isn't possible. And stop using store loyalty cards unless you're regularly swapping with other people. Stop selling your data. If everyone keeps selling their data for cheap it's going to bite us.
+Litecoin has become a stable coin. 😂
+I get the meme but no true stable coin was 300% up from the current price less than 2 years ago like LTC. People who bought LTC in 2021 could very well be down 75% right now.
+The classic pump and dump was litecoin before the having. To bad its only dumped since
+? LTC went up after the 2019 halving to ATH in 2021, the recent halving was a couple months back and it’s just been stable since then
+It’s ironic you complain about wash trading in other chains without any proof, when Litecoin actually became so big was because Charlie Lee himself did wash trading and manipulated the price when working inside Coinbase. Coinbase was fined for this. It’s not a guy in Twitter saying so. https://www.cftc.gov/PressRoom/PressReleases/8369-21
+
+
+There is a reason why Charlie sold during the 2017 peak and litecoin never recovered such prices. He actually rugged you and you are here more than 6 years later with your bags with a 75% loss from the most of 300 USD when Charlie sold in December 2017, and you are still here believing he was a Saint, and deluding yourself about how Litecoin has so much value but the market is so foolish. 
+
+I’m in this sub because I have been shorting litecoin since a long time. I know I’m preaching to the wrong choir, but sometimes I feel sad reading this sub and all I see is delusion about litecoin and about other newcomers. I’m usually lurking to find a reason to not short litecoin but I don’t find it. Litecoin is only yet at the top20 because many Bitcoin whales also bought in litecoin and they are emotionally invested in a coin without any reason to be used, except is cheaper and faster than bitcoin, although the other 98% projects are cheaper and faster than litecoin
+
+Actually you should read and inform yourself better about Solana. It has already more daily active users than any other chain. It has the most powerful layer 1, and a lot of organic growth. I advise you to actually use Solana, it has the best UX by far, and I tried many of them, and the dapps aren’t cheap copycats of ethereum, like it happens in most chains that are EVM. 
+
+And in decentralization metrics, it’s among the most decentralized of any PoS, from number of validators (2k), Nakamoto Coefficient (23), number of different clients (2 already, a third in beta, and a forth in the making), and with plans to improve the governance.
+VC-controlled Solana is decentralised? 🤣🤣🤣
+If the US govt wants to censor or shut down anything Solana-related, they know exactly how to do it. 
+https://www.reddit.com/r/ergonauts/comments/pk9040/the_ergo_foundations_initial_token_allocation/
+
+Re wash trading, there is nothing in that link that specifically mentions Lee (who was an engineer not in control of trading-desk ops) or LTC.  Practically all of the exchanges do wash trading. It's endemic in the industry. It is a well known tactic to increase profits within an exchange.  Using this link to try to smear Charlie shows just how much people should listen to you.
+
+PoS is a centralising scam. People who push it have no idea what decentralised means.
+Imagine coming to /r/litecoin to shill centralized garbage.
+1) Nobody mentioned wash trades but you. Insider trades aren't wash trades.
+
+2) Six weeks of wash trading in August/September 2016 on GDAX did not cause litecoin to skyrocket. You sound idiotic.
+
+3) I wouldn't touch Solana with a 39 1/2 ft pole. It's vc funded and adds nothing of value to the ecosystem. If I wanna lose my entire investment trading links to jpegs I'll give you a call.
+I'm not saying litecoin will moon. But shorting it in this market doesn't seem very wise.
+We will see what happens with SOL will be interesting for sure
+The point of investing in crypto is to catch the moonbeams not sit in the farts praying for +10%
+You're right. If you're a short-term speculator Litecoin isn't the coin for you. That's pretty obvious. Just sell any you've got and forget about LTC. You'll be happier. The part of the Litecoin community that made its money in other crypto and is more focused on supporting a cheap useful decentralised uncensorable monetary network will be happier.
+Does LTC have it's own "sats" like BTC does if *Bit gold* and *Lite Silver* scenario turns out?
+If you look at the 100 top wallets, they hold over 37% of the supply [https://www.coincarp.com/currencies/litecoin/richlist/](https://www.coincarp.com/currencies/litecoin/richlist/)
+
+I guess some of them are exchanges? But most of them do have big bags from the initial fork. As there was nor fair initial distribution from zero.
+
+If only a few of them decide to suddenly cash out, this will drop the price, and cause a rug pull. You trust these wallets to not do that. This is not unrugable.
+The VC don’t control Solana. Or the institutional investors in Bitcoin control Bitcoin?
+
+You talk about speculative potential censorship in Solana that didn’t happen, at the same time? There was actual censorship in Bitcoin https://www.coinbureau.com/videos/can-bitcoin-be-censored-all-btc-holders-must-watch-this/
+This is what happens when a PoW coin is controlled by very few mining pools. In Litecoin only 2 mining pools have more than 50% of the hash rate. There are academic papers about the vulnerabilities of this. 
+
+If you go deeper, mining hasharate is controlled by a bunch of companies that have enough economies of scale to be competitive. Right now, the hardware cost of a Solana validator is just 4-5k USD, and decreasing
+1. You are right that isn’t explicit. But read again the first sentences “pump and dump”, “trading among themselves “, talking about rugging…. It’s implicit the accusation. 
+2. It was just 6 weeks. Very naive of you if you believe that they just catched the only 6 weeks of wash trading, but, as it happens in these cases, they got where the evidence was overwhelming for something that is all about circunstancial evidence. 
+3. Don’t touch it. I guess you wouldn’t invest in anything to be seeded initially by a VC, not Google, not Tesla, nor Nvidia. You say it adds nothing, although it has 8 significant technological breakthroughs, and it the most scaled layer 1, and has the most activity (tx, users and lately, even DEX volume). Solana is was crypto was supposed to be, fast, cheap and easy to use.
+
+Ps. Very wise to avoid the fact that Charlie rugged you all. You are still 75% under the price he sold in December 2017.
+>Your coin is wash traded but mine isn't! All your metrics are faked and all of mine are real. Ps. I like coins that are up and don't like ones that are down. I am very smart.
+It is if you use the funds to invest in coins that go somewhere. Investing in things like LTC or EOS and invest it in BTC, Solana or Ethereum is almost free money
+Well I bought some LTC around $ 70 about a week ago. I'm having free money as well.
+You are right :)
+"The part of the litecoin community that made its money in other crypto"... 
+
+You just proved the guys point 😂 No one is making money in ltc. If you dumped 10 grand into ltc at its peak in 2013 you would have 14, 000 dollars today. If you dumped 10 grand into btc at its peak in 2013 you would have almost half a million today.
+
+Like everyone is saying, it's a stable coin. If you want to sing the virtues of saying how ltc a stable coin why did you invest in it.. For the tech? Why not put your money in tether or usdc then? You know, for the tech. Tired of all the people saying sell your bags if you ever bring up the fact that an investment is supposed to make money. That's why it's called an investment.
+I'm exactly not disputing his point m8. 
+
+A significant part of the LTC community, perhaps most, support the LTC project (i.e. hodl and use) because we care about having an alternative genuinely decentralised uncensorable cheap-trx monetary network. We can take this position because we aren't investing in LTC for short term gains and generally being early adopters means we had opportunities that allow us to take a longer term position. 
+
+Why not put money in tether/USDC? They aren't decentralised and can be shut down at any moment.
+
+You can invest in some things not primarily for financial interest, but to support the world going in a direction you prefer. It's a luxury. So you could say investing in LTC is a luxury. I does not promise short term gains. It may die if BTC develops a super cheap and reliable layer 2 solution that really works well.  But if, as one of the few commodity networks it becomes an important monetary network or a foundation for future tech deployment (as it was for MWeb) then it will return handsomely.  
+
+Take that as you will.
+50% gains = still better than fiat cash...
+After having the best week in a long time it’s still -4% against bitcoin the last month.  I don’t pretend to know what will happen in a week, but long term Litecoin is clearly  a losing bet. It’s only hope is that the overall market grows so much, that even if it falls to #40, the price would still high ebough
+To be honest, litecoin performed better last year than other crypto, like solana, matic etc. So I'm not surprised it doesn't go up this much now. I've already lost the believe people buy crypto because of rational reasons. They look which coin hasn't boomed yet, and buy that one.
+I second your sentiment. Well put. 
+
+For example: crypto in Africa is much different. People making $10 per month can't spend $10 per transaction to move their BTC onto lightning. Their governments are arbitrarily devaluing currencies at rates such as 40% overnight at the behest of the world bank, who wants to buy their resources cheaply. But now you can opt out - you get some LTC, and while everyone else around you is 40% poorer every month, you can actually save and spend your money, and if you save it, it increases.
+
+This is not about getting rich; it's about having honest, good money that doesn't exploit developing countries (for example). However, the benefit is the same for developed countries as well, as the "invisible" inflation tax applies everywhere.
+Ok fair enough. But calling an investment not an investment and more of a luxury can be disconcerning for people who are looking for active returns. 
+
+Also, in the crypto space, do you consider 10 years to be short term speculation?  I couldn't imagine telling someone I invested 10 grand in crypto ten years ago, when virtually no one had even heard of crypto, and 10 years later my profit was 4 grand. That's barely keeping up with inflation. And being completely honest I'm sure most people aren't in a position of investing for luxury, ignoring any potentials for returns, just to make the world a better place. I think I understand where you're coming from, but its making ltc sound elitist and only for those with enough fu money (that was made from other crypto investments) to throw it somewhere and forget about it. Maybe this is why people are avoiding ltc
+From an investment perspective I think it is a little elitist. I don't tell my nephews to invest in LTC. I tell them to invest in BTC. 
+
+From a use perspective it is not elitist at all. I advise people to use LTC all the time. It's far cheaper (trx cost) than BTC and is properly decentralised. Because it's old and established, it has lower volatility and is accepted in almost as many places as BTC.  I tell people to use LTC to preserve the ability to have some kind of 'cash' even if governments take away fiat cash. I think that's a useful thing to preserve.
+
+I think there's a good chance LTC will continue to thrive in that role. Eventually, not due to hype, but due to transaction volume, the price of LTC will rise. That rise may create its own hype. 
+
+So I think LTC is a rational component of a diversified crypto investment portfolio, beyond 'luxury' aspect. But some may put slightly more into LTC due to emotional connection to social and ideological direction.
+Since June 2019, any pump has been trivial compared to previous losses. 
+
+Unfortunately Litecoin doesn’t offer anything special. Even its main narrative, silver to bitcoin, confirms it. Bitcoin is technologically obsolete, but it has the first mover advantage, the brand recognition and the track record. Litecoin has the same technology but none of the advantages. 
+
+ It won’t attract barely any new investors, and that’s it will keep losing positions with each cycle. And the interests of borrowing them is very cheap because people cannot do much with it, and they are willing to lend for very few APY
+Yes what you write amounts to almost all crypto. What can you do with a bitcoin, that you can't do with litecoin?

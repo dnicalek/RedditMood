@@ -1,0 +1,166 @@
+Daily Discussion - December 29, 2023Hello everyone,
+
+Welcome to the Cardano Daily Discussion!
+
+*The standard sub rules apply here (see sidebar), with the exception that price discussion is allowed in this thread, though we encourage you to try not to make this the focus and talk about the project itself. Please ask questions, help others and be civil - be sure to get involved in Project Catalyst too!*
+
+If you're new, please make sure you're read through the [**newbies guide**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/hhcvkc6/?context=3) and share it with others (use the `?newbies` comment command to reference it).
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;
+
+https://preview.redd.it/ia7e1fhk787b1.png?width=600&format=png&auto=webp&s=8781ce26dfe611a4145d3f81e69738db2043d138
+
+# [Join our Midnight Subreddit](https://www.reddit.com/r/midnight)* ⚠️ [**PSA - SCAMS**](https://www.reddit.com/r/cardano/comments/lccorg/psa_there_is_no_such_thing_as_cardano_giveaways/) *Beware of scammers in direct messages.*
+* [**NEWBIES GUIDE**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/) *Start here*
+* [**PROJECT CATALYST**](https://projectcatalyst.io/) *Propose and vote on projects*
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*
+Cardano StakingI have a few questions about staking on Cardano;
+
+1. If you have a relatively large holding of Cardano, is it best to spread the total balance over several staking pools for the best yield?
+
+2. If so, what balance of ADA would be considered the max to get beat yield? E.g is it 100, 1000, 10,000, 100,000, or what is the max you should have in any single stake pool to maximise yield?
+
+3. How do you choose a stake pool, what things should you look out for etc?
+
+As far as I understand it, Cardano wants the chain to be as decentralised as possible, so it sounds like a larger holding of ADA should be spread across several pools to maximise potential yield
+
+I ask mostly because projected reward per epoch has been 30% - 60% higher than the actual reward I have been getting
+
+Thanks in advance* ⚠️ [**PSA - SCAMS**](https://www.reddit.com/r/cardano/comments/lccorg/psa_there_is_no_such_thing_as_cardano_giveaways/) *Beware of scammers in direct messages.*
+* [**NEWBIES GUIDE**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/) *Start here*
+* [**PROJECT CATALYST**](https://projectcatalyst.io/) *Propose and vote on projects*
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*
+The blockchain parameters are set such that pools over a saturation point of (from the top of my head) 64 Mio ADA are getting progressively less returns. As long as your pool is below that, this is not a source of less rewards. 
+
+However it’s possible that a pool is missing their slots for some reason which would get you lower returns. Also some pools are keeping more of the rewards themselves. It’s also possible that you are in a small pool which will yield the same _average_ return but with a larger fluctuation (mints blocks less frequently but gets you bigger return when it does), that might or might not work in your favor simply by luck respectively statistics. 
+
+I’d look into your pool directly on one of the explorers to see if there is such an issue. 
+
+Beyond that there’s no reason to split your bag except when you’d go over the pool saturation. 
+
+There are however reasons other that returns to split your bag: namely to strengthen decentralization by picking pools that are smaller and/or single pools and by picking pools that either yield some additional token as reward or support a cause you care for.
+Thanks for such a comprehensive answer!
+
+How can I check via an explorer and what would I be looking for exactly?
+I'm answering from my point of understanding, not actually knowing if there is any benefit.
+
+1. All pools average to certain percentage. So while splitting might be overperforming / underperforming for the short term, in the long term it doesn't matter.
+2. The same as 1. It depends on how lucky you are with staking more in the overperforming pool, which you definitely don't know in advance.
+3. I usually look for a well saturated but not full pool. Anything in the range of 50%-70% is a good choice. Minimum (0%) fees. Some consider pools with a cause, where SPO donating some of the rewards.
+[removed]
+#Staking
+
+*You can find many comprehensive threads about staking on our 'explain it like I'm five sub' r/Cardano_ELI5.*  
+
+**Some posts regarding staking**
+
+* [What does it mean to "stake" your ADA?](https://www.reddit.com/r/Cardano_ELI5/comments/kwmli8/what_does_it_mean_to_stake_your_ada/)
+
+* [How do I stake my ADA?](https://www.reddit.com/r/Cardano_ELI5/comments/l01bfb/how_do_i_stake_my_ada/)
+
+* [How do I pick a staking pool to stake my ADA with?](https://www.reddit.com/r/Cardano_ELI5/comments/l004rh/how_do_i_pick_a_staking_pool_to_stake_my_ada_with/)
+
+* [Where do staking rewards come from?](https://www.reddit.com/r/Cardano_ELI5/comments/l0190d/where_do_staking_rewards_come_from/)
+
+* [When will I receive my staking rewards](https://cardano-community.github.io/support-faq/#/rewards)
+
+* [Staking on Daedalus (an IOHK video)](https://youtu.be/OUZKSS_cJIE)
+
+* [Staking on Yoroi](https://youtu.be/lD9vGHsiA3M)
+
+**There are no risks staking on Cardano!**
+
+* Your ADA is never locked. You're free send your ADA at any time.
+
+* Your ADA is never moved from your wallet. You will always be in control of your ADA (read the above like 'What does it mean to "stake" your ADA?' to learn more).
+
+* Your rewards are distributed by the protocol, so there's no possibility they can be withheld by a stake pool.
+
+**There is no minimum to stake (though there is a staking key deposit of 2 ADA) and any ADA added to your wallet is automatically staked, including rewards (rewards are compounded). You only need to withdraw rewards if you need to send the ADA out of your wallet.** 
+
+Typing `?help` in the comments will show a list of all available comment commands.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*
+It's always good to diversify.
+
+There a couple benefits for staking in different pools:
+1. You'll need seperate wallets which means if you do get scammed they can only access that wallet.
+2. Same reason for all diversification in assets: if one pool would happen to fail and you aren't in a habit to check crypto every week (I tend not to) it's only a small portion of your ada portfolio affected.
+
+I believe that the difference between pools (especially the higher ones) rewards is negligible because the staking rewards are calculated based on your amount. Though I could be wrong on that
+
+Does mean that there's more fees accosiated with transferring so lucky this isn't ethereum lol.
+1. Good for decentralisation
+2. It doesn't really matter how you distribute it. You don't get more staking rewards from a pool for delegating more to it (unless the pool offers extras or is part of an ISPO which may have specific requirements which make you eligible for more rewards). Selecting an appropriate pool will have more impact on your rewards if we're just talking about regular staking. 
+3. ?pools see automod reply ⬇️
+#Stake Pools
+
+**Guides to decide which stake pool to delegate to:**
+
+* [See IOHK's guidence for delegators here](https://iohk.io/en/blog/posts/2020/11/13/the-general-perspective-on-staking-in-cardano/)
+
+* [How do I pick a staking pool to stake my ADA with?](https://www.reddit.com/r/Cardano_ELI5/comments/l004rh/how_do_i_pick_a_staking_pool_to_stake_my_ada_with/)
+
+* [Selecting Pool for delegation](https://cardano-community.github.io/support-faq/#/select-pool-to-delegate)
+
+**Stake pool comparison sites**
+
+The community has built many invaluable tools for you to compare stake pool statistics:
+
+* [PoolTool](https://pooltool.io/)
+
+* [Adapools](https://adapools.org/)
+
+* [ADAex](https://adaex.org/)
+
+* [Cardanoscan](https://cardanoscan.io/)
+
+* [AdaTools](https://adatools.io/)
+
+* [Pool.pm](https://pool.pm/)
+
+* [PoolStats](https://poolstats.org/)
+
+* [PoolPeek](https://poolpeek.com/)
+
+**When delegating try to:** 
+
+* Support pools that contribute to the community.
+
+* Use wallets that allow you to select your own pool (like [Daedalus](https://daedaluswallet.io/) and [Yoroi](https://yoroi-wallet.com/#/)).
+
+* Avoid staking with [large entities](https://adapools.org/groups) like Binance (It's bad for decentralisation and therefore the project).
+
+**Make sure you visit r/CardanoStakePools!**
+
+Typing `?help` in the comments will show a list of all available comment commands.
+       
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*
+DEGA ISPO is ending soon. When is it safe to change stakepools? & new ISPO recommendationsDEGA ISPO is ending soon on January 25th, Epoch 463 ([source](https://blog.dega.org/the-dega-multichain-ispo-phase-i-cardano-launch-update-rewards-e52aaa985b48)). When is it safe to change stakepools considering the epoch delay? Is it between Epochs 461-462, or Epochs 462-463? I guess it depends if we need to stay in the pool on Epoch 463. 
+
+Also, someone has any recommendation on some other recommended ISPO?* ⚠️ [**PSA - SCAMS**](https://www.reddit.com/r/cardano/comments/lccorg/psa_there_is_no_such_thing_as_cardano_giveaways/) *Beware of scammers in direct messages.*
+* [**NEWBIES GUIDE**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/) *Start here*
+* [**PROJECT CATALYST**](https://projectcatalyst.io/) *Propose and vote on projects*
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*
+Cryptocoin / ShareToday I was brunching with my parents and we were discussing our Cardano shares. My parents bought old school Shares of Cardano while I did both actual Coins and Shares. 
+
+Can somebody explain or refer some informations if the value of coins and shares are 1:1 the same or is there a diffrence?
+
+Thank you all in advance.* ⚠️ [**PSA - SCAMS**](https://www.reddit.com/r/cardano/comments/lccorg/psa_there_is_no_such_thing_as_cardano_giveaways/) *Beware of scammers in direct messages.*
+* [**NEWBIES GUIDE**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/) *Start here*
+* [**PROJECT CATALYST**](https://projectcatalyst.io/) *Propose and vote on projects*
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*
+What?

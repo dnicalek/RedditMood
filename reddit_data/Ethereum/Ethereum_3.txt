@@ -1,0 +1,99 @@
+There have been so many upgrades to the ETHereum network, may I ask what were the more important ones?  People have been saying lately that CANCUN upgrades are very important, what about those upgrades up front? I don't know much about the history of the Ether, so I'm asking if anyone who does can help answer this.    WARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*
+Go to chatgpt. Type "there have been so many upgrades to the ETHereum network, may I ask what were the important ones?"
+Here, I did it for you and OP:
+
+The Ethereum network has undergone several significant upgrades since its inception, each aimed at improving its functionality, scalability, and security. Here are some of the most important upgrades:  
+1. \*\*Homestead (March 2016):\*\* This was the first major upgrade after Ethereum's launch. It included several protocol improvements and set the stage for future upgrades.  
+2. \*\*DAO Fork (July 2016):\*\* This wasn't a planned upgrade but a response to the DAO hack, where a significant amount of Ether was stolen. The network was split into Ethereum (ETH) and Ethereum Classic (ETC) to reverse the hack's effects.  
+3. \*\*Byzantium (October 2017):\*\* Part of Ethereum's Metropolis phase, this upgrade introduced improvements like increased privacy, faster block processing, and more flexibility for smart contract developers.  
+4. \*\*Constantinople (February 2019):\*\* This update aimed to improve the network's efficiency and scalability. It included changes like reducing the block reward and delaying the difficulty bomb (part of Ethereum's transition to Proof of Stake).  
+5. \*\*Istanbul (December 2019):\*\* This upgrade further improved scalability and security, making the network more resistant to certain types of attacks.  
+6. \*\*Muir Glacier (January 2020):\*\* A small but significant update that delayed the difficulty bomb again, ensuring the continuation of smooth mining operations.  
+7. \*\*Berlin (April 2021):\*\* Focused on optimizing gas costs for certain EVM actions and introduced new transaction types.  
+8. \*\*London (August 2021):\*\* A major upgrade that included EIP-1559, changing the transaction fee market mechanism, and the introduction of a burning mechanism for Ether, significantly impacting its economic model.  
+9. \*\*Arrow Glacier (December 2021):\*\* This update mainly delayed the difficulty bomb, which was part of the transition to Ethereum 2.0.  
+10. \*\*The Merge (2022):\*\* This is the most anticipated upgrade, transitioning Ethereum from Proof of Work (PoW) to Proof of Stake (PoS). It aims to reduce energy consumption by over 99% and sets the stage for future scalability upgrades like sharding.  
+Each of these upgrades has been a stepping stone towards making Ethereum more scalable, secure, and sustainable, especially with the transition to Proof of Stake through the Merge. It's important to note that Ethereum is continuously evolving, with more updates and improvements expected in the future.
+Given the age of these AI chat bots, they are still producing inaccurate and outdated information with the data that they are provided to learn with. I would definitely hate to be an Linguistics/WritingComposition/Reading comprehension teacher today.
+
+However, there is plenty of information at the [ethereum.org](https://ethereum.org) website, and more specific to OPs request, @ https://ethereum.org/en/history/.
+"Upgrades" should be in quotes.
+
+After all those "upgrades" Eth still can't do a single thing better than any non-blockchain technology that's been around for several decades.
+Your post history is wild. How many hours a day of your life do you spend posting about things you hate?
+Why are you here if you find no use for it?
+I'd love to see any non blockchain tech that allows me to have my money in my wallet and it just keeps growing it's purchasing power....
+I don't think u understand what "upgrade" means... U can upgrade smth and it's still worse than smth else. ...
+What a helpful reply to the question OP asked. Good content as always mr scream
+May I ask why is it so freaking expensive to transfer
+There are 2 main categories of updates:
+
+ERC updates and protocol/EIP updates. EIP ones are mandatory protocol updates while ERC ones are optional features (like ERC-20, ERC-721, ERC-1155, ERC-4337)
+
+In recent years, EIP-1559 and The Merge are by far the biggest protocol updates.
+
+London (EIP-1559) brought about the current auto-adjusting gas fee protocol. The Merge is what transitioned Ethereum from PoW to PoS and turned ETH deflationary.
+11. Do not forget the Shanghai/Capella upgrade this year that most notably brought us the ability to unstake.
+True! GPT is slacking. 
+
+And then I'll throw 12 on there now.
+
+12. Dencun - Several EIPs, but most importantly EIP 4844, proto-danksharding, which will introduce blobs and reduce gas for L2s.
+You can just ask chatgpt to search for the latest information, if it didnt already search the internet to get your answer.
+Figure out cost-basis from EtherscanHow does one figure out cost basis of a transaction from the Etherscan transaction report?
+
+It is confusing with the different fees listed, but I want to get an accurate amount. I know that if the value of a coin I'm buying is $1, my cost basis is actually higher than that when the fees and gas are added in. How does one compute the overall cost basis from Etherscan?
+
+Thanks!WARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*
+You can't use just Etherscan.
+
+Etherscan bases the value of ETH in its logs on the current price of ETH, not the value of ETH when the transaction occurred.
+
+So you'll need to get the amount of ETH from Etherscan and then multiply it by the value of ETH from a price tracker like Coingecko at the time of the transaction.
+How does liquid staking work?There must be a staking validator running under the hood somewhere which I guess updates a smart contract on Ethereum?  Is that the basic idea?WARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*
+Someone (Lido, Rocketpool, Frax, etc…) hosts a validator. A smart-contract takes your ETH, deposits it into their validator, and mints a liquid staking token redeemable for the ETH + staking rewards. The contract is non-upgradable so you know that you can always withdraw your ETH. You do have to trust that whoever you’re staking with keeps their validators well maintained, as their validators going offline could result in your ETH getting “slashed”. Up to this point no LST has ever been slashed though…
+Lets say I put 1 ETH in and I get 1 LIDO out.  Then I wait 2 years... how does it know to pay me 2 years worth?  does each token have a timestamp?  if so they're not fungible...  but if not, then how does it work?
+It's a bit more complicated than this, but this is as best as I can describe it:
+
+1. The Ethereum gets supercooled with nitrogen in a specialised container to -43°c, at which point it changes from a gas to a liquid.
+
+
+2. The liquid is then poured into a large vat with other cooled Ethereums to equate to 32 Ethereums.
+
+
+3. Vitalik then visits in a golden robe and chants Latin verses while blessing the Ethereum liquid (This is why the entry queue can sometimes get quite busy).
+
+
+4. The now blessed blue nectar is then kept in its liquid state via compression in a highly pressurised canister. 
+
+
+5. The cannister is inserted into a validation node and can verify transactions.
+Did running a monitoring node become harder ?I remember back in PoW times, that I could sync the blockchain on a Raspberry pi 8gb with 1 or 2 tb iirc (but storage is not the issue here). I used it to get access to the memory pool, relay and verify transactions without mining.
+
+However, since the merge, it looks like the requirements have gone up, having to run both an execution and a consensus client. 
+
+How is that so (a raspi like that isn't powerful anymore, as stated on the ethonarm website), and what can is the bare minimum I can do to verify and relay the transactions on mainnet ? 
+
+It feels like it is a step backwards, as it's harder to just verify.Yes, it's definitely got harder because of the transition to proof-of-stake. The execution node will run on really low-end hardware as long as you have a fast SSD drive attached to it, and their resource usage has probably got even lighter since you last tried. Most of the consensus clients need quite a reasonable CPU. It's also more of a faff to set up since you need two pieces of software and the configuration for them to talk to each other.
+
+One lightweight option for the consensus side is Nimbus. I've only tried running this as [a light client](https://nimbus.guide/el-light-client.html), but it ran on really old hardware and didn't use a lot of resources. If you're running it in this way with a normal node for execution, you're fully verifying the transactions and you have access to the mempool and all the stuff you had access to before, but you only have light verification of the consensus part which in theory is cheaper to attack than attacking the regular consensus system. 
+
+The Nimbus docs talk about it running on a Raspberry Pi, I expect this applies to running it in normal mode and not just light mode.
+https://nimbus.guide/
+If you want light weight in cost, go for a Poorteus. Plenty processing power for less than USD 300. https://github.com/trevhub/guides/blob/main/Cheapnode.md
+
+If you want minimal power draw and love geeking about ARM64 kernels, do a Rock5 B or fxblox eth edition, with a P31 2TB drive. The fxblox is a changed rock5 b design in a custom case, with 32 GiB RAM.
+If you want to use a SBC then an Orange Pi 5 will work. 16GB RAM will do with the right choice of consensus client (Nimbus is lightest) but a 32GB version would be better for future proofing.
+
+A 2TB or larger SSD is needed. SATA drives will work fine (just a bit slower to sync than NVMe).
+
+The lowest cost option is probably a cheap mini-PC though.

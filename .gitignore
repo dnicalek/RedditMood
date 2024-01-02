@@ -1,0 +1,38 @@
+# Foldery i pliki generowane automatycznie
+.idea/
+.vscode/
+__pycache/
+Lib/
+*.pyc
+*.pyo
+
+# Pliki wynikowe i tymczasowe pliki
+*.log
+*.db
+*.sqlite
+*.sql
+
+# Pliki konfiguracyjne
+.env
+config.ini
+settings.json
+trademood-935a3-firebase-adminsdk-4tlgp-11830c8e95.json
+state.json
+
+# Foldery i pliki związane z systemem operacyjnym
+__MACOSX/
+.DS_Store
+Thumbs.db
+
+# Pliki zależności i moduły
+venv/
+node_modules/
+dist/
+*.egg-info/
+
+# Foldery i pliki specyficzne dla Twojego projektu (dostosuj do swoich potrzeb)
+logs/
+build/
+uploads/
+Scripts/
+results/

@@ -1,0 +1,89 @@
+12/29/23 [Join XRPLounge Discord] - discord.com/invite/XRPLounge# XRPLounge Discord
+
+\>>> **Invite Link:** [discord.com/invite/XRPLounge](https://discord.com/invite/XRPLounge)
+
+&#x200B;
+
+**Official Discord for the following subs:**
+
+* r/XRP
+* r/Ripple
+
+**Channels**
+
+1. Announcements
+2. News and media
+3. ​Infographics and visual aids
+
+**Categories**
+
+1. Exchanges & Wallets, FinTech, DeFi & NFTs, Investing, Cryptocurrency
+2. Interledger Protocol, RippleX, Polysign
+3. XRPL Labs, Xaman (previously Xumm)
+
+&#x200B;
+
+**Special Perks for** **XRPLounge Discord server boosters**
+
+ ⠀Can you guess the year that Bitrue launched XRP?In 2018, they launched and adopted XRP as the base currency. Further, the network developed the crypto investment model, allowing users to invest and attain XRP.
+2019
+July 2018
+2023?
+Best wallet to store your XRP?I have mine in Trust, Uphold & Xumm but I'm thinking about putting all of it in my Xumm wallet.  What do y'all think?Anywhere but on an exchange. We’ve seen reputable exchanges get hacked numerous times. Get them into your own wallet, with your own keys and forget about it until you’re ready to do something with the tokens. 
+
+XUMM is fine, you could also opt for a hardware wallet like a ledger.
+Interesting they changed the name of XUMM to Xaman.
+I heard ledger tracks all your transactions
+Ledger is constantly spamming me to enroll in paid services.  I am regretting my decision to buy one.
+I’ve got mine in my ledger even though I know there’s a stigma around ledger. Not one single lost fund thus far and it is the most popular brand of cold storage wallet. There are better options for Bitcoin but for a multi-coin wallet I think ledger is one of the best.
+What’s your wallet recs for bitcoin?
+Xaman previously Xumm
+I bought a ledger due to seeing the various exchanges being hacked and just seeing them being locked out. Haven’t had any issues so far. But I also have just been holding
+Ledger nano s has been perfect for me. Easy to use and none of the supposed security issues people have told me that the nano x has.  It is currently in a faraday box in a hidden safe.
+Just buy a Trezor. £90 and you will sleep better at night
+yeah i think thats the plan
+.....if your bags are sizeable, probably is wisest to split the amounts between several wallets, and keep a separate wallet around to do public-facing (i.e. sent to exchanges and for purchases) transactions with. This limits your losses if one of your wallets is compromised, and the smaller balances per wallet keeps you from being identified and targeted easily as a large holder by hackers sniffing the blockchain for soft targets.
+
+Separately, I only do trust lines temporarily for whatever my purpose is, and immediately cancel them once unnecessary. It is probably best to keep your wallets as separate islands, unable to manipulate each other or authorize transactions on another's behalf.
+I feel like I’ve set up a trust line a long time ago but can’t remember details. Anyway to find out on XRP Explorer or  ledger?
+ CRO Defi wallet.
+Ellipal is an air-gapped cold storage, so no connection to internet, but the app lags on occasion, then  tokens disappear and reappear on the app, which is frustrating, and the support sucks.  
+Other than that…
+I use the OG Ledger that I purchased directly from them. I haven't had any issues. I have some in uphold that I may sell but the majority is on my ledger nano x.
+Trezor is probably the best option. They are also becoming more compatible with ISO20022 COINS when you link it to an Exodus account (that being said, I still don't know how secure Exodus is as a wallet)
+OP look up ledger. Everyone else keep your details to your self.. this sub is full of scammers phishing
+Xaman
+Ledger.
+Tangem cold wallet
+Hard wallet only
+Xaman !!
+So coinbase would not be a good place to keep them?
+not your keys, not your cheese not your keys
+Nano ledger??
+Cold wallet, secux
+XUMM IS NOW CALLED XAMAN app. Your XRP on XAMAN is directly on the XRP ledger.
+they lost a copyrights case
+I believe WietseWind mentioned they were sued, or would be sued if they didn’t name change.
+anyone can track all your transactions if they know your wallet address... this is kinda the point of the blockchain
+My personal favorite is the Bitbox02 because of its usability, open sourced tech, secure design, and the cherry on top is it is Swiss made and that gives me a sense of security due to their historically neutral stance in macro climate. 
+
+The most secure is by far the coldcardmk4 but it is quite complicated to inexperienced users and I wouldn’t recommend it to people unless they were absolutely serious about 1. Taking custody of their Bitcoin and 2. Seeking a deeper understanding of the Bitcoin blockchain. If someone is wishing to understand how Bitcoin operates then Coldcard is the choice.
+
+If you are just looking to get your Bitcoin off the exchange, I would recommend Bitbox, if ur want a deeper understanding of the blockchain + the most secure design, the coldcard is ur choice. Truly you can’t go wrong with either and for that reason I own both.
+Thank you very much for the breakdown. Appreciate the responses, mate. Good to know the differences.
+If it still exists, there might be a reserve associated with it. If you have more than the base reserve that you founded the wallet with, my hunch is that something is taking it up...maybe a trustline.
+Do you have to worry about this is under 1000 xrp ? 
+I was thinking I'm safe intill get above that number.
+Please explain if not mate 🙏
+under 1000 can be 10 or 899
+
+If it gets to 10$ and you have some 500 xrps, do the maths
+Fs 😬 
+I'll have to get a ledger then. Is there anywhere that does literally idiot proof step by step instructions. It's simple for some and a fucking nightmare to understand for others...I'm in latter 🤣
+
+And how does it work if keep buying , buy on coinbase each month and transfer each month ?
+
+Sorry fir questions and thanks for help
+My coin hodling habits are terrible, probably worse than yours...and never used Ledger so I don't know. There are online wallets Exodus,nEdge I think that support XRP. You mmay want to create one and send some 200 over there...at least this would be not putting all in the same basket. 
+
+I doubt Coinbase going burst but we Never know. It may fall victim to an internal hack, or something like a malware or an idiiot suspect you of money laundering and freeze your coins...slim chance but you never know.

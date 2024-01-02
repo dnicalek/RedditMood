@@ -1,0 +1,270 @@
+Can someone smarter than me explain Chainlink’s future after ethereum’s dencun upgrade?I noticed that the dencun upgrade according to this article:
+
+https://blockworks.co/news/ethereum-improvement-proposals-2024
+
+Says that the upgrade will make it so that ethereum no longer needs external oracles.
+
+Is this true? Or is this oversimplification and or maybe only talking about one specific function an oracle can do is no longer needed.My interpretation is The data they are talking about is the state of validators, other Beacon Chain metrics that needed an Oracle to update and develop smart contracts on mainnet that need this data, not something usually Chainlink is chosen for I guess like it’s not market data it’s data about the state of a separate chain and making it more accessible
+Chainlink is so much more than oracles now but this would not affect its oracle business anyways.
+Weekly Wrap: Chainlink Milestones in 2023 - December 18 - December 31, 2023# Chainlink News and Announcements
+
+* **Chainlink Milestones in 2023. The future is on!**
+
+https://preview.redd.it/0tpm2uqeyy9c1.jpg?width=4096&format=pjpg&auto=webp&s=0bf72ce7c0e2e46f100f3a34621798e4ffeca682
+
+* [**Chainlink Product Update: Q4 2023**](https://blog.chain.link/chainlink-product-update-q4-2023/)
+
+https://preview.redd.it/3162ke6pyy9c1.jpg?width=1200&format=pjpg&auto=webp&s=18855c2eebf3c1ffc712a589de728b46de5a54cb
+
+Chainlinklabs, Chief Product Officer Kemal El Moujahid covers:
+
+* The latest Chainlink deployments
+* What's next for Chainlink oracle services
+* The major areas of focus for the network heading into 2024. Let's dive in!
+
+&#x200B;
+
+* [**Biggest Crypto Trends to Watch for in 2024**](https://www.nasdaq.com/articles/biggest-crypto-trends-to-watch-for-in-2024)
+
+https://preview.redd.it/ujdjt0g1zy9c1.jpg?width=1200&format=pjpg&auto=webp&s=c898aa8ae062957d7d78d9d5f0b68cf824f21662
+
+Sergey Nazarov joined Nasdaq, TradeTalks, to share his views on the biggest digital asset trends going into 2024. Read the Chainlink co-founder’s outlook on blockchain tech and capital markets, tokenized RWAs, the verifiable web, and more.
+
+&#x200B;
+
+* [**Sergey Nazarov On How Chainlink Became The Industry-Standard Computing Platform**](https://chainlinktoday.com/sergey-nazarov-on-how-chainlink-became-the-industry-standard-computing-platform/)
+
+https://preview.redd.it/un6hbbjg0z9c1.jpg?width=1896&format=pjpg&auto=webp&s=a2cba9ddc34e2b75711aa53dab63ab75694a41df
+
+Sergey Nazarov explains how Chainlink evolved beyond its original use case to power an array of advanced verifiable applications across industries.
+
+&#x200B;
+
+* [**The Potential Impact of a Bitcoin ETF | Sergey Nazarov on CNBC**](https://www.youtube.com/watch?v=7C2dGdMCqVY)
+
+https://preview.redd.it/35ddddpi0z9c1.jpg?width=640&format=pjpg&auto=webp&s=65942e85856281974871d218c4833c5758a52350
+
+Sergey Nazarov discusses the potential impact a Bitcoin ETF could have on both the capital markets and the blockchain industry.
+
+&#x200B;
+
+* [**Westpac’s Eugene Zaid On Why Banks Need Blockchain Standards That Work With Legacy Infrastructure**](https://chainlinktoday.com/westpacs-eugene-zaid-on-why-banks-need-blockchain-standards-that-work-with-legacy-infrastructure/https://chainlinktoday.com/westpacs-eugene-zaid-on-why-banks-need-blockchain-standards-that-work-with-legacy-infrastructure/)
+
+https://preview.redd.it/sj4uszuk0z9c1.jpg?width=1930&format=pjpg&auto=webp&s=dd195dc9fd8ca30bddb3b8ddfa738283269b9ec2
+
+"To enable all the players to move at their own pace and ensure interoperability between what they're doing, they need a standard." Westpac Bank's Eugene Zaid shares how Australia’s first bank is approaching digital assets in Chainlink's spotlight series.
+
+&#x200B;
+
+* [**Announcing the Winners From Constellation: A Chainlink Hackathon**](https://blog.chain.link/constellation-hackathon-winners/)
+
+https://preview.redd.it/lh0jkz6n0z9c1.jpg?width=1200&format=pjpg&auto=webp&s=630918a315ee7a1554c1b611d86f76482855fef5
+
+* Cross-chain wallets
+* Quantum algorithms
+* Decentralized ETFs
+* Customizable insurance
+* And much, much more.
+
+&#x200B;
+
+* [**Key SCALE Moments In 2023**](https://x.com/chainlink/status/1736795294098944264?s=20)
+
+https://preview.redd.it/us631yap0z9c1.jpg?width=599&format=pjpg&auto=webp&s=b8fad3b2c1bba2ddccfcea4a3671a9227c74ed61
+
+The Chainlink SCALE program plays a key role in supporting Web3 innovation and scaling the verifiable web. By empowering developers, SCALE participants unlock a new era of Web3 opportunity and sustainability.
+
+&#x200B;
+
+* [**Web3 Engagement Platform RPS Network Joins Chainlink BUILD**](https://medium.com/@rpslabs/web3-engagement-platform-rps-network-joins-chainlink-build-42e81676cfc2)
+
+https://preview.redd.it/4b4ueh1y0z9c1.jpg?width=1400&format=pjpg&auto=webp&s=21c190f19a09b60fa953ded421035f98f73b8f8f
+
+RPS Network is joining Chainlink BUILD to gain enhanced access to Chainlink's industry-leading oracle services and technical support, which helps support the security and use of its cutting-edge user engagement platform.
+
+In return, RPS Network will make 3% of its total native token supply available to Chainlink service providers, including stakers.
+
+At a high level, the RPS Network aims to establish a permissionless data and distribution channel that leverages an AI data layer for enhanced user targeting. This ultimately helps facilitate better user acquisition initiatives and increased user retention and provides a holistic engagement platform for Web2 and Web3 users alike.
+
+As part of BUILD, RPS Network will receive key benefits, including access to and integration of Chainlink Verifiable Random Function (VRF) within RPS Network's raffle service, Chainlink Automation and Functions to help automate airdrops while staying connected to offchain anti-botting technology, Chainlink Price Feeds to help track digital asset prices, and Chainlink CCIP to help build a cross-chain quest platform for dApps, as well as access to new Chainlink alpha and beta releases, among other benefits.
+
+&#x200B;
+
+* [**Bondex, a Web3 Talent Network, Joins Chainlink BUILD**](https://medium.com/@Bondex.app/bondex-a-web3-talent-network-joins-chainlink-build-8376f575e395)
+
+https://preview.redd.it/0hwzcji01z9c1.jpg?width=1024&format=pjpg&auto=webp&s=3ca9a831987e5b13a5e3ca9de8df4ae6ebc45ec8
+
+Bondex is joining Chainlink BUILD to gain enhanced access to Chainlink's industry-leading oracle services and technical support, which helps support the security and use of its Web3 talent market.
+
+In return, Bondex will make 3% of its total native token supply available to Chainlink service providers, including stakers.
+
+With over 3M downloads and 300K daily active users, Bondex's blockchain-focused talent network is transforming the job market for Web3 builders. The platform enables users to grow their onchain reputation through positive actions such as successful job referrals, which are "bonded" to ensure constructive member interactions. Ultimately, Bondex aims to create an Internet of Jobs onchain.
+
+As part of BUILD, Bondex will receive key benefits, including access to and integration of Chainlink Automation to trigger rewards for positive actions and Chainlink CCIP to connect its platform across the multi-chain ecosystem, as well as access to new Chainlink product alpha and beta releases, among other benefits.
+
+&#x200B;
+
+* **Announcing the Chainlink Developer Bootcamp 2024**
+
+https://preview.redd.it/5xv1hm121z9c1.jpg?width=800&format=pjpg&auto=webp&s=0875f1c7ea9b63a17957d76ae188bcb2eb1262fa
+
+* Available in English, Spanish, and Portuguese
+* Take the full course or attend individual sessions
+* Open to smart contract devs of all experience levels
+
+Flexible. Expert-led. Completely online. All three bootcamps are kicking off on January 8, 2024. Check the links below for the exact time:
+
+* English: [https://lu.ma/qoqfl19p](https://t.co/lBp6DLOljU)
+* Español: [https://lu.ma/fkr85zi7](https://t.co/Qv3lCbxP4Q)
+* Português: [https://lu.ma/ig70bk68](https://t.co/1rJEStKNm3)
+
+&#x200B;
+
+* [**Subscribe To The Missing Link Newsletter**](https://pages.chain.link/subscribe)
+
+https://preview.redd.it/0d2esprb1z9c1.png?width=800&format=png&auto=webp&s=b52f7ace6b77dfd93933a54a4da6d8482891cbd4
+
+Five minutes a week. That's all it takes to stay up to date with the most important Chainlink updates through The Missing Link newsletter.
+
+&#x200B;
+
+* [**Subscribe To The Chainlink YouTube Channel**](https://www.youtube.com/c/chainlink)
+
+https://preview.redd.it/yiw98iie1z9c1.png?width=800&format=png&auto=webp&s=3b8cc487c991189d981ab8dd0993b3b5f5f854e9
+
+The latest Chainlink videos are delivered straight to your YouTube subscription feed. Subscribe now!
+
+# Data Feeds Integrations
+
+* [**Integrate the CELO/USD Price Feed on Celo to Build Secure DeFi markets Around Celo’s Token**](https://data.chain.link/celo/mainnet/crypto-usd/celo-usd)
+
+Accurate, reliable, and decentralized Chainlink Price Feeds unlock key use cases across the Web3 ecosystem.
+
+# Data Streams Integrations
+
+* [**PancakeSwap Is Integrating Chainlink Data Streams and Automation To Power Prediction Markets**](https://blog.pancakeswap.finance/articles/pancake-swap-is-integrating-chainlink-data-streams-and-automation-to-power-prediction-markets)
+
+PancakeSwap is integrating Chainlink Data Streams and Automation on Arbitrum to help power its prediction markets. How the Chainlink platform powers high-integrity and high-performance DeFi.
+
+* [**MUX Protocol Integrates Chainlink Data Streams on Arbitrum**](https://x.com/chainlink/status/1738244778733527389?s=20)
+
+Read about the three key ways low-latency data will power MUX’s derivatives aggregator, which is made up of the MUX leveraged trading protocol and the MUX native trading protocol.
+
+* [**Vertex Is Integrating Chainlink Data Streams to Power Liquidations and Funding Rate Calculations**](https://blog.vertexprotocol.com/vertex-is-integrating-chainlink-data-streams-to-power-liquidations-and-funding-rate-calculations/)
+
+Vertex is integrating Chainlink Data Streams on Arbitrum to support its liquidations as well as funding rate and profit and loss calculations with ultra-low-latency market data on how Data Streams unlocks high-throughput DeFi for Vertex.
+
+# CCIP Integrations
+
+* [**Helio Protocol Will Integrate Chainlink CCIP To Unlock Cross-Chain Decentralized Stablecoin Transfers**](https://medium.com/@Helio-HAY/helio-protocol-will-integrate-chainlink-ccip-to-unlock-cross-chain-decentralized-stablecoin-5a7b8d1ec5d6)
+
+Helio Protocol is integrating Chainlink CCIP on BNBCHAIN and Ethereum to unlock cross-chain transfers of its decentralized stablecoin. Explore why Helio Protocol chose CCIP as its exclusive cross-chain solution.
+
+* [**Sommelier Is Integrating Chainlink CCIP to Unlock Cross-Chain Yield Vaults**](https://medium.com/@sommelier.finance/sommelier-is-integrating-chainlink-ccip-to-unlock-cross-chain-yield-vaults-db80c6057187)
+
+DeFi asset management protocol Sommelier Finance is integrating Chainlink CCIP as its exclusive cross-chain solution across Arbitrum on Base, Ethereum, and Optimism. Learn how CCIP helps ERC-4626 vaults go cross-chain.
+
+# What’s New for Developers 🛠
+
+* [**Module #2: Building a dApp on Polygon**](https://go.chain.link/masterclasses/functions-module-2?utm_medium=social&utm_source=twitter&utm_campaign=masterclass-functions-2)
+
+In this Chainlink Masterclass featuring Polygon Labs, learn how to bring data from any API onto Polygon using Chainlink Functions. Sign up now!
+
+* [**How To Use Time-Based Smart Contract Automation | Chainlink Engineering Tutorials**](https://www.youtube.com/watch?v=lFDx62fsM9s)
+
+Follow along with Richard Gottleber to learn how to register an Upkeep using the Chainlink Automation Job Scheduler to schedule time-based smart contract automation jobs with Chainlink Automation 2.0. Watch the full tutorial.
+
+* [**How To Get Sepolia Testnet ETH**](https://blog.chain.link/sepolia-eth/)
+
+Looking to test your Chainlinked smart contract on testnet before deploying it to mainnet? First, you'll need testnet tokens. Follow this guide to learn how to get testnet ETH tokens on Ethereum's Sepolia testnet
+
+* [**How To Use Custom Logic Automation | Chainlink Engineering Tutorials**](https://www.youtube.com/watch?v=PDOadPrpk78)
+
+Custom logic automation triggers enable you to specify what transactions should occur and when based on your smart contract's logic. This video tutorial by Richard Gottleber teaches how to use Chainlink Automation 2.0 with a custom automation trigger.
+
+* [**CCIP Masterclass #2: Cross-Chain Staking**](https://www.youtube.com/watch?v=kL511J0bkQY)
+
+Building cross-chain is easy with Chainlink CCIP. In this Chainlink Masterclass, harness the power of CCIP to create an advanced staking protocol with seamless cross-chain token connectivity.
+
+# Featured Videos & Educational Pieces 🎥
+
+* [**What Are the Properties That Make Chainlink a Platform? | Sergey Nazarov**](https://www.youtube.com/watch?v=HPiQZUfLxW4&t=1s)
+
+Sergey Nazarov explains the properties that make Chainlink a platform.
+
+* [**Sergey Nazarov on Chainlink’s CCIP**](https://www.youtube.com/watch?v=AzQnY0CqHOw)
+
+Chainlink CCIP "reduces the friction for banks, asset managers, CSDs, exchanges, that power and hold trillions of dollars, to integrate with blockchains"—Sergey Nazarov. Watch the full Bankless podcast.
+
+* [**Jorgen Ouaknine And Stephanie Lheureux Discuss Euroclear’s Digital Asset Strategy**](https://chainlinktoday.com/jorgen-ouaknine-and-stephanie-lheureux-discuss-euroclears-digital-asset-strategy/)
+
+Jorgen Ouaknine and Stephanie Lheureux of Euroclear, one of a dozen participants in Swift’s Chainlink CCIP proof of concept, explain the importance of infrastructure that unites tokenization islands and seamlessly brings traditional finance onchain.
+
+* [**Swift and Chainlink's Successful Collaboration**](https://www.swift.com/news-events/news/swift-explores-blockchain-interoperability-remove-friction-tokenised-asset-settlement)
+
+“As banks endeavor to access multiple blockchains, a common connectivity layer across the various chains will be a critical building block for their adoption of onchain finance”—Sergey Nazarov. Learn more.
+
+* [**Building High-Integrity DeFi Markets**](https://blog.chain.link/credibly-neutral-infrastructure/)
+
+To eliminate conflicts of interest, information asymmetry, and market manipulation, DeFi requires credibly neutral infrastructure that guarantees fair execution and proper incentive alignment, how Chainlink supports high-integrity DeFi markets.
+
+* [**How Chainlink Unlocks the Full Capabilities of Tokenization for Capital Markets**](https://blog.chain.link/tokenization-for-capital-markets/)
+
+Banks and asset managers need the Chainlink platform to level up their RWA tokenization solutions. Explore what Chainlink unlocks for capital markets.
+
+* [**Real-World Assets (RWAs) Explained**](https://blog.chain.link/real-world-assets-rwas-explained/)
+
+The future of finance is onchain, and the world’s value is being tokenized. Explore the tokenized RWA market opportunity.
+
+* [**What Are Ordinals? Bitcoin NFTs Explained**](https://chain.link/education-hub/ordinals-bitcoin-nfts)
+
+Inscriptions are gaining increasing popularity as a way of storing data on any chain. But where did this trend all start? Let’s have a refresher on Bitcoin ordinals.
+
+* [**The Potential of Private Equity Blockchain Adoption**](https://www2.deloitte.com/us/en/pages/mergers-and-acquisitions/articles/private-equity-blockchain-adoption-and-transactions.html)
+
+Blockchain tech is set to transform private equity by replacing paper-based agreements with programmable smart contracts. As Deloitte US’s recent industry report notes, “\[Tokenization\] can allow for quicker, more reliable verification of ownership, faster and more liquid secondary markets, easier use of private investments as collateral, and less expensive customization of investments.” Access the report to learn more.
+
+# Ecosystem & Community Celebrations 👏
+
+* [The 2-Day Bootcamp at Freie Universität Berlin is completed and successfully hosted by Amaechi, our Dev Expert, and Lydia, the Chainlink community advocate.](https://x.com/sojoypokkamol/status/1737459720544571708?s=20)
+* [Sitthavee, our Chainlink Community Advocate, shared his expertise on the topic "Navigating the Future with the Internet of Blockchains and CCIP" at Bitkub Blockathon 2023 in Bangkok last week.](https://x.com/sojoypokkamol/status/1736996451027488959?s=20)
+* [Chainlink BUILD event! Discussions on NFT/AI Analytics, Digital Asset Security, and RWAs were held in India.](https://x.com/Chainlink_IN/status/1737372961882206471?s=20)
+
+# Upcoming Events 📅
+
+* <08 January> \[ONLINE, GLOBAL\] - [Chainlink Bootcamp 2024 (English)](https://lu.ma/session-drf6k8n8akvvbentw5nn)
+* <08 January> \[ONLINE, PORTUGUESE\] - [Chainlink Bootcamp 2024 (Portuguese)](https://lu.ma/session-d38ajcf3x2xy9uyahhkp)
+* <08 January> \[ONLINE, SPANISH\] - [Chainlink Bootcamp 2024 (Español)](https://lu.ma/fkr85zi7)
+* <09 January> \[ONLINE, GLOBAL\] - [Chainlink Bootcamp 2024 (English)](https://lu.ma/session-2yjux8zn2u07a9f36zot)
+* <09 January> \[ONLINE, PORTUGUESE\] - [Chainlink Bootcamp 2024 (Portuguese)](https://lu.ma/session-2osashmvdn97xw6x04w4)
+* <09 January> \[ONLINE, SPANISH\] - [Chainlink Bootcamp 2024 (Español)](https://lu.ma/session-jil0q655hw0t3a6sg4se)
+* <10 January> \[ONLINE, GLOBAL\] - [Chainlink Bootcamp 2024 (English)](https://lu.ma/session-tsae362yfzy8lp6p8dbw)
+* <10 January> \[ONLINE, PORTUGUESE\] - [Chainlink Bootcamp 2024 (Portuguese)](https://lu.ma/session-h5vpkpvu9x3in9b8maqc)
+* <10 January> \[ONLINE, SPANISH\] - [Chainlink Bootcamp 2024 (Español)](https://lu.ma/session-7w9nv0qf0qv20f5xui3m)
+* <11 January> \[ONLINE, GLOBAL\] - [Chainlink Bootcamp 2024 (English)](https://lu.ma/session-pbuayq89vyda7d1bh6ct)
+* <11 January> \[ONLINE, GLOBAL\] - [Chainlink Product Q&A With Kemal El Moujahid | Q4 2023](https://twitter.com/i/spaces/1LyxBnmbMgOxN?s=20)
+* <11 January> \[ONLINE, PORTUGUESE\] - [Chainlink Bootcamp 2024 (Portuguese)](https://lu.ma/session-f7b5upfn9ebqu0584x2l)
+* <11 January> \[ONLINE, SPANISH\] - [Chainlink Bootcamp 2024 (Español)](https://lu.ma/session-j8gnxyt2ya3v6syxo8x6)
+* <12 January> \[ONLINE, GLOBAL\] - [Cross-Chain DeFi With Folks Finance and Chainlink](https://lu.ma/cross-chain-defi-with-folks-finance-and-chainlink)
+* <12 January> \[ONLINE, GLOBAL\] - [Chainlink Bootcamp 2024 (English)](https://lu.ma/session-34thr23cfiyk0j3oedee)
+* <12 January> \[ONLINE, PORTUGUESE\] - [Chainlink Bootcamp 2024 (Portuguese)](https://lu.ma/session-jb1n3i5h1jfwhjvysw87)
+* <12 January> \[ONLINE, SPANISH\] - [Chainlink Bootcamp 2024 (Español)](https://lu.ma/session-c1lexki8s2fcajkbba21)
+* <15 January> \[ONLINE, GLOBAL\] - [Chainlink Bootcamp 2024 (English)](https://lu.ma/session-0o17iy7a5hqhxmcnnfxc)
+* <15 January> \[ONLINE, PORTUGUESE\] - [Chainlink Bootcamp 2024 (Portuguese)](https://lu.ma/session-rnf0j5nlpcf3qyvcsoxw)
+* <15 January> \[ONLINE, SPANISH\] - [Chainlink Bootcamp 2024 (Español)](https://lu.ma/session-6pxotz7oj5y8e5dxyhbf)
+* <16 January> \[ONLINE, GLOBAL\] - [Chainlink Bootcamp 2024 (English)](https://lu.ma/session-itskdkk0xx8qh4n5utym)
+* <16 January> \[ONLINE, PORTUGUESE\] - [Chainlink Bootcamp 2024 (Portuguese)](https://lu.ma/session-cabrhn2qxet05mcekm02)
+* <16 January> \[ONLINE, SPANISH\] - [Chainlink Bootcamp 2024 (Español)](https://lu.ma/session-licb4ydqi0n8b2cgovyq)
+* <17 January> \[ONLINE, GLOBAL\] - [Chainlink Bootcamp 2024 (English)](https://lu.ma/session-70gqrtcpi477d76ojpal)
+* <17 January> \[ONLINE, PORTUGUESE\] - [Chainlink Bootcamp 2024 (Portuguese)](https://lu.ma/session-9rqh34a9trt2ba4erugk)
+* <17 January> \[ONLINE, SPANISH\] - [Chainlink Bootcamp 2024 (Español)](https://lu.ma/session-sk8vkik6ln1tro3bfzk8)
+* <18 January> \[ONLINE, GLOBAL\] - [Chainlink Bootcamp 2024 (English)](https://lu.ma/session-9wqkgu1d2k2m9edqmddk)
+* <18 January> \[ONLINE, PORTUGUESE\] - [Chainlink Bootcamp 2024 (Portuguese)](https://lu.ma/session-z51l3aszo7pghy97ikim)
+* <18 January> \[ONLINE, SPANISH\] - [Chainlink Bootcamp 2024 (Español)](https://lu.ma/session-u0cmp1jngk2uimld04k6)
+* <19 January> \[ONLINE, GLOBAL\] - [Chainlink Bootcamp 2024 (English)](https://lu.ma/session-5gb8yjj5itagwp4kqm0n)
+* <19 January> \[ONLINE, PORTUGUESE\] - [Chainlink Bootcamp 2024 (Portuguese)](https://lu.ma/session-330quwyep43jhsb4yhbt)
+* <19 January> \[ONLINE, SPANISH\] - [Chainlink Bootcamp 2024 (Español)](https://lu.ma/session-aujep52gyumlw908q43o)
+
+Chainlink’s Community Grant Program empowers our ecosystem to create valuable resources that help accelerate the adoption of Chainlink-powered smart contracts. [Apply for a grant today](https://chainlinkgrants.typeform.com/to/efEbsq).
+
+Are there other community content and celebrations that we missed? Please post them in the comments below! ⤵️

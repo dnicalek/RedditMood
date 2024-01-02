@@ -1,0 +1,209 @@
+Daily Discussion - December 28, 2023Hello everyone,
+
+Welcome to the Cardano Daily Discussion!
+
+*The standard sub rules apply here (see sidebar), with the exception that price discussion is allowed in this thread, though we encourage you to try not to make this the focus and talk about the project itself. Please ask questions, help others and be civil - be sure to get involved in Project Catalyst too!*
+
+If you're new, please make sure you're read through the [**newbies guide**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/hhcvkc6/?context=3) and share it with others (use the `?newbies` comment command to reference it).
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;
+
+https://preview.redd.it/ia7e1fhk787b1.png?width=600&format=png&auto=webp&s=8781ce26dfe611a4145d3f81e69738db2043d138
+
+# [Join our Midnight Subreddit](https://www.reddit.com/r/midnight)* ⚠️ [**PSA - SCAMS**](https://www.reddit.com/r/cardano/comments/lccorg/psa_there_is_no_such_thing_as_cardano_giveaways/) *Beware of scammers in direct messages.*
+* [**NEWBIES GUIDE**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/) *Start here*
+* [**PROJECT CATALYST**](https://projectcatalyst.io/) *Propose and vote on projects*
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*
+8 percent pump today. WOW
+Thank you adalite.ioWhoever you are, thank you so much. I never used any software wallets. You made my life easy staking using a hardware wallet since the beginning days of staking. Hope your team continues the good work and help us participate in the awesome Cardano network. Thanks again. 
+
+P.s. not sure why no one talks about it or why many people try to use software wallets. You have a very significant role in ada' adoption, especially in terms of staking.* ⚠️ [**PSA - SCAMS**](https://www.reddit.com/r/cardano/comments/lccorg/psa_there_is_no_such_thing_as_cardano_giveaways/) *Beware of scammers in direct messages.*
+* [**NEWBIES GUIDE**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/) *Start here*
+* [**PROJECT CATALYST**](https://projectcatalyst.io/) *Propose and vote on projects*
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*
+100% 
+
+Adalite + ledger for almost 2 years, very easy to use, very happy with them, never had any issues.
+But i see some fake websites, you gotta be careful, though.
+It's made by Vaccumlabs, they are the guys who also made the Cardano firmware for Ledger and Trezor.
+
+They also have a web3 wallet https://nu.fi/ which is more advanced to than adalite.
+its a good example of adoption via some degree of centralisation. not knocking it, i use adalite myself at times, but half the reason it's so user friendly is because adalite is running a full copy of the blockchain on the back end. whereas deadalus may take hours to startup, thats because its the full decentralised host-on-your-own-machine copy of the blockchain that may take hours to bootup before one can do anything. 
+
+again, not knocking it, just saying it's a tool people like and they like it because it is taking care of a part that you could take care of yourself, but we'd mostly prefer other people just did those bits for us so we don't have to think about it. i.e. centralization.
+Cardano News Rewind: Key Achievement in 2023Explore the major achievements of Cardano (ADA) in 2023 through our Cardano news review. Discover how Cardano has left a major mark on the blockchain landscape.  
+
+[https://blockchainreporter.net/cardano-news-rewind-key-achievement-in-2023/](https://blockchainreporter.net/cardano-news-rewind-key-achievement-in-2023/)
+
+https://preview.redd.it/j2d6fyemx09c1.png?width=1920&format=png&auto=webp&s=d976983a35716abb8906fb3663d5b3c360d5eaaa* ⚠️ [**PSA - SCAMS**](https://www.reddit.com/r/cardano/comments/lccorg/psa_there_is_no_such_thing_as_cardano_giveaways/) *Beware of scammers in direct messages.*
+* [**NEWBIES GUIDE**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/) *Start here*
+* [**PROJECT CATALYST**](https://projectcatalyst.io/) *Propose and vote on projects*
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*
+USDC on Cardano?Hello,
+
+Does anyone know of any plans of integrating USDC on Cardano? Cryptoviser on YouTube raised a valid point in my opinion that USDC could drive adoption on Cardano and I don't see it anywhere?
+
+Does anyone actually if there are any plans for native USDC on Cardano?
+
+  
+Thanks!* ⚠️ [**PSA - SCAMS**](https://www.reddit.com/r/cardano/comments/lccorg/psa_there_is_no_such_thing_as_cardano_giveaways/) *Beware of scammers in direct messages.*
+* [**NEWBIES GUIDE**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/) *Start here*
+* [**PROJECT CATALYST**](https://projectcatalyst.io/) *Propose and vote on projects*
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*
+He came on my youtube, and I watched him for a bit. Someday, he loves ADA, but he keeps on about ADA and USDC, and it's dumb as he'll. The literal point of ADA is decentralization and USDC ain't it. He talks like he knows ADA, but the more you listen, the more you realize he's only an investor and has no knowledge about the tech.
+No, it's very unlikely native USDC will ever come to Cardano. We have talked with Circle team for several years but unfortunately there's simply no viable path to move forward with.
+
+We built MyUSD as an interoperability layer, so you can directly swap it for USDC. MyUSD is available on Minswap and via the Mynth website.
+For your app, who holds the USD On Tron? Is it held in a smart contract?
+You can have a claw back feature on Cardano to make it viable the CTO of The Ape Society has built one already for Saturnnft.io, this answer is wrong we just need Emurgo to implement the tech for usdc and pay a few million and it’s on, not that hard when you look how funded they are
+Crypto visor is a moron.
+
+He's made so many videos about the same topics that have all been responded to with well thought out intelligent replies. 
+
+Yet he keeps curning out the same shit on the same topics.. 
+
+It's always.
+
+We need an ADA coin burn - erm, no.
+
+ADA staked % is a reflective of liquidity and what could be sold - no, staked % is meaningless in this regard.
+
+Need USDC - no, they will never support native tokens. Cardano takes decentralisation seriously.
+He’s also very disingenuous when confronted. Myself and many others have made counter points to his rantings and then he says you are a bot and blocks / shadowbans you so your comments no longer show up (I’ve checked my comments when signed out) so the comments become nothing but an echo chamber. I mostly still just watch him for comedy value at this point but I find myself getting more and more aggravated at the drivel he is shoveling. I’m very close to un-subbing
+
+Edit - and he’s so damn salty about missing Cardano at .25 due to waiting till it got to .20 which of course never happened. But in the same video will say it makes no difference investing in BTC at 20K or 25K. Yeah great “strategy”
+Oh man, I remember how he was talking about the coin burn for at least a month, that sure was exhausting to hear all the time.
+
+That was like, I don't know, two years ago?
+
+It's like he always wanted Cardano to follow other chains without acknowledging that Cardano can shine in its own unique ways - because that what it is for.
+You can't "freeze" native assets on Cardano, which is USDT and USDC's thing.
+
+Bridging them is one way. Making sure they are stable on our dexes relies on the trust that they can always be turned in against fair value.
+
+And programmatically/manually having the limit buy/sell orders...
+Which means our dexes need to open spec/documentation for the contracts or provide API. Nobody is going to be managing those positions by hand to game spread and provide stability/liquidity.
+>And programmatically/manually having the limit buy/sell orders... Which means our dexes need to open spec/documentation for the contracts or provide API. Nobody is going to be managing those positions by hand to game spread and provide stability/liquidity.
+
+Already been built
+ok, so that means that no USDC means that Cardano community is principled and values decentralization most of all. And if USDC/USDT owners want to have control, they can't so they won't be interested in Cardano, ok.
+
+This integration was important for me regarding interop but I see that you can't bring much value to other ecosystems if you just copy them... and Cardano seems to stand on its own principles which means it can bring it's own unique values to the whole ecosystem.
+How will USDM freeze assets then?
+Man cryptoviser is just the worst. One day he loves cardano the next day he trashes it
+He's full of crap when mentioning ada. Just today he made an ada video and said Cardano Defi was gonna take over the industry based on tvl.
+
+He can't make up his mind on the token. He claims to have sold all his Ada but for how much he talks about it I am speculative.
+There will be new listings on binance one will be ada-usdc and xrp-usdc and some others. Don't know if that's what you are asking for. But for me that's sounds pretty 👍. And btw cryptovisor is doing one day the mega hype for cardano and the next day it is the mega 🧂 for cardano and the chain is finished. A very emotional dude about crypto. And 2024 is a bad year to be emotional.
+I do not know but I can find out if you’d like
+Nothing official at this time.  You can use bridged USDC, USDT, and DAI through WAN Chain only at this time.  Best bet to get it added would be to have a vote on it with Project Catalyst but no one seems to be making the push.
+Shouldn't Circle/Coinbase be the entity that makes that push as they own USDC?
+
+I can't just propose to make USDC on Cardano and then make it because Circle/Coinbase might not endorse it?
+
+So our only option is to somehow convince Circle/Coinbase that it is worth it?
+
+Or maybe they will want to do it but only if Cardano proves itself a worthy chain, like with increased adoption etc - I'm just speculating here?
+I was on Emurgo site and saw this USDC being mentioned and it links to 
+https://www.anzens.com/
+This is weird because this site just says USDA and not USDC. No mention how they are affiliated etc.
+No nothing heard about usdc. 
+
+I read somtehing about a collaboration with arbitrium in combination with mina protocol
+I allso follow  Crypto Visor  and yes.he did say that . I have heard nothing eather .
+I am really intrigued by USDM (Mehen) rollout. Sceptical as hell but secretly yearning to be wrong. 🤣 Because it will be outstanding boost for network if they deliver on their plans.
+As a long term holder I can say that Cardano is pretty much useless now for an average Joe.
+USDC wants to control cardano and freeze the token like banks. We are done with banks otherwise what’s the point? We need a decentralized stable coin instead.
+
+They are welcome to integrate since cardano is open source though
+That's a very different thing. Appreciate your enthusiasm, but reality is much more complex.
+So MyUSD is a wrapped version like USD4 I suppose, I saw a clip that Emurgo was applying to help an American state (can’t remember the one) to build a stable coin I’d presume if that actually happened (doubtful I know) I’d hope it was supported on Cardano.
+I watch Altcoin Daily for the comedy factor as well at this point.
+
+I usually just watch Coin Bureau and any tech analysis channels that are giving realistic short term targets, even those channels are kept at arms length... too much shilling everywhere you look
+Hit us with a link. Always on the lookout for things Cardano.
+
+Edit: link can be found on u/SynthLuvr user page
+Correct ...
+
+We have DJED listed on Bitrue and having a lot of DJED on one or more exchanges is a good start for stability/liquidity.
+A 2nd best "guarantee", beyond the actual mint/redemption contract/logic.
+
+But "coincidentally" they're talking about stablecoin law to stifle others from popping up and thriving.
+Unless you are on their favorite Friends Co. networks.
+Too many stablecoins with liquidity backing by the same clubs are listed in no time.
+The crypto space is gamed pretty hard by a small group of people to exclude others and favor few.
+
+I wish I could tell you that the world and space was different but this is how it is.
+I see.
+
+So I can see now that there are a lot of Cardano accusations coming from outside, like Cryptoviser's complaint about no USDC.
+
+That stablecoin law seems like regulatory capture and has nothing to do with blockchain ethos.
+
+Looks like the correct way is to just do the things the way that they are suposed to be done and if other people catch up that would be great... and if other people don't appreciate it then at least you know that you did the right thing.
+
+I always loved Cardano for its principles but never talked to any community member actually, but now it seems like it's very principled and somehow very stoic for me, like "do the right thing and don't worry about the outcome (price)".
+Ah didn’t know that DJED is on bitrue - great news.
+>This integration was important for me regarding interop
+
+We built interop. One of core missions is to bring liquidity into the Cardano ecosystem. So if that's what's holding you back, no need to fear, Mynth is here.
+They won't. It's not possible to freeze assets on Cardano. They can and will however prevent redemptions and minting from unauthorized users. Users have to do KYC with one of the supported states (13 were supported, may be higher now). If you're not KYC'd, or your KYC gets revoked, then you can't mint/redeem USDM. You'll always be free to swap it on a DEX though.
+
+They will have blacklisting capability but it'll work quite differently from Circle's blacklisting.
+Blocking funds from being redeemed is essentially freezing it.
+
+What stops someone from swapping USDM into another native token and then redeeming that? Nothing? Then what even is the point in the first place?
+There’s no law that says a stablecoin issuer needs to be able to freeze assets. This is not an issue to deploying a stable
+🤷🏻
+If I remember correctly Circle wanted like 50 or 20 mill to add USDC to Cardano.  It is on Cardano at this point to pay for the integration or show that a use case is made.  With WAN chain bridging USDC, if there is enough flow there is a good chance they will add it without a payment.  Till then the only approach to get it faster would be with a Catalyst vote to either pay Circle or hope that they accept a vote that is not on their platform.
+>If I remember correctly Circle wanted like 50 or 20 mill to add USDC to Cardano
+
+This is myth that keeps circulating around. The main thing holding back Circle from integrating with Cardano is due to technical constraints, not financial constraints. For Circle to support Cardano, we'd be asking them to rebuild their entire business, their legal structure, and rewrite their software. Perhaps that's where the money myth circulates from, since maybe they'd entertain the idea with a large enough incentive.
+> I can't just propose to make USDC on Cardano and then make it because Circle/Coinbase might not endorse it?
+
+Sure you can. You can make a token called USDC right now on Cardano. No one can stop you. No one is going to use it but you can still totally do it.
+Sorry! I mistaken USDA as USDC.  
+Is it a good thing that USDA coming to Cardano?
+I guess that the more stablecoins the better?
+USDA project is on hold for now due to lack of clarity around  stablecoin regulatory landscape
+I value Cardano exactly because it does right.
+Others see it as a technical competitor so they throw up roadblocks or simply don't know how to build with it.
+
+If our community grows as it does and builds, it's their loss and will shine bright exactly because it's not just another of the nepotists toys.
+I see!
+
+It's like the world is full of copycats and nepotists and Cardano shines because it's doing it's own thing. But actually the world should be full of many different Cardanos, each with it's own principles. But since everyone is just copying everyone else, there is only one Cardano.
+You may think of it as essentially the same, but legally it's different. In the world of stablecoins, legalities matter.
+Point is one of the gateways is, well, gated. But you can go through that gate if you identify yourself. Otherwise you can use the stablecoin as you please via trading, which is the primary concern
+That is semi correct.  Charles is the one that brought up the 8 figure "fee" to add USDC to Cardano.  I don't believe that it is the only reason but it is a real one.
+Well tbf Charles says a lot of things and often gets taken out of context. He likely did mention something about this, but that doesn't imply money is the reason Circle can't add USDC to Cardano. Charles isn't the only one who has spoken to Circle execs. We've been trying to get USDC onto Cardano for over two years.
+Can you give a specific example of how a technical constraint can affect their business?
+Impossible to freeze assets on Cardano. Additionally, with ERC tokens they go through smart contracts, so Circle always has custody. Cardano assets don't go through smart contracts, so Circle will never have custody. This requires a different legal structure, and is why Mehen and Emurgo went down different routes than Circle to try and bring fiat redeemable stablecoins to Cardano. Getting regulators on-board to match Cardano's model has been difficult.
+His rant at the time seemed to heavily imply it was about the money but who knows.  At this point there is nothing really stopping it from happening except for Circle as there are work arounds in Plutus contracts to freeze tokens.  Maybe they are waiting for an easier approach but I don't see Cardano changing the way it's tokens/plutus contracts work anytime soon.  Maybe they are waiting to be paid.  Maybe they are doing nothing.  Or maybe they are building it out and they just aren't saying anything publicly.  One day we will find out lol.
+Makes me wonder what the whole Cardano community would say if there is a way to freeze assets and Circle would like it.
+
+But would the community allow it?
+
+One one hand it drives adoption but somehow I think that is not the Cardano way... or not the Satoshi way since we are continuing his legacy with the eUTXO model...
+There is a way through contracts.  A private entity, Circle, can write their contract however they would like.  The community would either use it or not, there is no way that it could be stopped.
+Nobody can stop it if possible and if they want to build it, but you can choose not to use it.
+
+I'm sure it will be used if it serves its purpose, stability and liquidity.
+Some may not, out of principle.
+
+Even if it becomes a dominant stablecoin, it can help stabilize others that can't be frozen.
+
+I don't know what method u/mcfool123 is referring to so I can't be certain what the technical implications are, but you know, in a general sense.

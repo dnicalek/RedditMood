@@ -1,0 +1,1 @@
+Can you send LTC from a native segwit wallet (ltc1) to a legacy wallet (L)?Yes

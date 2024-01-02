@@ -1,0 +1,179 @@
+01/02/24 [Join XRPLounge Discord] - discord.com/invite/XRPLounge# XRPLounge Discord
+
+\>>> **Invite Link:** [discord.com/invite/XRPLounge](https://discord.com/invite/XRPLounge)
+
+&#x200B;
+
+**Official Discord for the following subs:**
+
+* r/XRP
+* r/Ripple
+
+**Channels**
+
+1. Announcements
+2. News and media
+3. ​Infographics and visual aids
+
+**Categories**
+
+1. Exchanges & Wallets, FinTech, DeFi & NFTs, Investing, Cryptocurrency
+2. Interledger Protocol, RippleX, Polysign
+3. XRPL Labs, Xaman (previously Xumm)
+
+&#x200B;
+
+**Special Perks for** **XRPLounge Discord server boosters**
+
+ ⠀XRP 1 billion release per monthAs per my understanding Ripple releases 1 bilion XRP per month.
+
+What bothers me is that the price is most likely suprressed because of that.
+
+They've said that the shares are split up so there's a form of democracy in the deciscion making in favor of the XRP Community.
+
+What keeps the XRP Community from having that release of 1 bilions coins per month so that we can get actual price appreciation?
+
+For that matter, how many months to go to have released the 55 billion total? Which year are we talking about?
+
+&#x200B;1 billion XRP is released from escrow every month and this does cause price suppression correlating to how much of that 1 billion Ripple chooses to sell on exchanges. They don’t always sell all 1 billion every month, though sometimes they do.
+
+Ripple reads the market as to how much they should sell and they hold back as much as they like.
+
+It does mean there will be some price suppression for the next approx. 3.5 years until all XRP in escrow is released though the price takes more influence from the legal case and macro-economic forces.
+
+But in the grand scheme of things it will be helpful for there to be enough XRP in circulation in order for the cross-border payments system to work effectively.
+This is not an accurate response at all. There is no way on earth, in any universe, that Ripple will be done releasing escrow within 3.5 years. As well, I don't remember Ripple selling all of the tokens on any month. Although they could if they so desired. It does NOT suppress price in any meaningful way. Why would the largest holder of XRP bear the price down and make the investment less attractive for other investors. They are responsible stewards of the escrow and always have been. The escrow will likely last for decades. I view it as inflation of the available tokens and it has even evaluated to be a slower inflation rate than BTC and many other blue chip cryptos. Do your research before you respond this way.
+There is a lot of misunderstanding here. 
+
+- Ripple is disallowed by court order, from their settlement with FinCEN, from selling more than 1% of monthly volume every month. Their sales have close to zero, if any, impact on the price.
+
+- Within that 1%, Ripple rarely sells in the open market directly. They have certainly not sold in the open market since 2019 or so until last year (mid-2023). Don’t know if it has changed since then. Some of the released float is leased and comes back (line of credit), most of it is ODL purposes where XRP is sold and repurchased and price of XRP doesn’t matter there. For those who doubt this, look at the verdict by Judge Torres, where she notes that discovery proved that Ripple sold <1% of the XRP float in the open market since 2018. Stop listening to people claiming what they “feel” as truth and follow the extensive fact finding that the SEC did for 2.5 years. 
+
+- Ripple also supports the XRP market by purchasing XRP at market price. So escrow size some times increases.
+
+
+Finally, and this is not XRP specific and this is important to understand, whoever tells you that scarcity creates value and that’s why Bitcoin, or XRP, or some other low liquidity coin gets its price (high or low) is a joker. They don’t know the basics of economic theory. 
+
+It is extremely important for an asset to have flexibility in terms of a float. If everyone holds on to every single Bitcoin/XRP, who’s using it? What’s the point of holding something that no one uses? All that’s left will be speculative activity and that just causes the price to crash to zero when people run out of liquidity or the fad stops being a fad. Think about it. 
+
+When people are holding it in hopes of “number go up” instead of actually using it, what happens if the number doesn’t go up? Liquidity is key, because it mean that if you want to sell, there is someone to buy. Without liquidity, people can try to sell it, but no one will buy, which means price goes to zero. 
+
+Do you think “historic 70% of Bitcoin is in self custody wallets” is great news? It is terrible news. This means that buyers are much fewer than sellers!! It’s one bad news away from collapse!! I hope it doesn’t happen and it probably WON’T happen, but math is not on your side, if you think it’s good news. 
+ 
+You WANT as much Bitcoin/XRP/your favourite token as possible to be trading in the open market because that means there is demand for it. And if you want to buy, there is someone to sell. 
+
+That said, you don’t want rampant flooding of tokens (rug pulls). You need the float to track the non-speculative economic activity (aka utility) of the market. 
+
+From what I’ve seen, Ripple is the very few (if any) companies in this industry that reports quarterly sales and purchases, even if they don’t have to as a private company, and makes sure that their portion of the float tracks utility driven by their business, instead of what most other projects do - a predetermined “inflation” that has no relation to market dynamics. Maxis somehow twist this predetermination as “transparency” just because it’s written in code. That’s BS. At best they are ignorant, and at worst, they are manipulative.
+DYOR on what Ripple does with the escrow XRP,  I will share a good starting point.
+
+> There was a slight uptick of conversation around Ripple “flooding the market” last quarter, as many continue to misunderstand the mechanics of the escrow process which are simply transfers between Ripple treasury and escrow management accounts. In other words, those transfers do not equate to Ripple distributing XRP.
+
+https://ripple.com/insights/q1-2021-xrp-markets-report/
+https://bitcoinist.com/ripple-releases-1-billion-xrp-from-escrow-reserve/
+You'll all be long gone by thr time it's all released. Maybe your great great great grandkids will see the last of it trickle out
+Hopefully your wrong
+You can’t work out how many months 55 billion would take at 1 billion per month?
+Don’t be glib.   If you knew one fucking thing about it you would realize how stupid YOUR response actually is.  
+
+
+They sell approximately 19-24% of that billion xrp each month.  The rest goes back into the escrow to be unlocked later.  There is no way to know exactly when  it ends because there is no way to know exactly how many xrp will be needed each month.
+The term you're looking for is "Escrow". Lots of posts in this sub that will break it down better for you.
+Suppression is real. They keep 200,000,000 out of each billion released to fund their company to a tune of approximately @ $.62 $124,000,000/ month.
+
+Obviously, the cost of the token fluctuates.
+Good question. someone please do the math
+900 new Bitcoins created daily.  $44500 × 900. 40,500 00x 30 day.  Approximately $1.2  BILLION. Versus 630 Million XRP monthly. 🧐🤔🤷‍♂️
+It's why I don't hold it long term, I sell 90% of mine during massive moves upwards, especially during bull runs. There has always been something suppressing the price; Jed MCaleb, SEC, Escrow, stupid price manipulation events. It's going to be like this for a long time, it's better to just trade it.
+https://thecryptobasic.com/2023/12/29/ripple-gives-specific-timeline-to-end-xrp-selling-from-escrow/
+Until someone can explain the purpose of owning XRP and what will actually drive its price from a utility standpoint.. it's not worth touching.  XRP is a universal centralized bridge "money" transfer method. In theory.. it doesn't need to be owned like a share.  It's not like it's a decentralized independent currency that can be used to send money person to person. It's centrally managed by banks. So how in the world will XRP actually go up in value? Can someone smarter than me please explain.
+I'm waiting on this reply
+This question has been answered a million times in this sub.  
+I'm not gonna get into but   
+  
+  
+1. Anyone can run a node for the xrpl so yes, it is decentralized.  
+ 
+2. For XRP to work properly as intended , the price needs to be high. There is a writeup by David Schwartz about this.
+I’m probably stupider then you, but when banks buy in to hold as a reserve for transferring things cross border, wouldn’t their purchase make the price go up? I imagine they would just hold onto a certain amount at all times so there not buying from an exchange every single time they want to make a transfer and just pull from there reserve and replenish as needed, or is that not how it works? I’m more so asking a question then Iam giving an answer
+🧐🤔 900 New Bitcoins created daily.  Approximately  $1.2  Billion per month at current price. 🤷‍♂️🤷‍♂️
+Go and look at how much XRP is traded per month before assuming price suppression. Also look at how much XRP gets locked back up per month while you're at it 🙄👎
+They pocket approx $120,000,000 a month at.62/token
+What's your take on the price suppression? The XRP Army even has the slightest clue, predicting price levels to go up for dates more then I celebrated my own birthday in 45 years,the past 4 years.
+Would you care to tell me how? I hardly find your comment supportive. If I knew how I would, just don't know where to look.
+XRP is a nothing burger - wake up. It’s used as a bank account for Ripple and always has been.
+
+I once, HATED the type of comment I’m making until….I did a deep dive. XRP is a waste of investment.
+
+Invest in BTC mining stocks like CleanSpark or TerraWulf. Both up over 300% since October and expected to do a 40X each, by January 2025.
+Still doesn’t stop the fact that if the bull market happens and history repeats itself, we will hit at least an all-time high in the next year and a half.  Which is a big multiplier.
+Damn.... 😅
+Just took a look at their earnings and HAHAHAHAAHAHAHAAHA GTFO... You're saying we need to invest in massively overvalued stocks facing the halving and reporting massive losses in earnings? Nah I'm good bro. You do you tho. 
+
+LOL "expected to 40x each" Good luck with that.
+Fund their company and pay expenses
+It's in their white paper.
+It will be on par with Luna Classic, soon 👏🏼
+>What bothers me is that the price is most likely suprressed because of that.
+
+show me the correlation. go grab some data to backup that conclusion. When you realize none exists, ull realize why that idea is wrong.
+2027 and they can create more if the market so needs it.
+No they can’t
+It's actually not a finite supply. It actually says it in their white paper that if the market requires, they can put more into circulation and create more. If the market so requires.I can't find it at the moment. But I will look it up and get it to you in a day or 2.
+Look at the inflation rate yoy on coin trader pro and tell me if that even comes close to 1 billion xrp a month 👍🏼
+And yet we're up 80% from a year ago, up 170% from 3 years ago, and up 220% from 4 years ago. Slow and steady rise is better than pump'n'dump moonshots that crash and burn within hours, days, or weeks.
+Can someone help me and explain to me why this happens l have a arclus wallet and my xrp value in my wallet disappeared and then appears could it be the internet or do l,have to upgrade the wallet appreciate the info
+2027
+What’s the best wallet?
+
+Why can’t I buy in NY?
+
+Also, how to stake?
+https://u.today/1-billion-xrp-unlocked-by-ripple-xrp-price-reacts-with-2-drop?amp
+
+1bn the 1st of every month. And yes selling vast amounts of XRP affects the price. But only if they choose to sell the whole billion, which they did today. And exactly 3.5 years to get through the escrow.
+
+Pretty impressive that literally everything you said is wrong. Try reading the first page of Google, Ripple’s own press releases or literally any relevant information before correcting others in such an ignorant way.
+Ripple also has no control over how many of the one billion are sold - They’re not holding any of the billion back. OP is nuts
+Actually, Ripple does control how many are sold, my friend. They are selling them to fund Ripple operations. They generally less than 300 million and put the rest back into 5 year escrow. They do it to fund ops, but also, it's the method of inflation for the currency. It allows more XRP into the market to be bought and sold and used. Most people know that Ripple sells into the market, never talking about the XRP that Ripple buys back up. But they do. It's less than they sell. But they do because they are responsible stewards of their ecosystem. Performing a treasury type function over XRP. They have no control over the ledger itself.  We are just talking about tokens. Since Ripple are the largest holder of XRP, it follows, they will be the most careful and concerned about the price.  Therefore, i seriously doubt they would 'dump' their tokens and fuck up their own bankroll. They're not the US Govt. Haha. Dumbasses printing more money which devalues their own currency and hurts the citizens of the nation. But since it helps the government pay their bills, they dont care if it damages our wealth. Ripple isn't like that. They are one of us (meaning, they are XRP holders)and dont want to harm the price of XRP for any reason. At least, that's how it looks to me. Hope this helps.
+What? They have full control over that.
+Also, yes, OP is nuts. Cheers!
+Ok, your point? and from that article what does Ripple do with the XRP?
+They take 800,000,000 they put back into digital escrow, the 200,000,00 they cash out and fund their company.
+Hopefully you're wrong! Ripple re-escrows most of the unused XRP. So I really do hope they keep doing that. If not they are trying to dump it.
+So average they sell around 215 million a month on average 215x12=2580000000 divided by 55000000000= a little over 21 years. I’ll pass if these numbers are correct.
+55 months. That’s the answer
+Yes! Except....no.
+
+If they sold 1B every month, then you'd be right. But they release (make available) 1B every month. They don't actually sell it all. What they don't sell gets locked up again, to be released after the scheduled 1B/mo. 
+
+Only time will tell how much is left after the 55 months, and how long these scheduled releases need to run.
+How?
+Thank you for replying. I've been reading through the threads especially today. From what I understand ripple the company developed ripple net for banks. XRP can run on rivernet but it's not a requirement. It's in ripples best interest to push XRP to banks because of the cryptocurrencies convenient settlement properties.
+From reading some of the threads it sounds like banks are not yet adopting XRP. We may be another 5 to 10 years away before XRP becomes a standard if at all.
+OP, the sales do not suppress price in a a noticeable way. When any crypto project creates tokens, the next problem is to figure put how to get the entire supply of tokens into the hands of the public to be used. If done too fast you crush price, if too slow, you will not get adoption. So, BTC uses mining and the 'inflation' rate of the supply of BTC mining compared to XRP inflation is higher. XRP is being managed very responsibly. They are not dumping on our heads or any of that bullshit. Just keep holding friend. Patience gets gains!!!! Impatient idiots will lose and regret.
+every market page has the daily volume and analytics. Try CoinMarketCap or coingecko
+I agree but after this bull market it will sit until an XRP ETF or 2027
+XRP etf hahaha
+Take a read. They release 1 billion and take back 200,000,000 and cash them out and 800,000,00 back in escrow
+
+https://bitcoinist.com/ripple-releases-1-billion-xrp-from-escrow-reserve/
+That still doesn’t mean they create tokens. It’s a finite supply. Maybe you’re just choosing the wrong words for what’s happening based on the tokens going back into escrow.
+So, no moon?🌙
+That’s not making more coins tho
+Ya, can you imagine having to cash out  XRP at these prices to run your company. Knowing what the potential these same XRP are going to be worth.  In just short term I see most crypto to double! No one knows what is going to happen. I'm currently going to try to invest in this new technology. Good luck to everyone.
+They cash out? Where did you learn this? ‘Where’ do they ‘cash out’? To exchanges?
+
+Yes, please explain in detail with a source on what you mean they cash out?
+Ripple does indeed sell on open market exchanges. They used to do a lot of private sales too but I'm willing to bet they have paused private sales since ruling tho.
+https://thecryptobasic.com/2023/12/31/xrp-etf-may-be-on-cards-as-grayscale-sponsors-xrp-price-display-together-with-bitcoin/
+No there will be a moon and another 3 yr hold.
+
+I'm not negative I have over 100k XRP, but just no $10,000, it's not realistic, unles...
+
+If Grayscale went forward with their XRP ETF ...then yes.
+
+Look for a pump in the next 2 weeks at least, my opinion not advice.
+
+XRP follows BTC about 30-40% (coupled)
+Question regarding cold wallets and hot walletsI have a question and was wondering if anyone here has got an answer for me. I have all of my crypto on a ledger (cold wallet) for security reasons. But i linked my ledger to my phantom wallet so that i can use my Sol to buy shit coins and use the sol for transaction fees ect ect, my question is. If lets say for exemple i would click on a drainer that would steal all my crypto. Would it only steal the memecoins, or also the crypto in my ledger? Because everytime i wanna do something crypto related i need to confirm with my physical ledger anyways, so technically what im asking is if someone gets into my phantom wallet, is my crypto that is stored on my ledger still safe?I am not an expert but it will only drain the crypto associated with the trash contract you sign typically. Anything else on ledger is safe. Consider messing around using a separate hot wallet instead of through your ledger.
