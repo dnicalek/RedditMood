@@ -1,6 +1,6 @@
 import unittest
 from datetime import datetime
-from TimeProcessor import TimeProcessor
+from time_processor import TimeProcessor
 
 
 class TestTimeProcessor(unittest.TestCase):

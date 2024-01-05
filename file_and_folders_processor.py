@@ -2,7 +2,7 @@ import os
 import json
 import re
 from datetime import datetime
-from LoggerConfiguration import LoggerConfigurator
+from logger_configuration import LoggerConfigurator
 
 class FileAndFoldersProcessor:
     logger_configurator = LoggerConfigurator('FileAndFoldersProcessor', 'logs/FileAndFoldersProcessor.log')

@@ -1,5 +1,5 @@
 import unittest
-from CryptoData import CryptoData
+from crypto_data import CryptoData
 
 class TestCryptoData(unittest.TestCase):
 

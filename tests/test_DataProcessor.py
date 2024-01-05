@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch
-from DataProcessor import DataProcessor
+from data_processor import DataProcessor
 
 class TestDataProcessor(unittest.TestCase):
 

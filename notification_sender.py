@@ -1,6 +1,6 @@
 import firebase_admin
 from firebase_admin import credentials, firestore, messaging
-from LoggerConfiguration import LoggerConfigurator
+from logger_configuration import LoggerConfigurator
 
 
 class NotificationSender:

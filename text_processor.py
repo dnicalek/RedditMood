@@ -3,7 +3,7 @@ import re
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
-from LoggerConfiguration import LoggerConfigurator
+from logger_configuration import LoggerConfigurator
 
 class TextProcessor:
     def __init__(self):

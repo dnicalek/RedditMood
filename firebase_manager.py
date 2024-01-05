@@ -1,7 +1,7 @@
 import os
 import firebase_admin
 from firebase_admin import credentials, firestore
-from LoggerConfiguration import LoggerConfigurator
+from logger_configuration import LoggerConfigurator
 
 class FirebaseManager:
     logger_configurator = LoggerConfigurator('FirebaseManager', 'logs/FirebaseManager.log')

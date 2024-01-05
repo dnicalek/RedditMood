@@ -1,5 +1,5 @@
-from TextProcessor import TextProcessor
-from LoggerConfiguration import LoggerConfigurator
+from text_processor import TextProcessor
+from logger_configuration import LoggerConfigurator
 from transformers import pipeline, BertTokenizer, BertForSequenceClassification
 
 class SentimentAnalyzer:

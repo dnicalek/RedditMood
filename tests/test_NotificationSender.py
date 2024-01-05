@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch, MagicMock
-from NotificationSender import NotificationSender
+from notification_sender import NotificationSender
 
 class TestNotificationSender(unittest.TestCase):
 

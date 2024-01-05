@@ -1,5 +1,5 @@
 import unittest
-from TextProcessor import TextProcessor
+from text_processor import TextProcessor
 
 class TestTextProcessor(unittest.TestCase):
     def setUp(self):

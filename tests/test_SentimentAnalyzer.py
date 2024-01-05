@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import MagicMock
-from SentimentAnalyzer import SentimentAnalyzer
+from sentiment_analyzer import SentimentAnalyzer
 
 class TestSentimentAnalyzer(unittest.TestCase):
 

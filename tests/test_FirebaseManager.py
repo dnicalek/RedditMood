@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import MagicMock, patch, ANY
-from FirebaseManager import FirebaseManager
+from firebase_manager import FirebaseManager
 
 class TestFirebaseManager(unittest.TestCase):
 

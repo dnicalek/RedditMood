@@ -1,14 +1,14 @@
 import os
 import logging
 from datetime import datetime
-from TextProcessor import TextProcessor
-from CryptoData import CryptoData
-from FirebaseManager import FirebaseManager
-from SentimentAnalyzer import SentimentAnalyzer
-from FileAndFoldersProcessor import FileAndFoldersProcessor
-from TimeProcessor import TimeProcessor
-from NotificationSender import NotificationSender
-from LoggerConfiguration import LoggerConfigurator
+from text_processor import TextProcessor
+from crypto_data import CryptoData
+from firebase_manager import FirebaseManager
+from sentiment_analyzer import SentimentAnalyzer
+from file_and_folders_processor import FileAndFoldersProcessor
+from time_processor import TimeProcessor
+from notification_sender import NotificationSender
+from logger_configuration import LoggerConfigurator
 
 class DataProcessor:
     logger_configurator = LoggerConfigurator('DataProcessor', 'logs/DataProcessor.log')

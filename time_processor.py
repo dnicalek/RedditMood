@@ -1,6 +1,6 @@
 from datetime import datetime
 import time
-from LoggerConfiguration import LoggerConfigurator
+from logger_configuration import LoggerConfigurator
 
 class TimeProcessor:
     logger_configurator = LoggerConfigurator('TimeProcessor', 'logs/TimeProcessor.log')

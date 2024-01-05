@@ -2,7 +2,7 @@ import unittest
 import os
 import shutil
 import json
-from FileAndFoldersProcessor import FileAndFoldersProcessor
+from file_and_folders_processor import FileAndFoldersProcessor
 
 class TestFileAndFoldersProcessor(unittest.TestCase):
 
