@@ -1,3 +1,4 @@
+# TradeMood Project
 1.Open PowerShell:
 You can open PowerShell by typing "PowerShell" in the Start menu.
 Once open, navigate to the directory where you have saved your script.
