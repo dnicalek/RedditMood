@@ -1,0 +1,99 @@
+Southeast Asia welcomes Devcon 7! | Ethereum Foundation BlogI've booked my flights, 9 hours direct.
+trying to understand how layer 2s workthe layer 2 rollup space seems to cause a lot of confusion, it is quite non-intuitive, possibly because we have decided to use poor metaphors, such as bridges
+
+most people seem to see layer 2 as a separate blockchain entirely. you see comments that they don't care about scaling the rollups, they want to see etheruem scale on main net. but as far as I understand, when using a layer 2 your money never leaves layer1. also this is made worse by the holders of rival chains like sol who are financially incentivised to attack eth
+
+from my understanding and correct me if I am wrong, if for example you want to bridge 1eth to arbitrum, what you are actually doing is locking 1 eth in arbitrums smart contract, which lives on the etheruem main net. after doing this you are given a token that shows up as 1eth on arbitrum. you could take advantage of lower fees and swap half an eth for 1100 tether. and arbitrum will update the state root on main net and in the arbitrum smart contract, you now hold 0.5 eth and 1100 usdt
+
+there seems to be a criticism that because a rollup only has a single sequencer, its centralised and therefore could lose your money. but actually your money is still on ethereum and it should be possible to remove it by making a layer 1 transaction, if arbitrum were to shut down for some reason
+
+it seems like the term bridging is wrong, that makes me imagine driving my car from ethereum land over the river to arbitrum land. but I think its more like a valet parking garage, you leave your car with them, get a ticket for convenience and could recover it any time with the ticket. or a cloakroom in a night club, a cash desk in a casino etc.
+
+but from a user interface, it actually does seem like they are separate chains. have money on polygon and want to use GMX? can't do so without bridging. so its easy to see how the confusion happens. or maybe to all intents and purposes, they ARE separate chains until we can build some better ux to tie liquidity all together, or abstract it all away
+
+if I'm wrong about anything please correct me, I am trying to learn the concepts myself
+
+&#x200B;WARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*
+Love this analogy! Layer 2 is like a valet parking garage for Ethereum, not a bridge to another land. Let's improve UX to make this concept clearer and avoid confusion!
+you’re right. term bridging was inherited from an era when all cross chain protocols “connected” various independent L1s, and it all looked like bridges between islands.
+
+in L2s, you can get your asset from L1 by locking it in the smart contract that operates the rollup itself. unlike bridges between L1s, L2 bridging is the part of the rollup system and bridge failure is considered a system failure. thus, [all L2s can communicate with each other through common L1 if their finality is fast enough](https://mirror.xyz/alexhook.eth/g8FifgWnh6w9fIXX4DJrZXFf3nsr0dPgARrdFtzbHNs).
+
+however, it currently isn’t, because rollups are relatively new and immature technology, so their finality is either delayed for testing purposes (as in zk rollups) or intentionally slow by design (as in optimistic rollups). [rollup teams are actively developing them](https://l2beat.com/scaling/summary), so i think we’ll see first rollup interoperability protocols in this year or early 2025
+It depends what rollup type are we talking about: In zero knowledge rollup, everything is on-chain batched into tiny space with zero knowledge proofs. 
+
+In optimistic rollup, there are no proofs on-chain, instead if someone tries to cheat, one of the rollup nodes has to catch it and submit proof of fraud to the main chain.
+They don’t work, Vitalik is trying to get Eth hard forked to do away with layer 2s in the future, this has been known for a while so once he does this it’ll either be:
+
+A) successful and send layer 2 chains to zero like how he sent miners to zero 
+
+B) unsuccessfully and other chains that don’t need layer 2s will overtake Eth. 
+
+It’s not looking good.
+Yikes,  
+It is unintuitive,  
+It is essentially a separate blockchain that anchors to the primary,  
+Your funds go into custody when you take them to layer 2 depending on the asset. Whether thats smart contract or direct custody there are many more potential risks.  
+They are separate chains even if one is a layer 2 of the other, this is good to be aware of, your Eth on a layer 2 is never exactly the same as layer 1, even if hopefully eventually the experience and risks will be almost indistinguishable,  not yet.
+
+
+Edit- you will not learn here, join a dev/coding/cryptography reddit if you actually want the difference, you'll just get the 'investment bucket' here.
+>  It is essentially a separate blockchain that anchors to the primary,
+
+No, that's a sidechain.
+Yes. But if I put funds into any dapp they go into custody. If I deposit to aave to borrow against, I'm hoping that aave don't update the contract and steal everything. Is it any worse when doing the same for layer 2?
+No. I think the guy is right. L2s make new blocks hence their are their own blockchains.
+Tell me the difference?
+You can have layer 2s or side chains with their own consensus, there is no black and white as much as this sub likes to put things in categories for simplicity
+Sidechain is its own chain with its own security model but is bridged to another chain
+
+L2 is a smart contract that inherits the security properties from the main chain it is deployed to
+They are both their own chains, they both can have their own security models, layer 2 does not have to be a smart contract, you don't know what you are talking about.
+
+The only limitation of a layer 2 is it is built off a base layer. Structurally there are no restrictions in that definition.
+Wow, you dropped right down onto the personal insults level at record speed. Well, good luck figuring it all out.
+How nonces work when a transaction fails?I’m sending two transactions at the same time, I’m increasing the nonce manually for the second one.  Why is it that if the first transaction, with the lower nonce, fails the second transaction gets stuck on pending?
+Shouldn’t the nonce increase even if a transaction fails?If you send the second transaction with the same nonce as the first then it will replace the first transaction, or if the fee is lower it will probably be ignored.
+
+So the nonce you need to use for the next transaction should increase. If the wallet you're using doesn't know about the first transaction and doesn't know that it's already been broadcast and is floating around somewhere waiting to get into a block, it may not automatically increment it, but it needs to be incremented for the second transaction to go through as a separate transaction rather than replacing the first.
+
+If the first transaction fails in the sense of getting into the blockchain and not doing what you want, then it will use up its nonce and the next transaction will go through if its fee is high enough. However, if it hasn't failed, but it just hasn't been included in a block yet, your second transaction can't be included until after the first has. The system is designed to work this way because you may want your transactions to be processed in order, and processing them out-of-order may result in something you didn't intend. So if you set a very low fee for the first transaction, you need to make sure that gets into the blockchain first so that the second transaction can be included. You can do it either by replacing the first transaction with an identical one with a higher fee, or by making a new transaction that with a higher fee that doesn't do anything, just to achieve the effect of cancelling the first transaction.
+Wow I had no idea nonce was an actual ethereum term.
+
+This is worse than dank sharding and definitely tops the lost for dumb crypto lingo.
+
+In English a nonce is a child molester.
+The thing is, Im sending the first transaction with nonce 10, for example, and the second with nonce 11 and I know for sure that the first transaction will revert and it does, but the second stays pending it only completes if i resend another transaction that is successful with nonce 10
+It’s not an Ethereum term, it’s used in cryptography: https://en.wikipedia.org/wiki/Cryptographic_nonce
+Dank sharding was names after its two creators… but yea as a british person I shall not be increasing my nonce
+No, this doesn't happen. If the transaction with nonce 10 has really got into the blockchain and reverted, it won't block nonce 11 and the next transaction you send with nonce 10 will be ignored.
+
+Edit to add: The only way I can think of that this would happen would be if the software broadcasting the transactions is getting confused. If something between you and the network is refusing to even relay nonce 11 until nonce 10 has gone, and it forgot or never knew that you'd already sent 10, perhaps you have to send it a useless 10 that the network will immediately drop to make it send 11 for you? But I think it's more likely that this is just not what's happening.
+well it is on goerli testnet not sure if it is slightly diff
+No, there's absolutely no difference.
+i think i found the issue, Im sending it via code and it seems when the transaction is going to revert it returns a gas limit problem so it is not included if it fails but when i set the gas limit manually it is included even if it fails
+Ah, makes sense.
+That’s because whatever code you have to broadcast a txn - most libraries like ethers, viem, web3 js, web3 py etc - will simulate transaction execution first before actually sending it out. Your transaction didn’t end up reverting on-chain in that case, your code just figured out it’ll fail so it never sent it at all. You’ve figured out the solution to this already - forcing gas amounts and force sending it - but just wanted to clarify it for you
+ETHGlobal Bangkok, November 15 – 17, 2024Created a contract address using RemixI purchased some ETH on coinbase sent it using "BASE" to my MM wallet. Didnt show as I realized its a layer 2. Switched to BASE network on MM sent the base balance to the  ETH contract address.  Only shows as a balance on basescan. Ethscan shows the contract creation but not the balance. Any ideas how I can send my ETH (base) back to my MM wallet.  I tried owner verification of contract but kept getting errors during verification.
+
+&#x200B;
+
+thanks ahead of time.  WARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*
+What is this contract you created? Is it one of those scam “mev bot arb” contracts? Which network did you deploy it on?
+
+You need to share some actual addresses and transaction hashes if you want real help.
+Ahh man, i fell for one of these lika a fool!
+Lesson learned and lost 2 ETH.
+Backtracked my plan of buying a house in the coming months
+Share some of the details like a transaction hash of the transfer and contract creation so we can see what you did, this reads as if you deployed a contract on mainnet and then sent funds to that address on base…
+You send it to contract address on base while your contract is deployed on Eth mainnet. Best course of action now would be to deploy same contract at same address on base. You can do it by deploying exact same contract on base using exact same wallet and exact same nonce. If you have higher nounce on base then your Eth is lost forever
+Possibly correct assumption. Though I would not deploy the contract. If it is a scam contact he will lose all funds in the moment of deployment. Further as for my understanding it would be usually impossible to deploy to the same contract address. Maybe he can manage having the nonce on booth chains which is too my understanding the parameter together with the deployer address building up the contract address. If he could manage that he should just deploy a simple contact with the transfer function only and transfer the funds out.
+Was there any internal transactions?  Share the transaction hash
+Hope you learned a lesson that there’s no such thing as free money. 😅
+Ah right, I thought that contract code also impact contract address but it's not, just wallet address and nonce.

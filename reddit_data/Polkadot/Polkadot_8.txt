@@ -1,0 +1,15 @@
+8 DOT L1 Blockchains to Watch in 2024! - Polkadot Darkhorse 🎉 - SER, Have ya' Heard?Will Direct Transactions on Polkadot Without Cross-Chain Swaps Be Possible?In the Polkadot ecosystem, it is currently necessary to manually perform cross-chain swaps to interact with dApps on different parachains.
+
+This process, especially through commonly used wallets like Nova Wallet, is very annoying and complicates what should be simple interactions.
+
+Will it be possible that this process is becoming automated in the future, eliminating the need for manual swaps and the need for the specific token to pay for gas fees?
+
+For easier explanation:
+
+1. Example: I want to use my DOTs on HydraDX Omnipool to purchase Moonbeam
+
+2. Problem: I currently have to send my DOTs across to HydraDX before making a transaction.
+
+3. Question: Will there be a possibility in the future to directly use services like HydraDX without the intermediary step "2" of cross-chain swapping? 
+
+This would make everything much easier, or...?

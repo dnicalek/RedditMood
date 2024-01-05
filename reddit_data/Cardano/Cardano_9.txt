@@ -1,0 +1,93 @@
+Daily Discussion - January 04, 2024Hello everyone,
+
+Welcome to the Cardano Daily Discussion!
+
+*The standard sub rules apply here (see sidebar), with the exception that price discussion is allowed in this thread, though we encourage you to try not to make this the focus and talk about the project itself. Please ask questions, help others and be civil - be sure to get involved in Project Catalyst too!*
+
+If you're new, please make sure you're read through the [**newbies guide**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/hhcvkc6/?context=3) and share it with others (use the `?newbies` comment command to reference it).
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;
+
+https://preview.redd.it/ia7e1fhk787b1.png?width=600&format=png&auto=webp&s=8781ce26dfe611a4145d3f81e69738db2043d138
+
+# [Join our Midnight Subreddit](https://www.reddit.com/r/midnight)* ⚠️ [**PSA - SCAMS**](https://www.reddit.com/r/cardano/comments/lccorg/psa_there_is_no_such_thing_as_cardano_giveaways/) *Beware of scammers in direct messages.*
+* [**NEWBIES GUIDE**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/) *Start here*
+* [**PROJECT CATALYST**](https://projectcatalyst.io/) *Propose and vote on projects*
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*
+What To Expect From Cardano In 2024 (article)The Cardano network was launched at the end of 2017, so it will celebrate its seventh birthday this year. In the beginning, Cardano was talked about as an academic project. Today, it is one of the most decentralized networks with a strong community and a growing ecosystem. Cardano is getting stronger every year. What can we expect from the project in 2024? Let's look at the most important points.
+
+**Read the article**: [https://cexplorer.io/article/what-to-expect-from-cardano-in-2024](https://cexplorer.io/article/what-to-expect-from-cardano-in-2024)
+
+&#x200B;* ⚠️ [**PSA - SCAMS**](https://www.reddit.com/r/cardano/comments/lccorg/psa_there_is_no_such_thing_as_cardano_giveaways/) *Beware of scammers in direct messages.*
+* [**NEWBIES GUIDE**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/) *Start here*
+* [**PROJECT CATALYST**](https://projectcatalyst.io/) *Propose and vote on projects*
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*
+>Several teams are working on ZK rollups, for example, Paima Studio. We expect at least one ZK rollup on Cardano to be launched in 2024.
+
+Who else is working on zk rollups?
+
+Where did you hear Paima is working on a zk rollup for Cardano?
+Banking the Bankless - Update?Hey everyone, I bought into ADA a few years ago due to the banking the bankless narrative that Charles was pushing.
+
+Has any progress been made towards this vision?
+
+Would be great to learn more.
+
+Thanks.* ⚠️ [**PSA - SCAMS**](https://www.reddit.com/r/cardano/comments/lccorg/psa_there_is_no_such_thing_as_cardano_giveaways/) *Beware of scammers in direct messages.*
+* [**NEWBIES GUIDE**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/) *Start here*
+* [**PROJECT CATALYST**](https://projectcatalyst.io/) *Propose and vote on projects*
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*
+I think he signed up a 6th grade class in war torn Ethiopia to track their math grades, at least that is what i heard. Perhaps that is what he was talking about.
+I lol'd
+Emurgo is pushing the African initiative Id go on their website and see what they are up to mate,  as for banking the unbanked in general WMT has live coverage already providing internet and through Cardano you could transact but I’d say the actual banking the unbanked would be through things like midnight a privacy partner chain of Cardano where financial data could legally be kept onchain.
+Maybe learn to do some research. Instead of asking to be spoon fed on reddit.
+The key is fiat onboarding. You can now buy crypto via a credit card and then stake, provide loans etc. that’s technically banking the bank less because you can buy a prepaid card with cash. 
+As of having fiat onboarding via a fiat bank account. Not yet
+You can buy Ada via apple and google pay on Vespr wallet
+there was also providing micro loans & under-collateralized for entrepreneurs in Africa
+
+did anything come out of that?
+See this post:
+
+[https://www.reddit.com/r/cardano/comments/18ybkoi/comment/kgaf6rm/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/cardano/comments/18ybkoi/comment/kgaf6rm/?utm_source=share&utm_medium=web2x&context=3)
+Watch cardano 360 on youtube
+I would think that we have to wait until full Hydra implementation for that to be feasible. Transaction fee is still high for micro transactions to be competitive.
+The Lido Nation website has an excellent tool for letting you browse projects that have been funded for development via Cardano's [Project Catalyst incubator](https://www.lidonation.com/en/catalyst-explorer/proposals?p=1&f=f&t=p&bs%5B%5D=1&bs%5B%5D=4000000&s=bank&st=amount_received%3Aasc). Just use your keyword of choice and use the "funded" filter.
+Byron Wallet Recovery Zero BalanceI was wondering if there is a workaround for restoring an old Byron wallet with a 12 word seed phrase. When I import the seed phrase into Daedalus, it shows as zero balance and transactions after syncing. This appears to have been a known issue as there are a significant amount of people who posted online about it, the solution everyone used was to import the wallet from the state directory. I no longer have access to any old Daedalus appdata and only have the seed phrase. IOHK support just claim users are entering incorrect seed phrases, I am certain the seed phrase is correct. Does anyone know if a solution was found for recovering a old Daedalus wallet with just a seed phrase?
+
+[https://www.reddit.com/r/cardano/comments/jm17d3/restored\_a\_deadalus\_wallet\_balance\_now\_shows\_0\_ada/](https://www.reddit.com/r/cardano/comments/jm17d3/restored_a_deadalus_wallet_balance_now_shows_0_ada/)* ⚠️ [**PSA - SCAMS**](https://www.reddit.com/r/cardano/comments/lccorg/psa_there_is_no_such_thing_as_cardano_giveaways/) *Beware of scammers in direct messages.*
+* [**NEWBIES GUIDE**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/) *Start here*
+* [**PROJECT CATALYST**](https://projectcatalyst.io/) *Propose and vote on projects*
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*
+Step 1, before you waste a ton of time, is to drop the wallet address into [pool.pm](https://pool.pm) or cardanoscan and verify that it indeed does have a balance.
+I've checked the wallet address, it still has the funds.
+Hi!
+
+I believe that you can restore a 12-word Byron-era wallet on Adalite wallet. This is an IOG article about that:
+
+[https://iohk.zendesk.com/hc/en-us/articles/4414103909913-How-to-restore-Byron-wallets-in-Adalite-Daedalus-inaccessible-](https://iohk.zendesk.com/hc/en-us/articles/4414103909913-How-to-restore-Byron-wallets-in-Adalite-Daedalus-inaccessible-)
+
+I hope this helps your situation. Have a Nice New Year!
+Restoring in AdaLite gives an error message stating "we don't guarantee that the balance we show is correct!" and the balance shows as zero.
+Your not the first post about this and I think people have had success with Eternl
+Eternl has no Byron support.
+This is weird. As you stated in another comment, your public address which is generated from your 12-word recovery phrase, shows a non-zero balance in the Cardanoscan. This means that you are right and your seed phrase is correct.
+
+I searched a little about your problem, and everyone pointed at Adalite or Daedalus (or Yoroi, but now they have sunsetted their Byron recovery process). Maybe, you should go to IOG's technical community on Discord and ask there too.
+
+I am sorry I can't help you more. I will spend some more time searching for possible solutions, and if I find something interesting, I will share it here. Good afternoon!
+Is the address that Adalite restores from your seed phrase the same that you say you have checked on Cardanoscan?
+
+Otherwise, maybe the IOG support is right and that is \*not\* the seed phrase for that address.

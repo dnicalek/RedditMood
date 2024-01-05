@@ -1,0 +1,165 @@
+Ethereum without vitalikI am curious whether ethereum would survive without vitalik heading it. I know ethereum is in much more matured stage than few years ago, but I am wondering if vitalik does;nt exist from tomorrow, who will be the face of the project.Vitalik really isn't "heading" ethereum the way people seem to think. His influence has decreased drastically over the past years as more and more people get involved in the governance process. For all intents and purposes he's just another one of the many people doing nerdy cryptographic research (most often published on ethresear.ch) or otherwise writing blog posts about personal opinions or summarizing eth development. That said of course when he says stuff it's from a very knowledgeable pov so people listen, but still look at all the EIPs he proposed over the years that will stay stagnant forever.
+
+But yeah, he hasn't been involved that much lately, so aside from braindead bitcoin maxis trying to FUD by seemlessly switching from "he controls everything, he should just leave like satoshi did" to "he probably left because he no longer believes in eth, very bearish" ([exhibit A](https://twitter.com/Boomstick44/status/1739440162067898482) lol), nothing would change from him disappearing overnight
+I heard that Vitalik is not even the best person to explain Ethereum's roadmap...
+Pretty much nothing would change without Vitalik. He's not the boss of anything, he's not calling the shots, Ethereum is built as a science, anybody in the world is free to make a proposal, the community decides whether changes get implemented.
+
+Vitalik holds no power over development other than the fact he's usually got really good ideas and is respected as a gigabrain
+That's the beauty of ethereum
+He is the GOAT
+Vitalik's presence has depth without being a deciding factor. His departure won't dig a crater, but we'd feel the loss.
+I think the main thing Vitalik does right now is to put out peaceful vibes so we don't all collapse into bitter factional schisms.
+Yea it would be fine, he has lots of interesting ideas, but so do plenty of other people in the EF and the wider Ethereum community.
+
+I think his importance is often overestimated, as an example the next big upgrade is going to make the L1 cheaper for rollups to use. Vitalik's idea for how to do this was EIP-4488, but one that is actually going to be implemented is EIP-4844, called 'Proto Danksharding' after the two researchers who came up with it (ProtoLambda and Dankrad Feist).
+
+There are lots of other fairly well known researchers and developers that could probably step up to fill the role of figurehead if required (Tim Beiko and Danny Ryan spring to mind) but the truth is that if Vitalik retired from public view we would probably be better off without having any central figure to be the 'face of the project'. There are countless contributors that most people never hear of unless they frequent Ethresear.ch, EthereumMagicians etc, and they are the real strength behind the project. Vitalik is 'just some guy'!
+> Vitalik's idea for how to to this was EIP-4488
+
+4488 is especially noteworthy because it's an example of Vitalik explicitly not getting what he wants. He lobbied for this EIP to get included before the merge, but on an All Core Devs call he straight up got blocked by client teams and then had to back down. Now the EIP will likely never happen for the other reasons you laid out
+Well ,Apple survived without Steve Jobs .So I think it will be fine
+Things may definitely take a different path, but having Vitalik around for the architectural design, development, and layout is still way much better than without Vitalik.
+
+Every great business or project has a great leader behind it. Microsoft has Bill Gates. Apple had Steve Jobs. Tesla has Elon Musk. Alibaba has Jack Ma. If the great leader is gone, such as Steve Jobs, things may end up not as desirable (Tim Cook). So what we want is a great leader, and not just any Tom, Dick, and Hairy leader will do.
+
+I wish Vitalik a long life to old age.
+Haha for personal clout reasons I failed to mention he actually delegated that to 2 people instead of just the one. 1 becoming 2 is basically the smallest unit of decentralization when you think about it
+Yea, it's my go-to example of Vitalik not having the power that some people assume he has.
+Guidelines for use of Ethereum logo?Could anybody point me to guidelines or poc about the use of the ethereum logo? We are launching a Visa Credit Card with Ethereum cashback and want to use the logo in the design. We assume it is okay, but Visa ofc wants some written guidelines or confirmation.
+
+&#x200B;
+
+ThanksWARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*
+Only 5 days left to participate in the Solidity Developer Survey 2023!WARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*
+Can I use Ethereum to fund a startup idea?I mean this was one of the main use-cases/promises for Ethereum. Is that still possible. I see so many 'meme coins' and 'crypto projects' which turn out to just be ways to cycle money in ever more complex ways in a giant shitcoin gambling casino.
+
+&#x200B;
+
+But what about just create a simple ownership token. "mystartup-coin" or whatever. Mint 100k of them. Each one is a fragment of ownership in the startup that I will create, and it will receive proportional fund distribution from profits from the enterprise.
+
+So I just have a smart contract that takes all the money deposited into it, and evenly splits it to all token holders of the original 100,000, and then I regularly deposit the profits of the business into this 'splitter' contract.
+
+&#x200B;
+
+(and use the initial IPO to actually create the business.)WARNING ABOUT SCAMS: Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*
+Sure. It's called ICO (Initial Coin Offering). Or you can even make a DAO (Decentralized Autonomous Organisation) where important business decisions are taken by the token holders.
+
+Most startups doing this are crypto related. Did not really see this outside of crypto projects, as you need to get crypto affluent people to invest.
+
+You should understand on ethereum the fees are quite high for each Transaction, so if you don't lure in big whales you might want to consider a L2 for this with lower tx fees.
+
+The legal situation is a whole different kind of beast. Find an rather up to date overview here:
+
+https://www.devteam.space/blog/ico-law-and-compliance/
+This sounds exactly like an unregistered security.
+You should probably look into the legalities of issuing an unregistered security. Also, unless you’re an already well-established company or project, most people will write this off as a scam.
+>You should understand on ethereum the fees are quite high for each Transaction, so if you don't lure in big whales you might want to consider a L2 for this with lower tx fees.
+
+I've already got a product i can launch myself, and self fund it. I can just have the tokens on the website, owned by me but sold; and even if a few people buy it and see that it's actually paying out regularly, maybe that will rule out the 'scam' idea.
+The reason people will think it's a scam is that you are not the first person to have this brilliant idea and not the first person who will fail to produce any value for those token holders. The SEC has also noticed this possibility, which might be relevant to you depending on where you are.
+juicebox.money (on top of “regular” fundraiser like constitutionDAO or assangeDAO) does exactly this, iirc slice or sablier are pretty similar too. Issue is, to be fully trustless, your company income should be settled/received only onchain
+Is there any solution to autonomously turn USD->Crypto and deposit on chain in a decentralised manner or at the very least in an autonomous and trusted manner? 
+
+Or is that the big elephant in the room for crypto even today.
+What you are describing is called a "security". (Stock, Bonds, etc)   
+There is no technical hurdle to setting up a security with Ethereum, and it works quite nicely.   
+There is a large body of legal regulation around selling securities however. So the *short* answer is you absolutely can, but it's illegal.
+Just do it in a nation without extradition to the usa and you're fine.
+>what about just create a simple ownership token. "mystartup-coin" or whatever
+
+In common parlance, this is what is known as a *shitcoin*.
+Yes, you can do this.  That's the easy part.
+
+The hard part is that whether you obtain dollars or ethereum or avocados from investors, this arrangement is generally (and in the US particularly) a security.  The avocados (or dollars or ETH) aren't the security... the "deal" is the security.  Any piece of paper, token or other instrument that gives the owner the rights inherent in the deal (e.g. to share the profits) is, by extension, a security.    Thus the token you describe is a security, at least in the US.
+
+While some folks say it's "illegal" to trade securities, this is not entirely true.  It may be illegal but it may also be legal. It depends on a lot of things such as who is doing the trading, and how the trade is offered (e.g. publicly or privately), whether it is "arms length", and so on.
+
+Even if it is legal, if not done "properly" you can be exposed to risks.  For example, future token-holders might be able to sue you or your investors (if they got the token from them) in the future. 
+
+You also may have trouble attracting investors unless you can show them a path to returns that don't involve selling their token to some other random person, or getting stuck defending a claim that they are a general partner in an enterprise and thus jointly and severally liable for its actions (yes, there's that aspect to consider too).
+
+The whole area is so complicated that it takes specialist lawyers to set things up properly so that you (and your investors) are protected.  
+
+Some folks just say 'screw it' and do the deal and clean up the mess if it becomes worthwhile later.  Just like some people don't bother with a kitchen renovation contract up front and just let the contractor go at it.  Sometimes you end up with a great kitchen, sometimes you don't, and that's when the real trouble begins. 
+
+I would not recommend such a path, but you wouldn't be the first to go there. After all, that was the basis behind the whole ICO craze, and a lot of folks are just now starting to discover the size of the mess they have created.   Others have escaped entirely.  Your mileage may vary.   
+
+The ICO craze created so many investor-losses however, and now a lot of folks are *very* skeptical of crypto tokens as a cheap and easy way of investing in crypto projects.  They are viewed by and large as get-rich-quick schemes to be avoided.  So there is that to deal with as well.
+
+TL;DR - the easy part is setting up the structure. The hard part is doing so in a way that doesn't trigger perceptions of scam or create significant liabilities... and then if it does, dealing with them when they arise.
+Sounds like selling an unregistered security and cones with a lot of regulatory scrutiny if your startup ever takes off.
+Just do not do it in the SEC jurisdiction.
+Every country has rules, though the rules in the US are usually given to you after they claim you've violated them
+
+https://www.sec.gov/securities-topics/ICO
+
+Article basically says "Tokens may be securities", "They may need to be registered", "You will be notified" [after we decide you violated our made up rules].
+Yes you can. One of my favorite projects did that and raised $2m+ through NFT sales in 2021. Enough for a small team to develop for a while. Now they are launching in a month or two.
+Name of the project?
+This is a security, and you'll have to register with the SEC to do that.  
+
+It makes no sense to use crypto.  Just go the standard route, unless of course, your objective is to defraud people, then by all means, crypto is a great avenue provided you don't get caught or end up dismembered and stuffed down a garbage disposal.
+The standard route requires me to wear a business suit, and pay like 100k, and even then, what Am i going to have a website called "invest now" and they can put in their paypal, and invest $50, and i send them the updated company stock split via email?
+Consult a legal advisor. Avoid tokens and being in the US. Be active on social media. Sell NFTs and promise no returns. Keep profits to yourself and sail into the sunset.
+Legally? No. Not yet or not in the US or most of Europe at least
+You’re better off letting holders claim themselves, so that they absorb gwei fees and can base the frequency of their claims around that. Otherwise the cost of gas means it’s probably not feasible.
+
+You can DM me (or reply here) if you’d like, OP. I’m a launch consultant and my business partner and I have developed similar concepts.
+So, they can execute a contract as long as they have ownership of one or more of the shitcoin, and that will transfer funds from the 'splitter' contract to the invoker of the function?
+From a technical standpoint it absolutely can be done. But be aware that random people on the internet will be unlikely to trust you (since you are a random guy on the internet to them) and they probably won’t buy your token.
+Depends on a lot of different factors but generally speaking; spin up an entity on KaliDAO then use something like JuiceBox or even Mattereum to imbue trust in what you are doing. There are ways around being labelled a security too. 
+
+Interested to hear how you get on. Have fun.
+The US government actually ruled that these are in fact securities. Since so many companies were rushing to do ponzi startups through them as if there were zero regulation.  So regulators said "nope.  all previous regulations still apply".  
+
+It didn't slow down the scammers.  I'd suggest if you wanted your business to be taken seriously, build it with real world value. That's the one thing that scammers won't do and it'll set you apart.
+DAOs are securities?
+Er. No. Not really. 
+
+If your product is actually any good, and you can fund it yourself, then just make money off of selling the product and keep the profit for yourself. Why do you even need tokens? 
+
+Btw plenty of scams will pay out small amounts in the hopes of building confidence for the victim to make a big investment. So initial small payouts don’t signal that something is a safe investment.
+Because being able to front-load the payment for a subscription service is amazing and opens up new development opportunities.
+I assume you mean like actual US dollars in a bank account, not USDC. In which case, no. You’ll always need an on or off ramp. 
+
+I guess there’s stuff like Bisq but this isn’t really a viable solution for a real business for obvious reasons.
+I got into eth back in 2015, but basically took a hiatus from the community until now;
+
+&#x200B;
+
+is there really no autonomous on-ramp that a company can link a cash stream to that will just pump cash into crypto in some kind of decentralised way.
+
+&#x200B;
+
+Perhaps some kind of chain-link oracle watching the account, and a 'hostage' amount that the host puts up, that's the next 5 scheduled payments... and if the host misses a payment the hostage amount is released to the token holders, and the token itself obviously implodes as trust is broken, or any such thing?
+Or you know. Ban all US investors from your platform
+It's a game called Influence. (influenceth.io)
+
+It does not have an ownership token like you proposed.
+Take $ILV as an example for an ownership token.
+(the latter project raised money by selling said ownership token)
+Investment in (ownership of) them is
+Honestly if this is a legitimate business and you have a real product it’s gonna be a lot easier for you to just get a loan through a normal bank or find investors through the normal route. I can’t imagine many people just buying a random token on the off chance it turns out not to be a scam, and even if it is legit your business is going to forever be fighting the “unregistered security” issue.
+> I can’t imagine many people just buying a random token on the off chance it turns out not to be a scam
+
+I get the impression this is 99% of crypto buyers lol.
+lol did you go to jail?
+No… what you’re describing is not legal.
+An autonomous on-ramp that shifts real money into crypto is not legal? what?!
+That would be a massive drag on working capital.
+it's like asking why you can't have an anchor that floats. They're two different things with different fundemental purposes and rules. 
+
+You're asking for a system that can trustlessly track whats happening with real world assets. Real world assets do not have cryptographic keys. They are made out of stuff. I can lie about how much stuff I have, I can take your stuff, you can take my stuff, you can refuse to give me stuff you owe. Stuff is messy. 
+
+The interface between stuff and crypto will always be trusting someone.
+I don't know much about crypto other than what people knew back in 2016-2018, but wasn't chainlink's distributed oracle thing supposed to fix this problem?
+The problem is your project would exist in a vast sea of scams most of which no one will ever buy. If you are counting on buyers just not worrying about scams, your target audience is probably already spoken for by other less legitimate projects with more aggressive and targeted marketing efforts which they can afford to put all their resources into because they haven't spent anything on an actual product.

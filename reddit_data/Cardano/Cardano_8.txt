@@ -1,0 +1,138 @@
+Daily Discussion - January 03, 2024Hello everyone,
+
+Welcome to the Cardano Daily Discussion!
+
+*The standard sub rules apply here (see sidebar), with the exception that price discussion is allowed in this thread, though we encourage you to try not to make this the focus and talk about the project itself. Please ask questions, help others and be civil - be sure to get involved in Project Catalyst too!*
+
+If you're new, please make sure you're read through the [**newbies guide**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/hhcvkc6/?context=3) and share it with others (use the `?newbies` comment command to reference it).
+
+&#x200B;
+
+&#x200B;
+
+&#x200B;
+
+https://preview.redd.it/ia7e1fhk787b1.png?width=600&format=png&auto=webp&s=8781ce26dfe611a4145d3f81e69738db2043d138
+
+# [Join our Midnight Subreddit](https://www.reddit.com/r/midnight)* ⚠️ [**PSA - SCAMS**](https://www.reddit.com/r/cardano/comments/lccorg/psa_there_is_no_such_thing_as_cardano_giveaways/) *Beware of scammers in direct messages.*
+* [**NEWBIES GUIDE**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/) *Start here*
+* [**PROJECT CATALYST**](https://projectcatalyst.io/) *Propose and vote on projects*
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*
+The Cardano Newsletter is LIVE! ✉️Hello Community!! 👋 
+
+I wanted to tell you that I have just launched my own newsletter about Cardano and I'd like to invite everyone to join! 🌐 
+
+The goal of the newsletter is to navigate through the vast amount of information on Cardano and find precise and important information about the ecosystem. It's a way to stay up-to-date with everything related to Cardano, from news to project analysis. 📊 
+
+📌[www.cardanonewsletter.com/](https://www.cardanonewsletter.com/)
+
+https://preview.redd.it/l7gdbzrbq4ac1.png?width=1869&format=png&auto=webp&s=fc5623c9af9db86a89203429f6599cc79483c7c8Your Favorite Dex to trade and farm ADA?Looking to migrate away from centralized crypto exchanges for a host of reasons, the main one being more security, privacy and freedom from central control.
+
+Along those Iines, what would you recommend for a good Decentralized Exchange ?
+
+I am mostly looking to trade mostly ADA cryptos into Defi stablecoins like DAI. Perhaps also farm/stak.
+
+Thanks for your feedback. SI* ⚠️ [**PSA - SCAMS**](https://www.reddit.com/r/cardano/comments/lccorg/psa_there_is_no_such_thing_as_cardano_giveaways/) *Beware of scammers in direct messages.*
+* [**NEWBIES GUIDE**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/) *Start here*
+* [**PROJECT CATALYST**](https://projectcatalyst.io/) *Propose and vote on projects*
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*
+I've only been using dexhunter lately, best aggregator on Cardano.
+I use SundaeSwap-- great yield farming at the moment. 
+
+The protocol is working silky smooth and there's lots of great building on it. All catalyst proposals were also recently funded.
+Lots of great building. Lmao wtf?
+I do less dex stuff these days and more lending via levvy on cardano. Let others play with the more speculative play with their assets. I’ll lend to them at reasonable loan to value loans and collect interest or collateral if they default.
+How much interest do you earn? And how much you lending? Is it worth unstaking the ada’s?
+How does this work?
+Dexhunter Undoubtedly
+Danogo
+I've been using minswap since launch 👌
+>more security, privacy and freedom from central control
+
+Minswap is the biggest, but its custodial (they can freeze the funds of liquidity providers at any time) and probably has backdoors to steal your money
+
+Spectrum Finance is much smaller, but its actually decentralized and noncustodial
+
+I wouldn't recommend using any stablecoin ATM. None of them are safe
+
+check here for the most popular fi apps
+https://defillama.com/chain/Cardano
+I agree with most of what you've said but saying Minswap probably has backdoors to steal your money, while maybe not a stretch, is speculative and unnecessarily negative.
+
+Minswap has been really solid so far and I think they know if the Cardano community gets even a whiff of them being shady then they would be done for. 
+
+I would add that OP can check out [taptools.io](https://taptools.io) to get a feel for the token ecosystem on Cardano.
+Spectrum is also much faster
+You do know that 2 batchers batch over 90% of the transactions for Spectrum?
+Muesliswap was the first DEX on Cardano. I mainly use it for its aggregator. Options and index tokens to come online on it soon.
+I've been farming Shen/ADA on Museliswap. Worked great so far, even if Milk is a bit convoluted.
+Wing riders . I am part of 2 farms. So far so good.
+Using Muesliswap from the beginning. Also have aggregator.
+Mineral has been my go to, I’m bullish on their v2 coming out soon!!
+Is English not your first language?
+>speculative and unnecessarily negative
+
+in the world of crypto where 99% of apps are open source or source available, people SHOULD be speculative of closed source apps
+
+It doesn't matter if you think the Minswap team are good or bad, most crypto 'hacks' happen because of centralized backdoors, not because of bugs in the code. 
+
+There is currently $25million locked in Djed, a closed source app that DOES have a backdoor. We know this not because of their code (again, closed source), but because they've migrated everyone's money to new smart contracts without telling anybody. What if they accidentally sent everyone's money to the wrong address? What if they get a virus on their computers which could take advantage of this backdoor? What if the Djed team hires a thief who just wants to steal the money?
+
+The Cardano community isn't negative enough about closed source apps
+Fair enough. I don’t disagree with any of that and it is good to keep those things in mind. 
+
+I don’t provide liquidity anymore and none of my assets are locked up outside my own wallets so I may be a bit more lax in my thinking.
+
+Perhaps with Minswap V2 we’ll see some more transparency.
+Would you mind sharing a link to this claim about DJED?
+Short memory. There was a lot of whiff earlier this year about how trades were executed with highest possible fees for slippage, even if the market provided much more support, if the user wasn't extremely careful with their slippage settings. Minswap survived it, mostly because there is no real competition in my opinion, and there was a lot of victim-blaming from the minswap community. Yeah I know... there are competitors. But few were willing to give up the juicy liquidity that minswap brings to the table as the largest dex in cardano.  And as the largest dex, they have a large and vocal community of users supporting them no matter what, as often happens among young folks in crypto spaces.
+Dude this issue with slippage only applied to Muesliswap. Wtf you mean minswap survived it. Do you even know what you're talking about?
+
+So many noobs in this subreddit that have no idea wtf they're babbling about and don't properly follow the ecosystem.
+
+Minswap had NOTHING to do with a slippage issue. It only happened on Muesliswap and they refunded people.
+Yeah I’m speaking more to if they did some massively shady stuff now like utilizing a backdoor to drain everyone’s liquidity. People at that point were definitely willing to let more things slide especially if it’s easy to chalk it up to people messing with their slippage.
+you know that Spectrum batchers are permissionless so it's literally impossible for them to freeze their exchange or hold liquidity providers hostage (unlike Minswap)?
+You mentioned "decentralized and noncustodial", I challenged the decentralized part. That part needs more work. It's like if you say a chain is decentralized with a Nakamoto Coefficient of 2. That part has nothing to do with Minswap (which I agree needs to open source which they're doing in V2, and also open source and permissionless batchers which last I heard was this year but imo they need to hurry up).
+the whole purpose of decentralization is cens0rship resistance. Nakamoto coefficent isn't relevant here because a 51% attack can't happen for batchers. As long as becoming a batcher remains permissionless, it doesn't matter of there's 1 batcher or 100 batchers.
+
+>permissionless batchers with only 1 participant
+
+is still more decentralized than 
+
+>permissioned batchers with 100 participants
+
+because in theory it is possible (albeit very difficult) to censor the dex with 100 permissioned batchers. On the other hand, it's absolutely impossible to censor the DEX that has permissionless batchers with only 1 participant, because an infinite number of participants can replace them.
+Fair point
+Any good interviews with Cardano developers/engineers?I’ve listened to a ton of interviews/podcasts with developers and engineers from other L1s but I’m having a hard time to find anything from Cardano other than Charles Hoskinson. I find it super interesting to hear from lead engineers on their thoughts and what excites them, challenges etc. There’s a ton of code activity on Cardano but not much public developer engagement imo. 
+
+Any recommendations?* ⚠️ [**PSA - SCAMS**](https://www.reddit.com/r/cardano/comments/lccorg/psa_there_is_no_such_thing_as_cardano_giveaways/) *Beware of scammers in direct messages.*
+* [**NEWBIES GUIDE**](https://www.reddit.com/r/cardano/comments/lnj5ne/getting_started_guide_a_newbies_guide_to_cardano/) *Start here*
+* [**PROJECT CATALYST**](https://projectcatalyst.io/) *Propose and vote on projects*
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*
+Hi!
+
+As you said Charles Hoskinson makes frequent AMAs and updates on his YouTube channel, where you can hear a lot of interesting things about the state of things in Cardano.
+
+Also, a great view is the monthly "Essential Cardano 360" on [Input Output's YouTube channel](https://www.youtube.com/@IohkIo/videos). There, every month, IOG shares the big technical news on Cardano, while giving the spotlight to developers and projects to make themselves known. So, there you can find some leading figures of Cardano's Ecosystem speaking out.
+
+Furthermore, you can look at some YouTubers that make Cardano-specific videos (such as [Cardano with Paul](https://www.youtube.com/@CardanoWithPaul/videos), [Learn Cardano](https://www.youtube.com/@LearnCardano/featured), and [Big Pey](https://www.youtube.com/@bigpey/featured) to name a few), because they interview, from time to time, people from the Cardano Ecosystem. So, search their channels for interviews from Cardano devs that might interest you.
+
+Something else you can do to find interviews from leading builders, is to move backward. First, find the projects you love on Cardano, and try to find the people behind them. When you indeed find their (nick)names, just search them on YouTube, and you will likely find their opinions on a variety of things that concern Cardano.
+
+Lastly, X (Twitter) and Discord are great places to gather more info. If you follow some Cardano-specific accounts on X, the algorithm will do its job, and it will feed you with the views of various Cardano developers and builders. If you don't know where to begin (I could name dozens of names, but I will forget dozens more), start by following the big Dapps and projects and their teams on X. Musk's algorithm will do its job after that to suggest more accounts.
+
+Also, you can join the Discord servers of those Dapps, IOG's technical server, and also be a part of the servers of some big Stake Pool Operators (like BLADE), and of the Discord of some prominent Cardano's NFTs projects (even if you don't want to buy some of their NFTs). By doing that you will be a part of many communities. You can understand better what they are building and what they are excited about. You can also pose there your questions and gain some answers yourself.
+
+And a side note. In order to find the best projects on Cardano, a look at the TapTools website might help (at least for projects with a token). Wonderful projects that don't have (at least yet) a token, are Sebastien Guillemot's -a superb dev that you can listen to interviews of him- projects (DC Spark, Paima Studios, Milkomeda), and AXO that hasn't launched yet.
+
+These are some things you can make to be a part of Cardano's ecosystem and through the friction with some communities, you can hear the opinions, thoughts, and aspirations of some leading devs and builders on Cardano's island.
+
+Happy New Year my friend!
+Sebastian from Dcspark on youtube

@@ -1,0 +1,27 @@
+Litecoin wallet that supports importing secret keyPretty much the title. I have a single wallet which has just the private and public key pair. Every wallet app that I have encounter supports only importing the mnemonic phrase. So, is there any wallet where I can directly import the key and interact with blockchain?You can use litecoin core or exodus
+Exodus only allows importing private keys for Bitcoin as of now.
+Coinomi wallet has that feature and i can conform it works for litecoin.
+Buying LTC under 18?Any way I can purchase LTC with my debit card under 18 in the U.S? I've been looking but can't find anything.You can get there in two hops.
+
+1. Find a crypto ATM - Some (few) allow use with only a cell phone
+2. Use an anonymous exchange (`fixedfloat`) to swap BTC (or whatever) for LTC
+Get a family member to register on coinbase, and buy the coins then transfer them to your wallet, and you give them the cash?
+They aren't really into crypto stuff, I've asked in the past about apps like coinbase but they think it's a scam or something. Is there any app I can just buy with card and have it deposit to my wallet without giving my ssn?
+Save yourself while your ahead and don't purchase LTC unless you understand its very likely to stay stagnant price wise
+I'm aware
+Stagnant through a bear market is ideal especially when there’s no well known litecoin maxis out there, & it’s clear you don’t understand the cycle it goes through, Ltc moves 7-8 months after its halving which coincides with bitcoin’s halving & 3 months before its own halving.
+Learn the cycles 🧩
+If you’re in Canada or Peru I could help you.
+U.S sadly
+[removed]
+underated coin*
+Buy them on r/Cash4Cash, follow their rules to post
+I'll take a took, thanks
+Maybe https://kycnot.me/ and then with a swap. But asking someone who is over 18 may be more simple
+There is a reason you can't buy below 18, maybe just wait? Never know, might get a substantial discount.
+BitMart, Dex Trade or get yourself a ledger & buy through them.
+Not really no. It's regulated. Just like you can't get a bank by yourself as a minor, especially without ID, but people can still give you cash. Good luck getting on a crypto exchange without ID, but people can still give you crypto.
+I'll buy them for you
+Actually??!
+Trust me bro for real I would ;)
+beware of scammer

@@ -1,37 +1,36 @@
-from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from TextProcessor import TextProcessor
 from LoggerConfiguration import LoggerConfigurator
-
+from transformers import pipeline, BertTokenizer, BertForSequenceClassification
+import torch
 class SentimentAnalyzer:
 
     logger_configurator = LoggerConfigurator('SentimentAnalyzer', 'logs/SentimentAnalyzer.log')
     logger = logger_configurator.configure_logger()
-    @staticmethod
-    def initialize_sentiment_analyzer():
-        try:
-            SentimentAnalyzer.logger.info("Initializing sentiment analyzer.")
-            return SentimentIntensityAnalyzer()
-        except Exception as e:
-            SentimentAnalyzer.logger.exception(f"Error during sentiment analyzer initialization: {str(e)}")
-            return None
 
-    @staticmethod
-    def classify_sentiments(analyzer, lines):
+    def __init__(self, bert_model_path):
+        self.model = BertForSequenceClassification.from_pretrained(bert_model_path)
+        self.tokenizer = BertTokenizer.from_pretrained(bert_model_path, num_labels=5)
+
+    def classify_sentiments(self, lines):
         positive_posts, neutral_posts, negative_posts = 0, 0, 0
-        positive_threshold, negative_threshold = 0.05, -0.05
+        if not lines:
+            return positive_posts, neutral_posts, negative_posts, 0.0, 100.0, 0.0
 
         for line in lines:
             try:
                 cleaned_line = TextProcessor.process_text(line)
-                sentiment = analyzer.polarity_scores(cleaned_line)
-                compound_score = sentiment['compound']
+                truncated_line = cleaned_line[:512]
+                inputs = self.tokenizer(truncated_line, return_tensors="pt")
+                outputs = self.model(**inputs)
+                logits = outputs.logits
+                predicted_class = logits.argmax().item()
 
-                if compound_score >= positive_threshold:
-                    positive_posts += 1
-                elif compound_score <= negative_threshold:
+                if predicted_class == 0 or predicted_class == 1:
                     negative_posts += 1
-                else:
+                elif predicted_class == 2:
                     neutral_posts += 1
+                else:
+                    positive_posts += 1
             except Exception as e:
                 SentimentAnalyzer.logger.exception(f"An error occurred during sentiment analysis: {str(e)}")
 

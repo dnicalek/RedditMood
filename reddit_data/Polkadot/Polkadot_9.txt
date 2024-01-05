@@ -1,0 +1,17 @@
+Polkadot Digest 4 Jan 2024# Polkadot News
+
+Interested in a job in the Polkadot Ecosystem? You can search for one here: [https://polkadot.getro.com/jobs](https://polkadot.getro.com/jobs)
+
+A new parachain lease auction has begun, with Sora Polkadot in the lead. [https://parachains.info/auctions](https://parachains.info/auctions)
+
+Referendum 380, setting the relay chain's safeXcmVersion to v3, has passed and executed. [https://polkadot.polkassembly.io/referenda/380](https://polkadot.polkassembly.io/referenda/380)
+
+Novasama will take over maintenance and development of the Polkadot Vault from Parity. [https://forum.polkadot.network/t/announcement-from-parity-technologies-on-transition-of-polkadot-vault-to-novasama-technologies/5483](https://forum.polkadot.network/t/announcement-from-parity-technologies-on-transition-of-polkadot-vault-to-novasama-technologies/5483)
+
+## Kusama News
+
+krest is in the lead in the current parachain lease auction, with four days left to go in the Ending Period. [https://parachains.info/auctions/kusama](https://parachains.info/auctions/kusama)
+
+Referendum 326, a Treasury Proposal to onboard Brale and Glo to the Kusama Asset Hub, is currently failing with 39.4% in favor. [https://kusama.polkassembly.io/referenda/326](https://kusama.polkassembly.io/referenda/326)
+
+Referendum 327, proposing to accept Polkassembly as a Kusama Registrar, is currently passing with 99.8% in favor. [https://kusama.polkassembly.io/referenda/327](https://kusama.polkassembly.io/referenda/327)Chrome extension problemsThis seems to have been noted and asked before, but the JS is not recognizing the extension.  I have ensured everything is updated. How do I access anything on the chain since it is all blurred out?

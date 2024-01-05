@@ -1,0 +1,14 @@
+CHAINLINK GENESIS BLOCK OR FIRST BLOCK 
+
+# 📷
+
+Hello, i ve been trying to find the CHAINLINK s genesis block or first block in the explorer but without sucess, can someone give me a hand, please? Thank you in advance.I think the better question here is… Why do you need it?
+I’ve seen this being asked in multiple different forums I think this is some sort of bot or spam question meant to confuse people , or perhaps part of a larger social engineering program
+Could it be this?
+
+Creation transaction: Sep 16, 2017 9:26 PM UTC
+
+[https://blockchair.com/ethereum/address/0x514910771af9ca656af840dff83e8264ecf986ca](https://blockchair.com/ethereum/address/0x514910771af9ca656af840dff83e8264ecf986ca)
+
+https://blockchair.com/ethereum/transaction/0x5488510df045770efbff57f25d0c6d2c1404d58c1199b21eb8dc5072b22d91d7
+You mean the token creation transaction?  Yes it's 0x5488510df045770efbff57f25d0c6d2c1404d58c1199b21eb8dc5072b22d91d7.
