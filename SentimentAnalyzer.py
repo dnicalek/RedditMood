@@ -1,7 +1,7 @@
 from TextProcessor import TextProcessor
 from LoggerConfiguration import LoggerConfigurator
 from transformers import pipeline, BertTokenizer, BertForSequenceClassification
-import torch
+
 class SentimentAnalyzer:
 
     logger_configurator = LoggerConfigurator('SentimentAnalyzer', 'logs/SentimentAnalyzer.log')
