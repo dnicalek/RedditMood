@@ -1,2 +1,0 @@
-[TYPECHECK]
-generated-members=CryptoData.*,DataProcessor.*,FileAndFoldersProcessor.*,MainProcessor.*,FirebaseManager.*,LoggerConfigurator.*,NotificationSender.*,SentimentAnalyzer.*,TextProcessor.*,TimeProcessor.*
