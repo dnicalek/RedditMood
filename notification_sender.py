@@ -21,7 +21,7 @@ class NotificationSender:
 
             return fcm_tokens
         except Exception as e:
-            NotificationSender.logger.exception("Wystąpił błąd podczas pobierania tokenów FCM. %s", str(e))
+            NotificationSender.logger.exception("An error occurred while retrieving FCM tokens. %s", str(e))
             return []
 
     @staticmethod
@@ -37,15 +37,15 @@ class NotificationSender:
             response = messaging.send_multicast(message)
             NotificationSender.logger.info('%d messages were sent successfully', response.success_count)
         except Exception as e:
-            NotificationSender.logger.exception("Wystąpił błąd podczas wysyłania powiadomień. %s", str(e))
+            NotificationSender.logger.exception("An error occurred while sending notifications. %s", str(e))
 
     @staticmethod
     def validate_fcm_tokens(fcm_tokens):
         if not isinstance(fcm_tokens, list):
-            raise ValueError("fcm_tokens musi być listą tokenów FCM")
+            raise ValueError("fcm_tokens must be a list of tokens FCM")
         for token in fcm_tokens:
             if not isinstance(token, str) or not token:
-                raise ValueError("Nieprawidłowy token FCM")
+                raise ValueError("Invalid FCM token")
 
 
 

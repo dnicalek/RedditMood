@@ -61,8 +61,8 @@ class FileAndFoldersProcessor:
         try:
             with open(input_file, "r", encoding="utf-8") as f:
                 text = f.read()
-                lines = re.split(r'\n\s*\n', text)  # Podział na posty po dowolnej liczbie nowych linii
-                num_posts = sum(1 for post in lines if post.strip())  # Pominięcie pustych postów
+                lines = re.split(r'\n\s*\n', text)  # # Split into posts after any number of new lines
+                num_posts = sum(1 for post in lines if post.strip())  # Skipping empty posts
 
             FileAndFoldersProcessor.logger.info("Read lines from file. Number of posts: %s", num_posts)
             return lines, num_posts

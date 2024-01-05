@@ -11,17 +11,17 @@ class TimeProcessor:
         try:
             current_datetime = datetime.now()
             timestamp = current_datetime.timestamp()
-            TimeProcessor.logger.info(f"Aktualny znacznik czasu: {timestamp}")
+            TimeProcessor.logger.info(f"Current timestamp: {timestamp}")
             return timestamp
         except Exception as e:
-            TimeProcessor.logger.exception(f"Błąd podczas pobierania aktualnego znacznika czasu: {str(e)}")
+            TimeProcessor.logger.exception(f"Error getting the current timestamp: {str(e)}")
             return None
 
     @staticmethod
     def delay():
         try:
-            TimeProcessor.logger.info("Opóźnienie na 30 sekund zostało aktywowane.")
+            TimeProcessor.logger.info("The 30 second delay has been activated.")
             time.sleep(30)
         except Exception as e:
-            TimeProcessor.logger.exception(f"Błąd podczas uśpienia programu: {str(e)}")
+            TimeProcessor.logger.exception(f"Error during program sleep: {str(e)}")
             

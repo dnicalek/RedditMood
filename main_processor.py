@@ -34,7 +34,7 @@ class MainProcessor:
                                                self.collection_name, fcm_tokens)
             FirebaseManager.close_connection()
 
-            MainProcessor.logger.info("Operacja zakończona pomyślnie.")
+            MainProcessor.logger.info("The operation was completed successfully.")
         except FileNotFoundError as file_not_found_error:
             MainProcessor.logger.exception("File not found: %s", str(file_not_found_error))
         except PermissionError as permission_error:

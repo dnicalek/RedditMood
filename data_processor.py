@@ -135,5 +135,5 @@ class DataProcessor:
                 except Exception as e:
                     DataProcessor.logger.exception(f"Error processing file {input_file}: {str(e)}")
 
-        #NotificationSender.validate_fcm_tokens(fcm_tokens)
-        #NotificationSender.send_notification_to_devices(fcm_tokens)
+        NotificationSender.validate_fcm_tokens(fcm_tokens)
+        NotificationSender.send_notification_to_devices(fcm_tokens)
