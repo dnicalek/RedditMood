@@ -7,9 +7,9 @@ import prawcore
 
 def initialize_reddit():
     return praw.Reddit(
-        client_id="6eRLPzH5jqJOOTp_Sc0pRw",
-        client_secret="g8Vj3e8-QKZ79xp4ii_A-6XSYjSGfA",
-        user_agent="TradeMood by u/mrbear_1"
+        client_id="YOUR-CLIENT-ID",
+        client_secret="YOUR-CLIENT-SECRET",
+        user_agent="YOUR-USER-AGENT"
     )
 
 def load_state(subreddit_list, state_folder_path):
