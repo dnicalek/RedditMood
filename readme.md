@@ -1,4 +1,5 @@
 # TradeMood: an app for monitoring and forecasting investor sentiments
+
 TradeMood is an  application leveraging state-of-the-art natural language processing techniques to analyze sentiment from Reddit user discussions. The project employs a fine-tuned BERT model to assess sentiment across various cryptocurrency-related discussions on Reddit. 
 Through a modular architecture, it efficiently gathers, processes, and analyzes Reddit data to provide valuable insights to users.
 
