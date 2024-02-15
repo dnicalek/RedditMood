@@ -3,7 +3,7 @@
 TradeMood is an  application leveraging state-of-the-art natural language processing techniques to analyze sentiment from Reddit user discussions. The project employs a fine-tuned BERT model to assess sentiment across various cryptocurrency-related discussions on Reddit. 
 Through a modular architecture, it efficiently gathers, processes, and analyzes Reddit data to provide valuable insights to users.
 
-Features:
+## Features:
 
 Reddit Data Acquisition Module: This module interfaces with the Reddit API through PRAW to gather posts, comments, and replies relevant to cryptocurrency discussions. It fetches data in real-time to ensure the latest information is analyzed.
 
