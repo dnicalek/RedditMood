@@ -5,21 +5,21 @@ Through a modular architecture, it efficiently gathers, processes, and analyzes 
 
 ## Features:
 
-Reddit Data Acquisition Module: This module interfaces with the Reddit API through PRAW to gather posts, comments, and replies relevant to cryptocurrency discussions. It fetches data in real-time to ensure the latest information is analyzed.
+- Reddit Data Acquisition Module: This module interfaces with the Reddit API through PRAW to gather posts, comments, and replies relevant to cryptocurrency discussions. It fetches data in real-time to ensure the latest information is analyzed.
 
-Data Processing and Storage Module: After fetching the Reddit data, this module processes and stores it in appropriate formats. Utilizing NLTK for text data cleaning and normalization ensures high-quality input for sentiment analysis.
+- Data Processing and Storage Module: After fetching the Reddit data, this module processes and stores it in appropriate formats. Utilizing NLTK for text data cleaning and normalization ensures high-quality input for sentiment analysis.
 
-Sentiment Analysis Module: The core component of the application, this module employs a trained BERT model to analyze the sentiment of Reddit discussions. It provides graphical representations of sentiment trends over time.
+- Sentiment Analysis Module: The core component of the application, this module employs a trained BERT model to analyze the sentiment of Reddit discussions. It provides graphical representations of sentiment trends over time.
 
-Reddit User Activity Analysis Module: This module calculates the daily and weekly volatility of Reddit user activities related to various cryptocurrencies. By measuring the percentage change in the number of posts, comments, and replies, it offers insights into community engagement dynamics.
+- Reddit User Activity Analysis Module: This module calculates the daily and weekly volatility of Reddit user activities related to various cryptocurrencies. By measuring the percentage change in the number of posts, comments, and replies, it offers insights into community engagement dynamics.
 
-Database Integration with Google Firestore: Results from sentiment analysis and user activity calculations are stored and transmitted to Google Firestore, ensuring secure and scalable data management.
+- Database Integration with Google Firestore: Results from sentiment analysis and user activity calculations are stored and transmitted to Google Firestore, ensuring secure and scalable data management.
 
-Mobile and Web Application Interface: Users access sentiment analysis results and user activity trends through intuitive graphical representations in both mobile and web applications. Real-time updates ensure users have access to the latest insights.
+- Mobile and Web Application Interface: Users access sentiment analysis results and user activity trends through intuitive graphical representations in both mobile and web applications. Real-time updates ensure users have access to the latest insights.
 
-Cryptocurrency Price Tracker: Alongside sentiment analysis and user activity trends, the application provides real-time cryptocurrency prices, enabling users to correlate market sentiment with price movements.
+- Cryptocurrency Price Tracker: Alongside sentiment analysis and user activity trends, the application provides real-time cryptocurrency prices, enabling users to correlate market sentiment with price movements.
 
-Interactive Discussion Board: Registered users can engage in discussions and share insights on a dedicated discussion board within the application. This fosters a collaborative environment for cryptocurrency enthusiasts to exchange ideas and information.
+- Interactive Discussion Board: Registered users can engage in discussions and share insights on a dedicated discussion board within the application. This fosters a collaborative environment for cryptocurrency enthusiasts to exchange ideas and information.
 
 
 
