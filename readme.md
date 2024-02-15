@@ -22,17 +22,17 @@ Through a modular architecture, it efficiently gathers, processes, and analyzes 
 - Interactive Discussion Board: Registered users can engage in discussions and share insights on a dedicated discussion board within the application. This fosters a collaborative environment for cryptocurrency enthusiasts to exchange ideas and information.
 
 
-
-1.Open PowerShell:
+## How to run a project? 
+1. Open PowerShell:
 You can open PowerShell by typing "PowerShell" in the Start menu.
 Once open, navigate to the directory where you have saved your script.
 Set-Location "path\to\your\script\directory"
 
-2.Enabling Script Execution: If you haven't set the script execution policy, you may need to change it.
+2. Enabling Script Execution: If you haven't set the script execution policy, you may need to change it.
 Run PowerShell as an administrator and enter the following command:
 Set-ExecutionPolicy RemoteSigned
 
-3.Run the Script:
+3. Run the Script:
 In PowerShell, enter the command to execute your script:
 .\run_trade_mood.ps1
 
@@ -41,10 +41,10 @@ on your local device using a development environment such as PyCharm.
 Follow these steps:
 1) Open Your IDE: Launch your preferred Python development environment, for example, PyCharm.
 
-2)Navigate to the Scripts: Using the IDE's file explorer,
+2) Navigate to the Scripts: Using the IDE's file explorer,
 navigate to the directory where reddit_data_downloader.py and main_processor.py are located.
 
-3)Execute Scripts: Open each script in the IDE
+3) Execute Scripts: Open each script in the IDE
 and use the run or execute command to run them individually.
 - for reddit_data_downloader.py, locate the script in your IDE, open it, and run or execute it.
 - Similarly, do the same for main_processor.py.
